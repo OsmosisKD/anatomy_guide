@@ -1,0 +1,47 @@
+{
+  "title":"The Osmosis 3D Guide to Anatomy",
+  "chapters":[
+    {
+      "name":"Thorax",
+      "sections": [
+        {"name": "Chest"}
+      ]
+    },
+    {
+      "name":"Abdomen",
+      "sections": [
+      ]
+    },
+    {
+      "name":"Pelvis",
+      "sections": [
+      ]
+    },
+    {
+      "name":"Upper_Limb",
+      "sections": [
+      ]
+    },
+    {
+      "name":"Lower_Limb",
+      "sections": [
+      ]
+    },
+    {
+      "name":"Back",
+      "sections": [
+      ]
+    },
+    {
+      "name":"Arms",
+      "sections": [
+      ]
+    },
+    {
+      "name":"Cranial_Nerves",
+      "sections": [
+      ]
+    }
+  ]
+}
+
