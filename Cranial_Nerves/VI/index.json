@@ -1,0 +1,72 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-120",
+        "z": "1500"
+      },
+      "camera": {
+        "pos": {
+          "x": "-43",
+          "y": "-220",
+          "z": "1573"
+        },
+        "up": {
+          "x": "0.24",
+          "y": "-0.05",
+          "z": "0.98"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "temporal bone"
+    },
+    {
+      "part": "maxilla"
+    },
+    {
+      "part": "occipital bone - isa"
+    },
+    {
+      "part": "zygomatic bone"
+    },
+    {
+      "part": "brainstem"
+    },
+    {
+      "part": "sphenoid bone - isa"
+    },
+    {
+      "part": "superior rectus",
+      "color": "white"
+    },
+    {
+      "part": "inferior rectus",
+      "color": "white"
+    },
+    {
+      "part": "superior oblique",
+      "color": "white"
+    },
+    {
+      "part": "lateral rectus",
+      "color": "red"
+    },
+    {
+      "part": "medial rectus",
+      "color": "white"
+    },
+    {
+      "part": "inferior oblique",
+      "color": "white"
+    },
+    {
+      "part": "levator palpebrae superioris",
+      "color": "white"
+    }
+  ]
+}

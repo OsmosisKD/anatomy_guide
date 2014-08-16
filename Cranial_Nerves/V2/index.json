@@ -41,46 +41,12 @@
       "part": "sphenoid bone - isa"
     },
     {
-      "part": "supratrochlear nerve",
-      "color": "fuchsia"
-    },
-    {
-      "part": "frontal nerve",
-      "color": "yellow"
-    },
-    {
-      "part": "ciliary ganglion",
-      "color": "red"
-    },
-    {
       "part": "frontal bone - isa",
       "opacity": "0.5"
     },
     {
       "part": "optic part of retina",
       "opacity": "0.5"
-    },
-    {
-      "part": "posterior ethmoidal nerve",
-      "color": "green"
-    },
-    {
-      "part": "long ciliary nerve",
-      "color": "pink"
-    },
-    {
-      "part": "ophthalmic nerve"
-    },
-    {
-      "part": "anterior ethmoidal nerve",
-      "color": "brown"
-    },
-    {
-      "part": "infratrochlear nerve",
-      "color": "purple"
-    },
-    {
-      "part": "nasociliary nerve"
     }
   ]
 }

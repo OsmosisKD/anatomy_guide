@@ -1,0 +1,60 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-120",
+        "z": "1500"
+      },
+      "camera": {
+        "pos": {
+          "x": "-17",
+          "y": "-118",
+          "z": "1652"
+        },
+        "up": {
+          "x": "-0.88",
+          "y": "-0.45",
+          "z": "0.11"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "temporal bone"
+    },
+    {
+      "part": "maxilla"
+    },
+    {
+      "part": "occipital bone - isa"
+    },
+    {
+      "part": "zygomatic bone"
+    },
+    {
+      "part": "brainstem"
+    },
+    {
+      "part": "sphenoid bone - isa"
+    },
+    {
+      "part": "optic nerve",
+      "color": "yellow"
+    },
+    {
+      "part": "optic part of retina",
+      "color": "white"
+    },
+    {
+      "part": "optic chiasm",
+      "color": "yellow"
+    },
+    {
+      "part": "optic tract",
+      "color": "yellow"
+    }
+  ]
+}

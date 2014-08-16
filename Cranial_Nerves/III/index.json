@@ -1,0 +1,76 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-120",
+        "z": "1500"
+      },
+      "camera": {
+        "pos": {
+          "x": "-16",
+          "y": "-247",
+          "z": "1528"
+        },
+        "up": {
+          "x": "0.00",
+          "y": "-0.30",
+          "z": "0.96"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "cranial nerve",
+      "color": "yellow"
+    },
+    {
+      "part": "temporal bone"
+    },
+    {
+      "part": "maxilla"
+    },
+    {
+      "part": "occipital bone - isa"
+    },
+    {
+      "part": "zygomatic bone"
+    },
+    {
+      "part": "brainstem"
+    },
+    {
+      "part": "sphenoid bone - isa"
+    },
+    {
+      "part": "superior rectus",
+      "color": "red"
+    },
+    {
+      "part": "inferior rectus",
+      "color": "red"
+    },
+    {
+      "part": "superior oblique",
+      "color": "white"
+    },
+    {
+      "part": "lateral rectus",
+      "color": "white"
+    },
+    {
+      "part": "medial rectus",
+      "color": "red"
+    },
+    {
+      "part": "inferior oblique",
+      "color": "red"
+    },
+    {
+      "part": "levator palpebrae superioris",
+      "color": "red"
+    }
+  ]
+}
