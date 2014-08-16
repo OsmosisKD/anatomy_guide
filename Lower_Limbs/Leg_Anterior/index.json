@@ -1,0 +1,54 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-75",
+        "y": "-90",
+        "z": "160"
+      },
+      "camera": {
+        "pos": {
+          "x": "-684",
+          "y": "-271",
+          "z": "57"
+        },
+        "up": {
+          "x": "0",
+          "y": "0",
+          "z": "1"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right tibia - isa"
+    },
+    {
+      "part": "right fibula - isa"
+    },
+    {
+      "part": "right talus - isa"
+    },
+    {
+      "part": "right calcaneus - isa"
+    },
+    {
+      "part": "right foot",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right tibialis anterior"
+    },
+    {
+      "part": "right extensor hallucis longus"
+    },
+    {
+      "part": "right extensor digitorum longus"
+    },
+    {
+      "part": "right fibularis tertius"
+    }
+  ]
+}

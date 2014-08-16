@@ -1,0 +1,43 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-250",
+        "y": "-120",
+        "z": "800"
+      },
+      "camera": {
+        "pos": {
+          "x": "-268",
+          "y": "-218",
+          "z": "713"
+        },
+        "up": {
+          "x": "0.27",
+          "y": "0.31",
+          "z": "0.92"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "opponens digiti minimi of right hand"
+    },
+    {
+      "part": "flexor digiti minimi brevis of right hand"
+    },
+    {
+      "part": "abductor digiti minimi of right hand"
+    }
+  ]
+}

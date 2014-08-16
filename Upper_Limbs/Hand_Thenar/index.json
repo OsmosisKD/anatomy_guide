@@ -1,0 +1,47 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-250",
+        "y": "-120",
+        "z": "800"
+      },
+      "camera": {
+        "pos": {
+          "x": "-425",
+          "y": "-178",
+          "z": "776"
+        },
+        "up": {
+          "x": "0.92",
+          "y": "-0.14",
+          "z": "0.38"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "transverse head of right adductor pollicis"
+    },
+    {
+      "part": "oblique head of right adductor pollicis"
+    },
+    {
+      "part": "left flexor pollicis brevis",
+      "color": "fuchsia"
+    },
+    {
+      "part": "right opponens pollicis"
+    }
+  ]
+}

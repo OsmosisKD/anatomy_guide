@@ -1,0 +1,52 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-230",
+        "y": "-90",
+        "z": "920"
+      },
+      "camera": {
+        "pos": {
+          "x": "-389",
+          "y": "-358",
+          "z": "655"
+        },
+        "up": {
+          "x": "0.06",
+          "y": "-0.53",
+          "z": "0.83"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right humerus - isa"
+    },
+    {
+      "part": "right radius - isa"
+    },
+    {
+      "part": "right ulna - isa"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right flexor digitorum profundus"
+    },
+    {
+      "part": "right flexor pollicis longus"
+    },
+    {
+      "part": "right pronator quadratus"
+    }
+  ]
+}

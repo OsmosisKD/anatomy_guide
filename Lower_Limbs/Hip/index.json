@@ -1,0 +1,69 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "0",
+        "z": "800"
+      },
+      "camera": {
+        "pos": {
+          "x": "96",
+          "y": "-503",
+          "z": "900"
+        },
+        "up": {
+          "x": "0.20",
+          "y": "-0.11",
+          "z": "0.96"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "bony pelvis",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "vertebra"
+    },
+    {
+      "part": "right psoas major - isa"
+    },
+    {
+      "part": "femur"
+    },
+    {
+      "part": "right iliacus"
+    },
+    {
+      "part": "right gluteus maximus"
+    },
+    {
+      "part": "right gluteus medius"
+    },
+    {
+      "part": "right gluteus minimus"
+    },
+    {
+      "part": "left tensor fasciae latae"
+    },
+    {
+      "part": "iliotibial tract"
+    },
+    {
+      "part": "left piriformis - isa"
+    },
+    {
+      "part": "left obturator internus - isa"
+    },
+    {
+      "part": "left gemellus superior"
+    },
+    {
+      "part": "left gemellus inferior"
+    }
+  ]
+}

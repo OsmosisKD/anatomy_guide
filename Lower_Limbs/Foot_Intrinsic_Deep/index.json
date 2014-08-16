@@ -1,0 +1,70 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-70",
+        "y": "-70",
+        "z": "-20"
+      },
+      "camera": {
+        "pos": {
+          "x": "80",
+          "y": "-386",
+          "z": "-268"
+        },
+        "up": {
+          "x": "-0.20",
+          "y": "-0.92",
+          "z": "0.38"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right talus - isa"
+    },
+    {
+      "part": "right calcaneus - isa"
+    },
+    {
+      "part": "right foot",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "first lumbrical of right foot"
+    },
+    {
+      "part": "second lumbrical of right foot"
+    },
+    {
+      "part": "third lumbrical of right foot"
+    },
+    {
+      "part": "fourth lumbrical of right foot"
+    },
+    {
+      "part": "flexor digiti minimi brevis of right foot"
+    },
+    {
+      "part": "opponens digiti minimi of right foot"
+    },
+    {
+      "part": "first plantar interosseous of right foot"
+    },
+    {
+      "part": "second plantar interosseous of right foot"
+    },
+    {
+      "part": "third plantar interosseous of right foot"
+    },
+    {
+      "part": "medial head of right flexor hallucis brevis",
+      "color": "fuchsia"
+    },
+    {
+      "part": "lateral head of right flexor hallucis brevis"
+    }
+  ]
+}

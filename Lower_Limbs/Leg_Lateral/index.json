@@ -1,0 +1,48 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-75",
+        "y": "-90",
+        "z": "180"
+      },
+      "camera": {
+        "pos": {
+          "x": "-8",
+          "y": "487",
+          "z": "160"
+        },
+        "up": {
+          "x": "0",
+          "y": "0",
+          "z": "1"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right tibia - isa"
+    },
+    {
+      "part": "right fibula - isa"
+    },
+    {
+      "part": "right talus - isa"
+    },
+    {
+      "part": "right calcaneus - isa"
+    },
+    {
+      "part": "right foot",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right fibularis longus"
+    },
+    {
+      "part": "right fibularis brevis"
+    }
+  ]
+}

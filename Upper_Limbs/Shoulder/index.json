@@ -1,0 +1,35 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-170",
+        "y": "-80",
+        "z": "1320"
+      },
+      "camera": {
+        "pos": {
+          "x": "-265",
+          "y": "-269",
+          "z": "1411"
+        },
+        "up": {
+          "x": "0.91",
+          "y": "-0.20",
+          "z": "0.38"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right clavicle - isa"
+    },
+    {
+      "part": "right humerus - isa"
+    },
+    {
+      "part": "right scapula - isa"
+    }
+  ]
+}

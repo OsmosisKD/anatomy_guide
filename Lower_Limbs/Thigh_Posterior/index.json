@@ -1,0 +1,54 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-95",
+        "y": "-95",
+        "z": "595"
+      },
+      "camera": {
+        "pos": {
+          "x": "590",
+          "y": "-416",
+          "z": "596"
+        },
+        "up": {
+          "x": "-0.17",
+          "y": "-0.37",
+          "z": "0.91"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "bony pelvis",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right femur - isa"
+    },
+    {
+      "part": "right patella - isa"
+    },
+    {
+      "part": "right tibia - isa"
+    },
+    {
+      "part": "right fibula - isa"
+    },
+    {
+      "part": "long head of right biceps femoris"
+    },
+    {
+      "part": "short head of right biceps femoris"
+    },
+    {
+      "part": "right semimembranosus"
+    },
+    {
+      "part": "right semitendinosus"
+    }
+  ]
+}

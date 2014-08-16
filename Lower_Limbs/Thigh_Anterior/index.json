@@ -1,0 +1,57 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-95",
+        "y": "-95",
+        "z": "595"
+      },
+      "camera": {
+        "pos": {
+          "x": "-154",
+          "y": "-841",
+          "z": "707"
+        },
+        "up": {
+          "x": "-0.05",
+          "y": "0.15",
+          "z": "0.99"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "bony pelvis",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right femur - isa"
+    },
+    {
+      "part": "right patella - isa"
+    },
+    {
+      "part": "right tibia - isa"
+    },
+    {
+      "part": "right fibula - isa"
+    },
+    {
+      "part": "right sartorius"
+    },
+    {
+      "part": "right rectus femoris"
+    },
+    {
+      "part": "right vastus medialis"
+    },
+    {
+      "part": "right vastus lateralis"
+    },
+    {
+      "part": "right vastus intermedius"
+    }
+  ]
+}

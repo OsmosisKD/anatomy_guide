@@ -1,0 +1,64 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-75",
+        "y": "-90",
+        "z": "160"
+      },
+      "camera": {
+        "pos": {
+          "x": "184",
+          "y": "97",
+          "z": "40"
+        },
+        "up": {
+          "x": "0.16",
+          "y": "0.12",
+          "z": "0.99"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "tibia"
+    },
+    {
+      "part": "fibula"
+    },
+    {
+      "part": "talus"
+    },
+    {
+      "part": "calcaneus"
+    },
+    {
+      "part": "right foot",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "patella"
+    },
+    {
+      "part": "femur"
+    },
+    {
+      "part": "left foot",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "tibialis posterior"
+    },
+    {
+      "part": "right flexor digitorum longus"
+    },
+    {
+      "part": "right flexor hallucis longus"
+    },
+    {
+      "part": "right popliteus"
+    }
+  ]
+}

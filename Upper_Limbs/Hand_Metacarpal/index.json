@@ -1,0 +1,46 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-250",
+        "y": "-120",
+        "z": "800"
+      },
+      "camera": {
+        "pos": {
+          "x": "-332",
+          "y": "-58",
+          "z": "443"
+        },
+        "up": {
+          "x": "0.51",
+          "y": "0.24",
+          "z": "0.83"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "set of lumbricals of right hand",
+      "color": "#FF8000"
+    },
+    {
+      "part": "set of palmar interossei of right hand",
+      "color": "#FF8000"
+    },
+    {
+      "part": "set of dorsal interossei of right hand",
+      "color": "#FF8000"
+    }
+  ]
+}

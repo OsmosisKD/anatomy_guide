@@ -1,0 +1,58 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-190",
+        "y": "-70",
+        "z": "1180"
+      },
+      "camera": {
+        "pos": {
+          "x": "-353",
+          "y": "-276",
+          "z": "1047"
+        },
+        "up": {
+          "x": "-0.34",
+          "y": "0.38",
+          "z": "0.85"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right humerus - isa"
+    },
+    {
+      "part": "right radius - isa"
+    },
+    {
+      "part": "right ulna - isa"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "long head of right triceps brachii"
+    },
+    {
+      "part": "medial head of right triceps brachii"
+    },
+    {
+      "part": "lateral head of right triceps brachii"
+    },
+    {
+      "part": "right anconeus - isa"
+    },
+    {
+      "part": "right scapula - isa"
+    }
+  ]
+}

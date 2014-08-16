@@ -1,0 +1,42 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-95",
+        "y": "-95",
+        "z": "595"
+      },
+      "camera": {
+        "pos": {
+          "x": "-223",
+          "y": "-841",
+          "z": "599"
+        },
+        "up": {
+          "x": "0",
+          "y": "0",
+          "z": "1"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "bony pelvis",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right femur - isa"
+    },
+    {
+      "part": "right obturator externus"
+    },
+    {
+      "part": "right adductor minimus"
+    },
+    {
+      "part": "right adductor magnus"
+    }
+  ]
+}

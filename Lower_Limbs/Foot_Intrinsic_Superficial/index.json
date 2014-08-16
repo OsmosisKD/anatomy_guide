@@ -1,0 +1,45 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-70",
+        "y": "-70",
+        "z": "-20"
+      },
+      "camera": {
+        "pos": {
+          "x": "-304",
+          "y": "-242",
+          "z": "-335"
+        },
+        "up": {
+          "x": "-0.26",
+          "y": "-0.96",
+          "z": "0.19"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right talus - isa"
+    },
+    {
+      "part": "right calcaneus - isa"
+    },
+    {
+      "part": "right foot",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right flexor digitorum brevis"
+    },
+    {
+      "part": "right flexor digitorum brevis"
+    },
+    {
+      "part": "abductor digiti minimi of right foot"
+    }
+  ]
+}

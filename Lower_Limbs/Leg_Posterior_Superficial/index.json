@@ -1,0 +1,61 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-75",
+        "y": "-90",
+        "z": "160"
+      },
+      "camera": {
+        "pos": {
+          "x": "-211",
+          "y": "-693",
+          "z": "-22"
+        },
+        "up": {
+          "x": "-0.43",
+          "y": "-0.01",
+          "z": "0.91"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "tibia"
+    },
+    {
+      "part": "fibula"
+    },
+    {
+      "part": "talus"
+    },
+    {
+      "part": "calcaneus"
+    },
+    {
+      "part": "right foot",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "patella"
+    },
+    {
+      "part": "femur"
+    },
+    {
+      "part": "plantaris"
+    },
+    {
+      "part": "medial head of right gastrocnemius"
+    },
+    {
+      "part": "lateral head of right gastrocnemius"
+    },
+    {
+      "part": "left foot",
+      "color": "BlanchedAlmond"
+    }
+  ]
+}

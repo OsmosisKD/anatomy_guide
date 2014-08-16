@@ -1,0 +1,61 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-230",
+        "y": "-90",
+        "z": "920"
+      },
+      "camera": {
+        "pos": {
+          "x": "-347",
+          "y": "-346",
+          "z": "840"
+        },
+        "up": {
+          "x": "0.28",
+          "y": "-0.18",
+          "z": "0.93"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right humerus - isa"
+    },
+    {
+      "part": "right radius - isa"
+    },
+    {
+      "part": "right ulna - isa"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "humeral head of right pronator teres"
+    },
+    {
+      "part": "ulnar head of right pronator teres"
+    },
+    {
+      "part": "right flexor carpi radialis"
+    },
+    {
+      "part": "right palmaris longus"
+    },
+    {
+      "part": "humeral head of right flexor carpi ulnaris"
+    },
+    {
+      "part": "ulnar head of right flexor carpi ulnaris"
+    }
+  ]
+}

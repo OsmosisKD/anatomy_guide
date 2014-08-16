@@ -1,0 +1,39 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-70",
+        "y": "-70",
+        "z": "-20"
+      },
+      "camera": {
+        "pos": {
+          "x": "-394",
+          "y": "-346",
+          "z": "93"
+        },
+        "up": {
+          "x": "-0.06",
+          "y": "-0.14",
+          "z": "1.00"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right talus - isa"
+    },
+    {
+      "part": "right calcaneus - isa"
+    },
+    {
+      "part": "right foot",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right extensor hallucis brevis"
+    }
+  ]
+}
