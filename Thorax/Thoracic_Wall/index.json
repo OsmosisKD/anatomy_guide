@@ -1,0 +1,113 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-120",
+        "z": "1250"
+      },
+      "camera": {
+        "pos": {
+          "x": "0",
+          "y": "-600",
+          "z": "1250"
+        },
+        "up": {
+          "x": "0",
+          "y": "0",
+          "z": "1"
+        }
+      },
+      "caption": "Subcostals not pictured."
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "sternal part of chest",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "costal cartilage"
+    },
+    {
+      "part": "first rib",
+      "color": "LightPink"
+    },
+    {
+      "part": "second rib",
+      "color": "LightPink"
+    },
+    {
+      "part": "third rib",
+      "color": "LightPink"
+    },
+    {
+      "part": "fourth rib",
+      "color": "LightPink"
+    },
+    {
+      "part": "fifth rib",
+      "color": "LightPink"
+    },
+    {
+      "part": "sixth rib",
+      "color": "LightPink"
+    },
+    {
+      "part": "seventh rib",
+      "color": "LightPink"
+    },
+    {
+      "part": "eighth rib",
+      "color": "LightCyan"
+    },
+    {
+      "part": "ninth rib",
+      "color": "LightCyan"
+    },
+    {
+      "part": "tenth rib",
+      "color": "LightCyan"
+    },
+    {
+      "part": "eleventh rib",
+      "color": "LightGreen"
+    },
+    {
+      "part": "twelfth rib",
+      "color": "LightGreen"
+    },
+    {
+      "part": "thoracic vertebra",
+      "color": "Cyan"
+    },
+    {
+      "part": "cervical vertebra",
+      "color": "ForestGreen"
+    },
+    {
+      "part": "scapula"
+    },
+    {
+      "part": "clavicle"
+    },
+    {
+      "part": "lumbar vertebra",
+      "color": "DarkOrchid"
+    },
+    {
+      "part": "scalene muscle"
+    },
+    {
+      "part": "external intercostal muscle"
+    },
+    {
+      "part": "internal intercostal muscle",
+      "color": "SaddleBrown"
+    },
+    {
+      "part": "transversus thoracis",
+      "color": "Magenta"
+    }
+  ]
+}
