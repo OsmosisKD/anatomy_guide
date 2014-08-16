@@ -1,0 +1,47 @@
+{
+  "origin": {
+    "x": "0",
+    "y": "0",
+    "z": "0"
+  },
+  "camera": {
+    "x": "0",
+    "y": "-360",
+    "z": "750"
+  },
+  "anatomy": [
+    {
+      "part": "right extensor digitorum longus"
+    },
+    {
+      "part": "right femur",
+      "color": "FF0000"
+    },
+    {
+      "part": "right tibia"
+    },
+    {
+      "part": "right fibula"
+    },
+    {
+      "part": "right talus"
+    },
+    {
+      "part": "right tibialis anterior"
+    },
+    {
+      "part": "right patella"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Muscle",
+      "pos": {
+        "x": "0",
+        "y": "0",
+        "z": "0"
+      },
+      "mesh": "FJ1406"
+    }
+  ]
+}

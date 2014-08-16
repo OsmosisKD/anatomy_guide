@@ -1,0 +1,85 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-80",
+        "z": "1500"
+      },
+      "camera": {
+        "pos": {
+          "x": "-14",
+          "y": "-303",
+          "z": "1464"
+        },
+        "up": {
+          "x": "0.19",
+          "y": "-0.17",
+          "z": "0.97"
+        }
+      },
+      "caption": "test caption"
+    },
+    {
+      "origin": {
+        "x": "0",
+        "y": "0",
+        "z": "1500"
+      },
+      "camera": {
+        "pos": {
+          "x": "-187",
+          "y": "-161",
+          "z": "1600"
+        },
+        "up": {
+          "x": "0.47",
+          "y": "-0.66",
+          "z": "0.59"
+        }
+      },
+      "caption": "this is an explanation"
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "basilar artery - partof"
+    },
+    {
+      "part": "ophthalmic nerve",
+      "color": "#FF00FF"
+    },
+    {
+      "part": "cranial nerve"
+    },
+    {
+      "part": "temporal bone",
+      "color": "#FFEBCD"
+    },
+    {
+      "part": "maxilla",
+      "color": "#FFEBCD"
+    },
+    {
+      "part": "occipital bone - isa",
+      "color": "#FFEBCD"
+    },
+    {
+      "part": "zygomatic bone",
+      "color": "#FFEBCD"
+    },
+    {
+      "part": "brainstem"
+    },
+    {
+      "part": "sphenoid bone - isa"
+    },
+    {
+      "part": "frontal nerve",
+      "color": "yellow"
+    },
+    {
+      "part": "lacrimal nerve"
+    }
+  ]
+}
