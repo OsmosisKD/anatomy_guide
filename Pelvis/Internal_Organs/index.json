@@ -1,0 +1,57 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "0",
+        "z": "800"
+      },
+      "camera": {
+        "pos": {
+          "x": "-116",
+          "y": "-657",
+          "z": "972"
+        },
+        "up": {
+          "x": "0.61",
+          "y": "0.10",
+          "z": "0.79"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "bony pelvis",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "vertebra"
+    },
+    {
+      "part": "puborectalis"
+    },
+    {
+      "part": "pubococcygeus"
+    },
+    {
+      "part": "iliococcygeus"
+    },
+    {
+      "part": "piriformis"
+    },
+    {
+      "part": "obturator internus"
+    },
+    {
+      "part": "external anal sphincter - isa"
+    },
+    {
+      "part": "urinary system"
+    },
+    {
+      "part": "large intestine"
+    }
+  ]
+}
