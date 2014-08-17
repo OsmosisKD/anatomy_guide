@@ -1,0 +1,68 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-120",
+        "z": "1030"
+      },
+      "camera": {
+        "pos": {
+          "x": "-21",
+          "y": "-430",
+          "z": "1037"
+        },
+        "up": {
+          "x": "-0.06",
+          "y": "0.03",
+          "z": "1.00"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "abdominal aorta - isa"
+    },
+    {
+      "part": "celiac trunk - isa"
+    },
+    {
+      "part": "middle suprarenal artery"
+    },
+    {
+      "part": "superior mesenteric artery - isa"
+    },
+    {
+      "part": "renal artery"
+    },
+    {
+      "part": "lumbar artery"
+    },
+    {
+      "part": "testicular artery"
+    },
+    {
+      "part": "inferior mesenteric artery - isa"
+    },
+    {
+      "part": "common iliac artery - isa"
+    },
+    {
+      "part": "thoracic vertebra",
+      "color": "Cyan"
+    },
+    {
+      "part": "lumbar vertebra",
+      "color": "DarkOrchid"
+    },
+    {
+      "part": "diaphragm - isa"
+    },
+    {
+      "part": "kidney",
+      "color": "brown"
+    }
+  ]
+}

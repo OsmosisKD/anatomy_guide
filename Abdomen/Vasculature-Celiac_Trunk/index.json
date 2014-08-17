@@ -1,0 +1,64 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "10",
+        "y": "-110",
+        "z": "1090"
+      },
+      "camera": {
+        "pos": {
+          "x": "33",
+          "y": "-302",
+          "z": "1090"
+        },
+        "up": {
+          "x": "-0.41",
+          "y": "-0.05",
+          "z": "0.91"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "abdominal aorta - isa"
+    },
+    {
+      "part": "diaphragm - isa"
+    },
+    {
+      "part": "celiac trunk - isa"
+    },
+    {
+      "part": "left gastric artery - isa"
+    },
+    {
+      "part": "common hepatic artery - isa"
+    },
+    {
+      "part": "right gastric artery - isa",
+      "color": "green"
+    },
+    {
+      "part": "gastroduodenal artery",
+      "color": "yellow"
+    },
+    {
+      "part": "splenic artery - isa"
+    },
+    {
+      "part": "stomach - isa",
+      "opacity": "0.5"
+    },
+    {
+      "part": "right gastro-epiploic artery",
+      "color": "pink"
+    },
+    {
+      "part": "left gastro-epiploic artery",
+      "color": "lime"
+    }
+  ]
+}
