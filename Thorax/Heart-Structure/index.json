@@ -1,0 +1,83 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-120",
+        "z": "1250"
+      },
+      "camera": {
+        "pos": {
+          "x": "0",
+          "y": "-342",
+          "z": "1250"
+        },
+        "up": {
+          "x": "0.00",
+          "y": "0.00",
+          "z": "1.00"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "mitral valve",
+      "color": "white"
+    },
+    {
+      "part": "pulmonary valve",
+      "color": "white"
+    },
+    {
+      "part": "aortic valve",
+      "color": "white"
+    },
+    {
+      "part": "tricuspid valve",
+      "color": "white"
+    },
+    {
+      "part": "lateral papillary muscle of left ventricle - isa",
+      "color": "#FF8000"
+    },
+    {
+      "part": "septal papillary muscle of right ventricle - isa",
+      "color": "#FF8000"
+    },
+    {
+      "part": "cavity of left atrium - isa",
+      "opacity": "0.5",
+      "color": "magenta"
+    },
+    {
+      "part": "cavity of left ventricle - isa",
+      "opacity": "0.5",
+      "color": "red"
+    },
+    {
+      "part": "cavity of right ventricle - isa",
+      "opacity": "0.5",
+      "color": "blue"
+    },
+    {
+      "part": "cavity of right atrium - isa",
+      "opacity": "0.5",
+      "color": "SkyBlue"
+    },
+    {
+      "part": "aorta"
+    },
+    {
+      "part": "superior vena cava - isa"
+    },
+    {
+      "part": "inferior vena cava - isa"
+    },
+    {
+      "part": "pulmonary arterial trunk",
+      "color": "purple"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-120",
+        "z": "1310"
+      },
+      "camera": {
+        "pos": {
+          "x": "61",
+          "y": "-427",
+          "z": "1395"
+        },
+        "up": {
+          "x": "-0.04",
+          "y": "0.45",
+          "z": "0.90"
+        }
+      },
+      "caption": "Subcostals not pictured."
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "rib"
+    },
+    {
+      "part": "thoracic vertebra",
+      "color": "Cyan"
+    },
+    {
+      "part": "cervical vertebra",
+      "color": "ForestGreen"
+    },
+    {
+      "part": "lumbar vertebra",
+      "color": "DarkOrchid"
+    },
+    {
+      "part": "clavicle",
+      "opacity": "0.5"
+    },
+    {
+      "part": "brachiocephalic vein"
+    },
+    {
+      "part": "superior vena cava - isa"
+    },
+    {
+      "part": "inferior vena cava - isa"
+    },
+    {
+      "part": "internal jugular vein"
+    },
+    {
+      "part": "brachiocephalic artery - isa"
+    },
+    {
+      "part": "aorta"
+    },
+    {
+      "part": "right subclavian artery - isa"
+    },
+    {
+      "part": "common carotid artery"
+    },
+    {
+      "part": "subclavian artery"
+    },
+    {
+      "part": "azygos vein - isa"
+    },
+    {
+      "part": "hemiazygos vein - isa"
+    },
+    {
+      "part": "internal thoracic vein"
+    },
+    {
+      "part": "trachea - isa"
+    },
+    {
+      "part": "esophagus - isa",
+      "color": "PaleGoldenRod"
+    }
+  ]
+}

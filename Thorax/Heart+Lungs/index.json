@@ -1,0 +1,73 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-120",
+        "z": "1250"
+      },
+      "camera": {
+        "pos": {
+          "x": "0",
+          "y": "-393",
+          "z": "1250"
+        },
+        "up": {
+          "x": "0.00",
+          "y": "0.00",
+          "z": "1.00"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "pulmonary valve",
+      "color": "purple"
+    },
+    {
+      "part": "aorta"
+    },
+    {
+      "part": "superior vena cava - isa"
+    },
+    {
+      "part": "inferior vena cava - isa"
+    },
+    {
+      "part": "pulmonary arterial trunk",
+      "color": "purple"
+    },
+    {
+      "part": "right atrium",
+      "color": "CornflowerBlue"
+    },
+    {
+      "part": "left atrium",
+      "color": "Salmon"
+    },
+    {
+      "part": "right ventricle",
+      "color": "CornflowerBlue"
+    },
+    {
+      "part": "left ventricle",
+      "color": "Salmon"
+    },
+    {
+      "part": "trachea - isa"
+    },
+    {
+      "part": "esophagus - isa",
+      "color": "PaleGoldenRod"
+    },
+    {
+      "part": "tracheobronchial tree"
+    },
+    {
+      "part": "thymus",
+      "color": "green"
+    }
+  ]
+}

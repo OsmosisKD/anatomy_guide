@@ -1,0 +1,90 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-120",
+        "z": "1310"
+      },
+      "camera": {
+        "pos": {
+          "x": "79",
+          "y": "-435",
+          "z": "1312"
+        },
+        "up": {
+          "x": "0.13",
+          "y": "0.24",
+          "z": "0.97"
+        }
+      },
+      "caption": "Subcostals not pictured."
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "rib"
+    },
+    {
+      "part": "thoracic vertebra",
+      "color": "Cyan"
+    },
+    {
+      "part": "cervical vertebra",
+      "color": "ForestGreen"
+    },
+    {
+      "part": "lumbar vertebra",
+      "color": "DarkOrchid"
+    },
+    {
+      "part": "brachiocephalic artery - isa",
+      "color": "DeepPink"
+    },
+    {
+      "part": "clavicle",
+      "opacity": "0.5"
+    },
+    {
+      "part": "left common carotid artery - isa"
+    },
+    {
+      "part": "internal thoracic artery"
+    },
+    {
+      "part": "vertebral artery",
+      "color": "DarkRed"
+    },
+    {
+      "part": "thyrocervical trunk"
+    },
+    {
+      "part": "costocervical trunk"
+    },
+    {
+      "part": "descending thoracic aorta - isa"
+    },
+    {
+      "part": "right subclavian artery - isa",
+      "color": "HotPink"
+    },
+    {
+      "part": "right common carotid artery - isa",
+      "color": "Orchid"
+    },
+    {
+      "part": "aorta"
+    },
+    {
+      "part": "trachea - isa"
+    },
+    {
+      "part": "left subclavian artery - isa",
+      "color": "OrangeRed"
+    },
+    {
+      "part": "esophagus - isa",
+      "color": "PaleGoldenRod"
+    }
+  ]
+}

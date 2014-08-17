@@ -1,0 +1,100 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-120",
+        "z": "1250"
+      },
+      "camera": {
+        "pos": {
+          "x": "-14",
+          "y": "-285",
+          "z": "1132"
+        },
+        "up": {
+          "x": "0.76",
+          "y": "-0.42",
+          "z": "0.49"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "pulmonary valve",
+      "color": "purple"
+    },
+    {
+      "part": "aorta"
+    },
+    {
+      "part": "superior vena cava - isa"
+    },
+    {
+      "part": "inferior vena cava - isa"
+    },
+    {
+      "part": "pulmonary arterial trunk",
+      "color": "purple"
+    },
+    {
+      "part": "right atrium",
+      "color": "CornflowerBlue"
+    },
+    {
+      "part": "left atrium",
+      "opacity": "0.5",
+      "color": "Salmon"
+    },
+    {
+      "part": "right ventricle",
+      "color": "CornflowerBlue"
+    },
+    {
+      "part": "left ventricle",
+      "color": "Salmon"
+    },
+    {
+      "part": "circumflex branch of left coronary artery - isa",
+      "color": "purple"
+    },
+    {
+      "part": "anterior interventricular branch of left coronary artery",
+      "color": "green"
+    },
+    {
+      "part": "left coronary artery",
+      "color": "yellow"
+    },
+    {
+      "part": "posterior ventricular branch of right coronary artery",
+      "color": "#FF8000"
+    },
+    {
+      "part": "right coronary artery",
+      "color": "pink"
+    },
+    {
+      "part": "coronary sinus - isa",
+      "color": "blue"
+    },
+    {
+      "part": "anterior cardiac vein",
+      "color": "cyan"
+    },
+    {
+      "part": "great cardiac vein - isa",
+      "color": "Aqua"
+    },
+    {
+      "part": "small cardiac vein - isa",
+      "color": "brown"
+    },
+    {
+      "part": "middle cardiac vein - isa",
+      "color": "brown"
+    }
+  ]
+}
