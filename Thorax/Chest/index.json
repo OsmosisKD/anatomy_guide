@@ -3,83 +3,108 @@
     {
       "origin": {
         "x": "0",
-        "y": "-80",
-        "z": "1500"
+        "y": "-120",
+        "z": "1250"
       },
       "camera": {
         "pos": {
-          "x": "-14",
-          "y": "-303",
-          "z": "1464"
+          "x": "-34",
+          "y": "-590",
+          "z": "1339"
         },
         "up": {
-          "x": "0.19",
-          "y": "-0.17",
-          "z": "0.97"
+          "x": "0",
+          "y": "0",
+          "z": "1"
         }
       },
-      "caption": "test caption"
-    },
-    {
-      "origin": {
-        "x": "0",
-        "y": "0",
-        "z": "1500"
-      },
-      "camera": {
-        "pos": {
-          "x": "-187",
-          "y": "-161",
-          "z": "1600"
-        },
-        "up": {
-          "x": "0.47",
-          "y": "-0.66",
-          "z": "0.59"
-        }
-      },
-      "caption": "this is an explanation"
+      "caption": "Subcostals not pictured."
     }
   ],
   "anatomy": [
     {
-      "part": "basilar artery - partof"
+      "part": "sternal part of chest",
+      "color": "BlanchedAlmond"
     },
     {
-      "part": "ophthalmic nerve",
-      "color": "#FF00FF"
+      "part": "costal cartilage"
     },
     {
-      "part": "cranial nerve"
+      "part": "first rib",
+      "color": "LightPink"
     },
     {
-      "part": "temporal bone",
-      "color": "#FFEBCD"
+      "part": "second rib",
+      "color": "LightPink"
     },
     {
-      "part": "maxilla",
-      "color": "#FFEBCD"
+      "part": "third rib",
+      "color": "LightPink"
     },
     {
-      "part": "occipital bone - isa",
-      "color": "#FFEBCD"
+      "part": "fourth rib",
+      "color": "LightPink"
     },
     {
-      "part": "zygomatic bone",
-      "color": "#FFEBCD"
+      "part": "fifth rib",
+      "color": "LightPink"
     },
     {
-      "part": "brainstem"
+      "part": "sixth rib",
+      "color": "LightPink"
     },
     {
-      "part": "sphenoid bone - isa"
+      "part": "seventh rib",
+      "color": "LightPink"
     },
     {
-      "part": "frontal nerve",
-      "color": "yellow"
+      "part": "eighth rib",
+      "color": "LightCyan"
     },
     {
-      "part": "lacrimal nerve"
+      "part": "ninth rib",
+      "color": "LightCyan"
+    },
+    {
+      "part": "tenth rib",
+      "color": "LightCyan"
+    },
+    {
+      "part": "eleventh rib",
+      "color": "LightGreen"
+    },
+    {
+      "part": "twelfth rib",
+      "color": "LightGreen"
+    },
+    {
+      "part": "thoracic vertebra",
+      "color": "Cyan"
+    },
+    {
+      "part": "cervical vertebra",
+      "color": "ForestGreen"
+    },
+    {
+      "part": "scapula"
+    },
+    {
+      "part": "clavicle"
+    },
+    {
+      "part": "clavicular part of right pectoralis major"
+    },
+    {
+      "part": "humerus"
+    },
+    {
+      "part": "abdominal part of right pectoralis major - isa"
+    },
+    {
+      "part": "right coracobrachialis"
+    },
+    {
+      "part": "sternocostal part of left pectoralis major - isa"
     }
   ]
 }
