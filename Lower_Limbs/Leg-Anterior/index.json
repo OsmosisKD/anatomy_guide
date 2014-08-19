@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-684",
-          "y": "-271",
-          "z": "57"
+          "x": "486",
+          "y": "-474",
+          "z": "150"
         },
         "up": {
-          "x": "0",
-          "y": "0",
-          "z": "1"
+          "x": "-0.09",
+          "y": "0.13",
+          "z": "0.99"
         }
       },
       "caption": ""
@@ -23,16 +23,16 @@
   ],
   "anatomy": [
     {
-      "part": "right tibia - isa"
+      "part": "tibia"
     },
     {
-      "part": "right fibula - isa"
+      "part": "fibula"
     },
     {
-      "part": "right talus - isa"
+      "part": "talus"
     },
     {
-      "part": "right calcaneus - isa"
+      "part": "calcaneus"
     },
     {
       "part": "right foot",
@@ -42,13 +42,65 @@
       "part": "right tibialis anterior"
     },
     {
-      "part": "right extensor hallucis longus"
+      "part": "extensor hallucis longus"
     },
     {
       "part": "right extensor digitorum longus"
     },
     {
-      "part": "right fibularis tertius"
+      "part": "fibularis tertius",
+      "color": ""
+    },
+    {
+      "part": "left foot",
+      "color": "BlanchedAlmond"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Extensor digitorum longus",
+      "pos": {
+        "x": "-115.2",
+        "y": "-73.1",
+        "z": "177.4"
+      },
+      "mesh": "FJ1406"
+    },
+    {
+      "label": "Tibialis anterior",
+      "pos": {
+        "x": "-107.2",
+        "y": "-99.9",
+        "z": "198.8"
+      },
+      "mesh": "FJ1439"
+    },
+    {
+      "label": "Extensor hallucis longus",
+      "pos": {
+        "x": "-97.9",
+        "y": "-197.0",
+        "z": "-49.6"
+      },
+      "mesh": "FJ1408"
+    },
+    {
+      "label": "Extensor hallucis longus",
+      "pos": {
+        "x": "101.0",
+        "y": "-73.0",
+        "z": "133.2"
+      },
+      "mesh": "FJ1408M"
+    },
+    {
+      "label": "Fibularis tertius",
+      "pos": {
+        "x": "97.4",
+        "y": "-69.9",
+        "z": "46.8"
+      },
+      "mesh": "FJ1411M"
     }
   ]
 }

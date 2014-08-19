@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "590",
-          "y": "-416",
-          "z": "596"
+          "x": "-720",
+          "y": "-504",
+          "z": "708"
         },
         "up": {
-          "x": "-0.17",
+          "x": "0.40",
           "y": "-0.37",
-          "z": "0.91"
+          "z": "0.84"
         }
       },
       "caption": ""
@@ -49,6 +49,44 @@
     },
     {
       "part": "right semitendinosus"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Semimembranosus",
+      "pos": {
+        "x": "-19.3",
+        "y": "-55.6",
+        "z": "629.3"
+      },
+      "mesh": "FJ1435"
+    },
+    {
+      "label": "Semitendinosus",
+      "pos": {
+        "x": "-47.5",
+        "y": "-32.1",
+        "z": "696.7"
+      },
+      "mesh": "FJ1436"
+    },
+    {
+      "label": "Long head of biceps femoris",
+      "pos": {
+        "x": "-111.1",
+        "y": "-33.5",
+        "z": "555.1"
+      },
+      "mesh": "FJ1395"
+    },
+    {
+      "label": "Short head of biceps femoris",
+      "pos": {
+        "x": "-103.9",
+        "y": "-77.1",
+        "z": "476.8"
+      },
+      "mesh": "FJ1444"
     }
   ]
 }

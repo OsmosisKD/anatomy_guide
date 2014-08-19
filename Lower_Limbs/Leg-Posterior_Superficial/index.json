@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-211",
-          "y": "-693",
-          "z": "-22"
+          "x": "-151",
+          "y": "511",
+          "z": "381"
         },
         "up": {
-          "x": "-0.43",
-          "y": "-0.01",
-          "z": "0.91"
+          "x": "-0.05",
+          "y": "-0.49",
+          "z": "0.88"
         }
       },
       "caption": ""
@@ -56,6 +56,47 @@
     {
       "part": "left foot",
       "color": "BlanchedAlmond"
+    },
+    {
+      "part": "soleus"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Lateral head of gastrocnemius",
+      "pos": {
+        "x": "-90.7",
+        "y": "-7.5",
+        "z": "267.9"
+      },
+      "mesh": "FJ1394"
+    },
+    {
+      "label": "Medial head of gastrocnemius",
+      "pos": {
+        "x": "-40.8",
+        "y": "-18.5",
+        "z": "232.9"
+      },
+      "mesh": "FJ1397"
+    },
+    {
+      "label": "Plantaris",
+      "pos": {
+        "x": "79.8",
+        "y": "-48.0",
+        "z": "394.8"
+      },
+      "mesh": "FJ1429M"
+    },
+    {
+      "label": "Soleus",
+      "pos": {
+        "x": "78.9",
+        "y": "-34.0",
+        "z": "176.6"
+      },
+      "mesh": "FJ1437M"
     }
   ]
 }

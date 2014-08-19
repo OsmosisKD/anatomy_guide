@@ -35,5 +35,16 @@
     {
       "part": "right extensor hallucis brevis"
     }
+  ],
+  "labels": [
+    {
+      "label": "Extensor hallucis brevis",
+      "pos": {
+        "x": "-102.4",
+        "y": "-116.9",
+        "z": "-13.1"
+      },
+      "mesh": "FJ1407"
+    }
   ]
 }

@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-8",
-          "y": "487",
-          "z": "160"
+          "x": "128",
+          "y": "446",
+          "z": "79"
         },
         "up": {
-          "x": "0",
-          "y": "0",
-          "z": "1"
+          "x": "-0.01",
+          "y": "0.15",
+          "z": "0.99"
         }
       },
       "caption": ""
@@ -23,16 +23,16 @@
   ],
   "anatomy": [
     {
-      "part": "right tibia - isa"
+      "part": "tibia"
     },
     {
-      "part": "right fibula - isa"
+      "part": "fibula"
     },
     {
-      "part": "right talus - isa"
+      "part": "talus"
     },
     {
-      "part": "right calcaneus - isa"
+      "part": "calcaneus"
     },
     {
       "part": "right foot",
@@ -43,6 +43,32 @@
     },
     {
       "part": "right fibularis brevis"
+    },
+    {
+      "part": "left foot"
+    },
+    {
+      "part": "left fibularis brevis"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Fibularis brevis",
+      "pos": {
+        "x": "98.2",
+        "y": "-44.1",
+        "z": "86.1"
+      },
+      "mesh": "FJ1409M"
+    },
+    {
+      "label": "Fibularis longus",
+      "pos": {
+        "x": "-111.2",
+        "y": "-43.6",
+        "z": "249.8"
+      },
+      "mesh": "FJ1410"
     }
   ]
 }
