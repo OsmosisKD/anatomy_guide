@@ -1,0 +1,92 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-90",
+        "z": "1480"
+      },
+      "camera": {
+        "pos": {
+          "x": "-23",
+          "y": "-142",
+          "z": "1318"
+        },
+        "up": {
+          "x": "-0.96",
+          "y": "-0.22",
+          "z": "0.19"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "occipital bone - isa",
+      "color": "LightGreen"
+    },
+    {
+      "part": "temporal bone",
+      "color": "LightSkyBlue"
+    },
+    {
+      "part": "parietal bone"
+    },
+    {
+      "part": "sphenoid bone - isa"
+    },
+    {
+      "part": "ethmoid - isa"
+    },
+    {
+      "part": "frontal bone - isa"
+    },
+    {
+      "part": "vomer - isa"
+    },
+    {
+      "part": "nasal bone"
+    },
+    {
+      "part": "maxilla"
+    },
+    {
+      "part": "mandible - isa",
+      "color": "Tomato"
+    },
+    {
+      "part": "palatine bone"
+    },
+    {
+      "part": "zygomatic bone"
+    },
+    {
+      "part": "lacrimal bone"
+    },
+    {
+      "part": "hyoid bone - isa"
+    },
+    {
+      "part": "trachea - isa"
+    },
+    {
+      "part": "laryngeal cartilage"
+    },
+    {
+      "part": "digastric"
+    },
+    {
+      "part": "stylohyoid"
+    },
+    {
+      "part": "mylohyoid"
+    },
+    {
+      "part": "geniohyoid"
+    },
+    {
+      "part": "thyroid cartilage"
+    }
+  ]
+}

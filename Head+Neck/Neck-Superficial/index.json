@@ -1,0 +1,88 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-90",
+        "z": "1420"
+      },
+      "camera": {
+        "pos": {
+          "x": "654",
+          "y": "-314",
+          "z": "1473"
+        },
+        "up": {
+          "x": "0.19",
+          "y": "0.17",
+          "z": "0.97"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "occipital bone - isa",
+      "color": "LightGreen"
+    },
+    {
+      "part": "temporal bone",
+      "color": "LightSkyBlue"
+    },
+    {
+      "part": "parietal bone"
+    },
+    {
+      "part": "sphenoid bone - isa"
+    },
+    {
+      "part": "ethmoid - isa"
+    },
+    {
+      "part": "frontal bone - isa"
+    },
+    {
+      "part": "vomer - isa"
+    },
+    {
+      "part": "nasal bone"
+    },
+    {
+      "part": "maxilla"
+    },
+    {
+      "part": "mandible - isa",
+      "color": "Tomato"
+    },
+    {
+      "part": "palatine bone"
+    },
+    {
+      "part": "zygomatic bone"
+    },
+    {
+      "part": "lacrimal bone"
+    },
+    {
+      "part": "platysma",
+      "opacity": "0.5"
+    },
+    {
+      "part": "sternocleidomastoid"
+    },
+    {
+      "part": "transverse part of right trapezius"
+    },
+    {
+      "part": "descending part of right trapezius"
+    },
+    {
+      "part": "clavicle"
+    },
+    {
+      "part": "sternum",
+      "color": "BlanchedAlmond"
+    }
+  ]
+}

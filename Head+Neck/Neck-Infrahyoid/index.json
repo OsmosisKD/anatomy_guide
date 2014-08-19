@@ -1,0 +1,98 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-90",
+        "z": "1380"
+      },
+      "camera": {
+        "pos": {
+          "x": "-192",
+          "y": "-351",
+          "z": "1387"
+        },
+        "up": {
+          "x": "-0.16",
+          "y": "-0.07",
+          "z": "0.99"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "occipital bone - isa"
+    },
+    {
+      "part": "temporal bone"
+    },
+    {
+      "part": "parietal bone"
+    },
+    {
+      "part": "sphenoid bone - isa"
+    },
+    {
+      "part": "ethmoid - isa"
+    },
+    {
+      "part": "frontal bone - isa"
+    },
+    {
+      "part": "vomer - isa"
+    },
+    {
+      "part": "nasal bone"
+    },
+    {
+      "part": "maxilla"
+    },
+    {
+      "part": "mandible - isa"
+    },
+    {
+      "part": "palatine bone"
+    },
+    {
+      "part": "zygomatic bone"
+    },
+    {
+      "part": "lacrimal bone"
+    },
+    {
+      "part": "hyoid bone - isa"
+    },
+    {
+      "part": "trachea - isa"
+    },
+    {
+      "part": "laryngeal cartilage"
+    },
+    {
+      "part": "thyroid cartilage"
+    },
+    {
+      "part": "omohyoid"
+    },
+    {
+      "part": "sternohyoid"
+    },
+    {
+      "part": "sternothyroid"
+    },
+    {
+      "part": "thyrohyoid"
+    },
+    {
+      "part": "scapula"
+    },
+    {
+      "part": "manubrium - isa"
+    },
+    {
+      "part": "clavicle"
+    }
+  ]
+}

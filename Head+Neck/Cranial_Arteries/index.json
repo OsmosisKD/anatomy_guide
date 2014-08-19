@@ -1,0 +1,98 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-90",
+        "z": "1520"
+      },
+      "camera": {
+        "pos": {
+          "x": "40",
+          "y": "26",
+          "z": "1572"
+        },
+        "up": {
+          "x": "-0.09",
+          "y": "-0.71",
+          "z": "0.71"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "temporal bone"
+    },
+    {
+      "part": "sphenoid bone - isa"
+    },
+    {
+      "part": "ethmoid - isa"
+    },
+    {
+      "part": "vomer - isa"
+    },
+    {
+      "part": "nasal bone"
+    },
+    {
+      "part": "maxilla"
+    },
+    {
+      "part": "mandible - isa"
+    },
+    {
+      "part": "palatine bone"
+    },
+    {
+      "part": "zygomatic bone"
+    },
+    {
+      "part": "lacrimal bone"
+    },
+    {
+      "part": "internal carotid artery"
+    },
+    {
+      "part": "basilar artery - isa"
+    },
+    {
+      "part": "cervical vertebra"
+    },
+    {
+      "part": "vertebral artery"
+    },
+    {
+      "part": "anterior communicating artery - isa"
+    },
+    {
+      "part": "anterior cerebral artery"
+    },
+    {
+      "part": "ophthalmic artery"
+    },
+    {
+      "part": "posterior communicating artery"
+    },
+    {
+      "part": "anterior spinal artery"
+    },
+    {
+      "part": "right middle cerebral artery"
+    },
+    {
+      "part": "cerebral arterial circle"
+    },
+    {
+      "part": "right posterior inferior cerebellar artery - isa"
+    },
+    {
+      "part": "anterior inferior cerebellar artery - isa"
+    },
+    {
+      "part": "right superior cerebellar artery - isa"
+    }
+  ]
+}
