@@ -1,0 +1,65 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "0",
+        "z": "1200"
+      },
+      "camera": {
+        "pos": {
+          "x": "-6",
+          "y": "1209",
+          "z": "1239"
+        },
+        "up": {
+          "x": "0",
+          "y": "0",
+          "z": "1"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "cervical vertebra",
+      "color": "Cyan"
+    },
+    {
+      "part": "occipital bone - isa"
+    },
+    {
+      "part": "thoracic vertebra",
+      "color": "ForestGreen"
+    },
+    {
+      "part": "iliocostalis cervicis"
+    },
+    {
+      "part": "iliocostalis thoracis"
+    },
+    {
+      "part": "iliocostalis lumborum"
+    },
+    {
+      "part": "bony pelvis",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "rib"
+    },
+    {
+      "part": "longissimus thoracis"
+    },
+    {
+      "part": "longissimus cervicis"
+    },
+    {
+      "part": "longissimus capitis"
+    },
+    {
+      "part": "temporal bone"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-60",
+        "z": "1480"
+      },
+      "camera": {
+        "pos": {
+          "x": "-3",
+          "y": "236",
+          "z": "1395"
+        },
+        "up": {
+          "x": "0.00",
+          "y": "0.27",
+          "z": "0.96"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "cervical vertebra"
+    },
+    {
+      "part": "rectus capitis posterior major"
+    },
+    {
+      "part": "occipital bone - isa"
+    },
+    {
+      "part": "rectus capitis posterior minor"
+    },
+    {
+      "part": "obliquus capitis superior"
+    },
+    {
+      "part": "obliquus capitis inferior"
+    }
+  ]
+}

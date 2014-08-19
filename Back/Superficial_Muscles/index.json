@@ -1,0 +1,55 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-60",
+        "z": "1430"
+      },
+      "camera": {
+        "pos": {
+          "x": "-374",
+          "y": "324",
+          "z": "1361"
+        },
+        "up": {
+          "x": "-0.06",
+          "y": "0.16",
+          "z": "0.99"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "cervical vertebra",
+      "color": "Cyan"
+    },
+    {
+      "part": "occipital bone - isa"
+    },
+    {
+      "part": "thoracic vertebra",
+      "color": "ForestGreen"
+    },
+    {
+      "part": "serratus posterior superior"
+    },
+    {
+      "part": "serratus posterior inferior"
+    },
+    {
+      "part": "splenius capitis"
+    },
+    {
+      "part": "splenius cervicis"
+    },
+    {
+      "part": "rib"
+    },
+    {
+      "part": "temporal bone"
+    }
+  ]
+}

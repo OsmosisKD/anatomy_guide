@@ -1,0 +1,63 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-30",
+        "z": "1260"
+      },
+      "camera": {
+        "pos": {
+          "x": "-594",
+          "y": "1004",
+          "z": "1328"
+        },
+        "up": {
+          "x": "0.01",
+          "y": "0.13",
+          "z": "1.00"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "cervical vertebra",
+      "color": "Cyan"
+    },
+    {
+      "part": "occipital bone - isa"
+    },
+    {
+      "part": "thoracic vertebra",
+      "color": "ForestGreen"
+    },
+    {
+      "part": "rib"
+    },
+    {
+      "part": "temporal bone"
+    },
+    {
+      "part": "bony pelvis",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "rotator muscle"
+    },
+    {
+      "part": "semispinalis thoracis"
+    },
+    {
+      "part": "semispinalis cervicis"
+    },
+    {
+      "part": "semispinalis capitis"
+    },
+    {
+      "part": "lumbar vertebra",
+      "color": "DarkOrchid"
+    }
+  ]
+}
