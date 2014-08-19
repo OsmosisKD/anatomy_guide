@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-34",
-          "y": "-590",
-          "z": "1339"
+          "x": "-281",
+          "y": "-494",
+          "z": "1354"
         },
         "up": {
-          "x": "0",
-          "y": "0",
-          "z": "1"
+          "x": "-0.06",
+          "y": "0.09",
+          "z": "0.99"
         }
       },
       "caption": "Subcostals not pictured."
@@ -105,6 +105,36 @@
     },
     {
       "part": "sternocostal part of left pectoralis major - isa"
+    }
+  ],
+  "labels": [
+    {
+      "label": "test",
+      "pos": {
+        "x": "42.2",
+        "y": "-204.3",
+        "z": "1242.3"
+      },
+      "mesh": "FJ1464M"
+    },
+    {
+      "label": "Ribs",
+      "pos": {
+        "x": "-83.5",
+        "y": "-174.0",
+        "z": "1223.5"
+      },
+      "mesh": "FJ3340"
+    },
+    {
+      "label": "Humerus",
+      "pos": {
+        "x": "-192.7",
+        "y": "-84.2",
+        "z": "1252.1"
+      },
+      "mesh": "FJ3368",
+      "descr": "Crest of Greater Tuberosity"
     }
   ]
 }
