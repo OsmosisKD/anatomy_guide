@@ -1,0 +1,59 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-170",
+        "y": "-80",
+        "z": "1320"
+      },
+      "camera": {
+        "pos": {
+          "x": "-293",
+          "y": "-142",
+          "z": "1412"
+        },
+        "up": {
+          "x": "0.67",
+          "y": "-0.04",
+          "z": "0.75"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right clavicle - isa"
+    },
+    {
+      "part": "right humerus - isa"
+    },
+    {
+      "part": "right scapula - isa"
+    },
+    {
+      "part": "clavicular part of right deltoid",
+      "opacity": "0.5"
+    },
+    {
+      "part": "acromial part of right deltoid",
+      "opacity": "0.5"
+    },
+    {
+      "part": "spinal part of right deltoid",
+      "opacity": "0.5"
+    },
+    {
+      "part": "right infraspinatus muscle"
+    },
+    {
+      "part": "right supraspinatus"
+    },
+    {
+      "part": "right subscapularis"
+    },
+    {
+      "part": "right teres minor"
+    }
+  ]
+}
