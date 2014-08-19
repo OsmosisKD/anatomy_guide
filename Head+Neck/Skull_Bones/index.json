@@ -1,0 +1,78 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-90",
+        "z": "1520"
+      },
+      "camera": {
+        "pos": {
+          "x": "-183",
+          "y": "-421",
+          "z": "1504"
+        },
+        "up": {
+          "x": "0.29",
+          "y": "0.26",
+          "z": "0.92"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "occipital bone - isa",
+      "color": "LightGreen"
+    },
+    {
+      "part": "temporal bone",
+      "color": "Orange"
+    },
+    {
+      "part": "parietal bone",
+      "color": "LightPink"
+    },
+    {
+      "part": "sphenoid bone - isa",
+      "color": "Yellow"
+    },
+    {
+      "part": "ethmoid - isa",
+      "color": "Red"
+    },
+    {
+      "part": "frontal bone - isa",
+      "color": "LightSkyBlue"
+    },
+    {
+      "part": "vomer - isa",
+      "color": "Purple"
+    },
+    {
+      "part": "nasal bone",
+      "color": "Maroon"
+    },
+    {
+      "part": "maxilla",
+      "color": "SeaGreen"
+    },
+    {
+      "part": "mandible - isa",
+      "color": "Tomato"
+    },
+    {
+      "part": "palatine bone",
+      "color": "Blue"
+    },
+    {
+      "part": "zygomatic bone",
+      "color": "PaleVioletRed"
+    },
+    {
+      "part": "lacrimal bone",
+      "color": "Aqua"
+    }
+  ]
+}
