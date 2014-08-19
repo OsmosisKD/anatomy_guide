@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "0",
-          "y": "-600",
-          "z": "1250"
+          "x": "-85",
+          "y": "-46",
+          "z": "647"
         },
         "up": {
-          "x": "0",
-          "y": "0",
-          "z": "1"
+          "x": "-0.06",
+          "y": "-0.99",
+          "z": "-0.12"
         }
       },
       "caption": "Subcostals not pictured."
@@ -108,6 +108,72 @@
     {
       "part": "transversus thoracis",
       "color": "Magenta"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Scalene",
+      "pos": {
+        "x": "36.0",
+        "y": "-83.7",
+        "z": "1400.5"
+      },
+      "mesh": "FJ1571",
+      "descr": "Anterior tagged, middle and posterior shown"
+    },
+    {
+      "label": "Internal Intercostals",
+      "pos": {
+        "x": "41.6",
+        "y": "-199.8",
+        "z": "1208.4"
+      },
+      "mesh": "FJ1455M"
+    },
+    {
+      "label": "External Intercostals",
+      "pos": {
+        "x": "91.7",
+        "y": "-152.9",
+        "z": "1246.7"
+      },
+      "mesh": "FJ1451M"
+    },
+    {
+      "label": "True Ribs",
+      "pos": {
+        "x": "121.4",
+        "y": "-133.4",
+        "z": "1206.2"
+      },
+      "mesh": "FJ3232"
+    },
+    {
+      "label": "False Ribs",
+      "pos": {
+        "x": "131.0",
+        "y": "-102.7",
+        "z": "1112.1"
+      },
+      "mesh": "FJ3235"
+    },
+    {
+      "label": "Floating Ribs",
+      "pos": {
+        "x": "67.9",
+        "y": "-28.8",
+        "z": "1074.4"
+      },
+      "mesh": "FJ3226"
+    },
+    {
+      "label": "Transversus thoracis",
+      "pos": {
+        "x": "-25.3",
+        "y": "-196.0",
+        "z": "1187.3"
+      },
+      "mesh": "FJ1461"
     }
   ]
 }

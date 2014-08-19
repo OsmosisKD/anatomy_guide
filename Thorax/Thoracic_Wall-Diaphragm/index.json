@@ -101,5 +101,37 @@
     {
       "part": "abdominal aorta - isa"
     }
+  ],
+  "labels": [
+    {
+      "label": "Inferior vena cava",
+      "pos": {
+        "x": "-12.5",
+        "y": "-125.1",
+        "z": "1136.1"
+      },
+      "mesh": "FJ3441",
+      "descr": "Exits diaphragm at T8"
+    },
+    {
+      "label": "Esophagus",
+      "pos": {
+        "x": "10.0",
+        "y": "-113.0",
+        "z": "1139.7"
+      },
+      "mesh": "FJ2563",
+      "descr": "Exits diaphragm at T10"
+    },
+    {
+      "label": "Aorta",
+      "pos": {
+        "x": "13.9",
+        "y": "-118.0",
+        "z": "1072.3"
+      },
+      "mesh": "FJ1932",
+      "descr": "Exits diaphragm at T12"
+    }
   ]
 }
