@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "87",
-          "y": "-190",
-          "z": "1178"
+          "x": "0",
+          "y": "-342",
+          "z": "1250"
         },
         "up": {
-          "x": "0.15",
-          "y": "-0.60",
-          "z": "0.78"
+          "x": "0.00",
+          "y": "0.00",
+          "z": "1.00"
         }
       },
       "caption": ""
@@ -50,23 +50,25 @@
     },
     {
       "part": "right ventricle",
+      "opacity": "0.5",
       "color": "CornflowerBlue"
     },
     {
       "part": "left ventricle",
+      "opacity": "0.5",
       "color": "Salmon"
     },
     {
       "part": "circumflex branch of left coronary artery - isa",
-      "color": "purple"
+      "color": "fuchsia"
     },
     {
       "part": "anterior interventricular branch of left coronary artery",
-      "color": "green"
+      "color": "red"
     },
     {
       "part": "left coronary artery",
-      "color": "yellow"
+      "color": "red"
     },
     {
       "part": "posterior ventricular branch of right coronary artery",
@@ -90,11 +92,11 @@
     },
     {
       "part": "small cardiac vein - isa",
-      "color": "brown"
+      "color": "skyblue"
     },
     {
       "part": "middle cardiac vein - isa",
-      "color": "brown"
+      "color": "LightCyan"
     }
   ],
   "labels": [
@@ -106,6 +108,79 @@
         "z": "1205.0"
       },
       "mesh": "FJ2631"
+    },
+    {
+      "label": "Left circumflex branch",
+      "pos": {
+        "x": "48.5",
+        "y": "-91.2",
+        "z": "1234.3"
+      },
+      "mesh": "FJ2649"
+    },
+    {
+      "label": "Great cardiac vein",
+      "pos": {
+        "x": "46.0",
+        "y": "-84.3",
+        "z": "1218.5"
+      },
+      "mesh": "FJ2656"
+    },
+    {
+      "label": "Coronary sinus",
+      "pos": {
+        "x": "34.9",
+        "y": "-83.9",
+        "z": "1205.2"
+      },
+      "mesh": "FJ2655"
+    },
+    {
+      "label": "Right coronary artery",
+      "pos": {
+        "x": "7.3",
+        "y": "-158.9",
+        "z": "1252.9"
+      },
+      "mesh": "FJ2723"
+    },
+    {
+      "label": "Anterior cardiac vein",
+      "pos": {
+        "x": "10.7",
+        "y": "-171.8",
+        "z": "1236.9"
+      },
+      "mesh": "FJ2725"
+    },
+    {
+      "label": "Small cardiac vein",
+      "pos": {
+        "x": "-19.6",
+        "y": "-149.0",
+        "z": "1202.8"
+      },
+      "mesh": "FJ2724"
+    },
+    {
+      "label": "Posterior interventricular artery",
+      "pos": {
+        "x": "50.0",
+        "y": "-106.9",
+        "z": "1180.2"
+      },
+      "mesh": "FJ2714",
+      "descr": "aka posterior descending"
+    },
+    {
+      "label": "Middle cardiac vein",
+      "pos": {
+        "x": "45.2",
+        "y": "-140.3",
+        "z": "1177.5"
+      },
+      "mesh": "FJ2678"
     }
   ]
 }

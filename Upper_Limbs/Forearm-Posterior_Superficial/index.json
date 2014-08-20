@@ -1,0 +1,77 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-230",
+        "y": "-90",
+        "z": "920"
+      },
+      "camera": {
+        "pos": {
+          "x": "-171",
+          "y": "336",
+          "z": "908"
+        },
+        "up": {
+          "x": "-0.37",
+          "y": "-0.67",
+          "z": "0.64"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right extensor digitorum"
+    },
+    {
+      "part": "right extensor carpi ulnaris"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right ulna - isa"
+    },
+    {
+      "part": "right humerus - isa"
+    },
+    {
+      "part": "right radius - isa"
+    },
+    {
+      "part": "right extensor digiti minimi"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Extensor carpi ulnaris",
+      "pos": {
+        "x": "-223.1",
+        "y": "-67.1",
+        "z": "938.0"
+      },
+      "mesh": "FJ1472"
+    },
+    {
+      "label": "Extensor digitorum",
+      "pos": {
+        "x": "-253.2",
+        "y": "-98.2",
+        "z": "822.0"
+      },
+      "mesh": "FJ1492"
+    },
+    {
+      "label": "Extensor digiti minimi",
+      "pos": {
+        "x": "-239.1",
+        "y": "-77.4",
+        "z": "886.4"
+      },
+      "mesh": "FJ1491"
+    }
+  ]
+}

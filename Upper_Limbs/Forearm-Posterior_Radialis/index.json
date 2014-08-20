@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-11",
-          "y": "-183",
-          "z": "856"
+          "x": "-452",
+          "y": "7",
+          "z": "963"
         },
         "up": {
-          "x": "0.24",
-          "y": "0.64",
-          "z": "0.71"
+          "x": "0.51",
+          "y": "0.27",
+          "z": "0.80"
         }
       },
       "caption": ""
@@ -47,6 +47,35 @@
     },
     {
       "part": "right extensor carpi radialis brevis"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Extensor carpi radialis brevis",
+      "pos": {
+        "x": "-256.3",
+        "y": "-71.7",
+        "z": "929.9"
+      },
+      "mesh": "FJ1489"
+    },
+    {
+      "label": "Extensor carpi radialis longus",
+      "pos": {
+        "x": "-263.5",
+        "y": "-65.0",
+        "z": "992.3"
+      },
+      "mesh": "FJ1490"
+    },
+    {
+      "label": "Brachioradialis",
+      "pos": {
+        "x": "-267.0",
+        "y": "-97.6",
+        "z": "959.8"
+      },
+      "mesh": "FJ1487"
     }
   ]
 }

@@ -88,5 +88,52 @@
     {
       "part": "thyroid cartilage"
     }
+  ],
+  "labels": [
+    {
+      "label": "Digastric",
+      "pos": {
+        "x": "-39.6",
+        "y": "-86.6",
+        "z": "1468.6"
+      },
+      "mesh": "FJ1579"
+    },
+    {
+      "label": "Stylohyoid",
+      "pos": {
+        "x": "-24.9",
+        "y": "-113.9",
+        "z": "1445.4"
+      },
+      "mesh": "FJ1598"
+    },
+    {
+      "label": "Mylohyoid",
+      "pos": {
+        "x": "-19.1",
+        "y": "-132.9",
+        "z": "1442.3"
+      },
+      "mesh": "FJ1583"
+    },
+    {
+      "label": "Digastric",
+      "pos": {
+        "x": "-10.0",
+        "y": "-150.0",
+        "z": "1430.0"
+      },
+      "mesh": "FJ1556"
+    },
+    {
+      "label": "Geniohyoid",
+      "pos": {
+        "x": "-4.7",
+        "y": "-129.5",
+        "z": "1427.6"
+      },
+      "mesh": "FJ1580"
+    }
   ]
 }

@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-389",
-          "y": "-358",
-          "z": "655"
+          "x": "-270",
+          "y": "-496",
+          "z": "887"
         },
         "up": {
-          "x": "0.06",
-          "y": "-0.53",
-          "z": "0.83"
+          "x": "0.26",
+          "y": "0.11",
+          "z": "0.94"
         }
       },
       "caption": ""
@@ -47,6 +47,35 @@
     },
     {
       "part": "right pronator quadratus"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Flexor pollicis longus",
+      "pos": {
+        "x": "-251.1",
+        "y": "-94.4",
+        "z": "926.8"
+      },
+      "mesh": "FJ1498"
+    },
+    {
+      "label": "Flexor digitorum profundus",
+      "pos": {
+        "x": "-237.2",
+        "y": "-91.2",
+        "z": "952.7"
+      },
+      "mesh": "FJ1497"
+    },
+    {
+      "label": "Pronator quadratus",
+      "pos": {
+        "x": "-233.3",
+        "y": "-117.4",
+        "z": "834.9"
+      },
+      "mesh": "FJ1503"
     }
   ]
 }

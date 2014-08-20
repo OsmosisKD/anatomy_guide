@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "100",
-          "y": "-197",
-          "z": "1574"
+          "x": "36",
+          "y": "-213",
+          "z": "1551"
         },
         "up": {
-          "x": "-0.41",
-          "y": "-0.08",
-          "z": "0.89"
+          "x": "-0.02",
+          "y": "0.10",
+          "z": "0.99"
         }
       },
       "caption": ""
@@ -42,11 +42,11 @@
     },
     {
       "part": "supratrochlear nerve",
-      "color": "fuchsia"
+      "color": "Lime"
     },
     {
       "part": "frontal nerve",
-      "color": "yellow"
+      "color": "Green"
     },
     {
       "part": "ciliary ganglion",
@@ -62,25 +62,132 @@
     },
     {
       "part": "posterior ethmoidal nerve",
-      "color": "green"
+      "color": "Orchid"
     },
     {
       "part": "long ciliary nerve",
       "color": "pink"
     },
     {
-      "part": "ophthalmic nerve"
+      "part": "ophthalmic nerve",
+      "color": "yellow"
     },
     {
       "part": "anterior ethmoidal nerve",
-      "color": "brown"
+      "color": "Violet"
     },
     {
       "part": "infratrochlear nerve",
+      "color": "fuchsia"
+    },
+    {
+      "part": "nasociliary nerve",
       "color": "purple"
     },
     {
-      "part": "nasociliary nerve"
+      "part": "lacrimal nerve",
+      "color": "aqua"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Supraorbital - branch of frontal nerve",
+      "pos": {
+        "x": "10.3",
+        "y": "-177.3",
+        "z": "1546.7"
+      },
+      "mesh": "FJ1326"
+    },
+    {
+      "label": "Supratrochlear - branch of frontal nerve",
+      "pos": {
+        "x": "11.3",
+        "y": "-171.2",
+        "z": "1534.3"
+      },
+      "mesh": "FJ1326"
+    },
+    {
+      "label": "Ophthalmic nerve (V1)",
+      "pos": {
+        "x": "18.9",
+        "y": "-105.1",
+        "z": "1526.0"
+      },
+      "mesh": "FJ1312"
+    },
+    {
+      "label": "Ciliary ganglion",
+      "pos": {
+        "x": "24.9",
+        "y": "-134.0",
+        "z": "1524.9"
+      },
+      "mesh": "FJ1288"
+    },
+    {
+      "label": "Anterior ethmoidal - branch of nasociliary nerve",
+      "pos": {
+        "x": "13.4",
+        "y": "-141.1",
+        "z": "1527.7"
+      },
+      "mesh": "FJ1283"
+    },
+    {
+      "label": "Posterior ethmoidal - branch of nasociliary nerve",
+      "pos": {
+        "x": "13.7",
+        "y": "-134.0",
+        "z": "1527.5"
+      },
+      "mesh": "FJ1315"
+    },
+    {
+      "label": "Long ciliary nerve",
+      "pos": {
+        "x": "19.5",
+        "y": "-134.9",
+        "z": "1524.3"
+      },
+      "mesh": "FJ1318"
+    },
+    {
+      "label": "Nasociliary nerve",
+      "pos": {
+        "x": "12.6",
+        "y": "-164.4",
+        "z": "1530.1"
+      },
+      "mesh": "FJ1310"
+    },
+    {
+      "label": "Infratrochlear - branch of nasociliary nerve",
+      "pos": {
+        "x": "7.7",
+        "y": "-172.3",
+        "z": "1525.5"
+      },
+      "mesh": "FJ1296"
+    },
+    {
+      "label": "Lacrimal nerve",
+      "pos": {
+        "x": "31.0",
+        "y": "-138.7",
+        "z": "1531.3"
+      },
+      "mesh": "FJ1300"
+    },
+    {
+      "label": "Frontal nerve",
+      "pos": {
+        "x": "22.2",
+        "y": "-136.9",
+        "z": "1536.4"
+      },
+      "mesh": "FJ1290"
     }
   ]
 }

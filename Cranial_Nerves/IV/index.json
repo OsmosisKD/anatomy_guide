@@ -8,24 +8,20 @@
       },
       "camera": {
         "pos": {
-          "x": "-35",
-          "y": "-226",
-          "z": "1568"
+          "x": "-60",
+          "y": "-147",
+          "z": "1613"
         },
         "up": {
-          "x": "-0.14",
-          "y": "0.07",
-          "z": "0.99"
+          "x": "-0.05",
+          "y": "0.70",
+          "z": "0.71"
         }
       },
       "caption": ""
     }
   ],
   "anatomy": [
-    {
-      "part": "cranial nerve",
-      "color": "yellow"
-    },
     {
       "part": "temporal bone"
     },
@@ -46,7 +42,7 @@
     },
     {
       "part": "trochlear nerve",
-      "color": "#ff00ff"
+      "color": "yellow"
     },
     {
       "part": "superior rectus",
@@ -75,6 +71,26 @@
     {
       "part": "levator palpebrae superioris",
       "color": "white"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Trochlear nerve",
+      "pos": {
+        "x": "-17.5",
+        "y": "-136.3",
+        "z": "1531.5"
+      },
+      "mesh": "FJ1381"
+    },
+    {
+      "label": "Superior oblique",
+      "pos": {
+        "x": "-16.8",
+        "y": "-151.8",
+        "z": "1534.4"
+      },
+      "mesh": "FJ1373"
     }
   ]
 }

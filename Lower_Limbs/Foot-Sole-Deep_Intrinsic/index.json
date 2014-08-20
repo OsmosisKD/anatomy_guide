@@ -8,17 +8,17 @@
       },
       "camera": {
         "pos": {
-          "x": "80",
-          "y": "-386",
-          "z": "-268"
+          "x": "-135",
+          "y": "-245",
+          "z": "-149"
         },
         "up": {
-          "x": "-0.20",
-          "y": "-0.92",
-          "z": "0.38"
+          "x": "0.00",
+          "y": "-0.88",
+          "z": "0.51"
         }
       },
-      "caption": ""
+      "caption": "Not pictured: Dorsal interossei"
     }
   ],
   "anatomy": [
@@ -65,6 +65,62 @@
     },
     {
       "part": "lateral head of right flexor hallucis brevis"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Medial head of flexor hallucis brevis",
+      "pos": {
+        "x": "-87.0",
+        "y": "-181.8",
+        "z": "-67.7"
+      },
+      "mesh": "FJ1396"
+    },
+    {
+      "label": "Lateral head of flexor hallucis brevis",
+      "pos": {
+        "x": "-81.9",
+        "y": "-144.0",
+        "z": "-52.6"
+      },
+      "mesh": "FJ1393"
+    },
+    {
+      "label": "Lumbricals",
+      "pos": {
+        "x": "-111.2",
+        "y": "-140.0",
+        "z": "-63.4"
+      },
+      "mesh": "FJ1387"
+    },
+    {
+      "label": "Opponens digiti minimi",
+      "pos": {
+        "x": "-133.5",
+        "y": "-122.2",
+        "z": "-61.2"
+      },
+      "mesh": "FJ1399"
+    },
+    {
+      "label": "Flexor digiti minimi brevis",
+      "pos": {
+        "x": "-129.2",
+        "y": "-126.2",
+        "z": "-66.1"
+      },
+      "mesh": "FJ1391"
+    },
+    {
+      "label": "Plantar interossei",
+      "pos": {
+        "x": "-122.6",
+        "y": "-147.8",
+        "z": "-53.1"
+      },
+      "mesh": "FJ1386"
     }
   ]
 }

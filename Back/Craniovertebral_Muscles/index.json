@@ -8,9 +8,9 @@
       },
       "camera": {
         "pos": {
-          "x": "-3",
-          "y": "236",
-          "z": "1395"
+          "x": "-1",
+          "y": "54",
+          "z": "1447"
         },
         "up": {
           "x": "0.00",
@@ -39,6 +39,44 @@
     },
     {
       "part": "obliquus capitis inferior"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Obliquus capitis inferior",
+      "pos": {
+        "x": "26.4",
+        "y": "-50.4",
+        "z": "1453.4"
+      },
+      "mesh": "FJ1563"
+    },
+    {
+      "label": "Obliquus capitis superior",
+      "pos": {
+        "x": "39.4",
+        "y": "-34.4",
+        "z": "1486.8"
+      },
+      "mesh": "FJ1564"
+    },
+    {
+      "label": "Rectus capitis posterior minor",
+      "pos": {
+        "x": "-10.0",
+        "y": "-26.7",
+        "z": "1477.6"
+      },
+      "mesh": "FJ1590"
+    },
+    {
+      "label": "Rectus capitis posterior major",
+      "pos": {
+        "x": "-21.0",
+        "y": "-32.5",
+        "z": "1465.0"
+      },
+      "mesh": "FJ1589"
     }
   ]
 }

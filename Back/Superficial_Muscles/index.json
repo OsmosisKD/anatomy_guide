@@ -3,19 +3,19 @@
     {
       "origin": {
         "x": "0",
-        "y": "-60",
-        "z": "1430"
+        "y": "-40",
+        "z": "1230"
       },
       "camera": {
         "pos": {
-          "x": "-374",
-          "y": "324",
-          "z": "1361"
+          "x": "-19",
+          "y": "554",
+          "z": "1102"
         },
         "up": {
-          "x": "-0.06",
-          "y": "0.16",
-          "z": "0.99"
+          "x": "0",
+          "y": "0",
+          "z": "1"
         }
       },
       "caption": ""
@@ -50,6 +50,44 @@
     },
     {
       "part": "temporal bone"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Serratus posterior superior",
+      "pos": {
+        "x": "75.6",
+        "y": "-26.0",
+        "z": "1312.9"
+      },
+      "mesh": "FJ1542M"
+    },
+    {
+      "label": "Splenius cervicis",
+      "pos": {
+        "x": "15.0",
+        "y": "-2.0",
+        "z": "1285.1"
+      },
+      "mesh": "FJ1546M"
+    },
+    {
+      "label": "Splenius capitis",
+      "pos": {
+        "x": "47.3",
+        "y": "-53.6",
+        "z": "1476.5"
+      },
+      "mesh": "FJ1545M"
+    },
+    {
+      "label": "Serratus posterior inferior",
+      "pos": {
+        "x": "-10.9",
+        "y": "-16.9",
+        "z": "1043.5"
+      },
+      "mesh": "FJ1541"
     }
   ]
 }

@@ -8,17 +8,17 @@
       },
       "camera": {
         "pos": {
-          "x": "654",
-          "y": "-314",
-          "z": "1473"
+          "x": "-620",
+          "y": "-360",
+          "z": "1577"
         },
         "up": {
-          "x": "0.19",
-          "y": "0.17",
-          "z": "0.97"
+          "x": "0.01",
+          "y": "0.05",
+          "z": "1.01"
         }
       },
-      "caption": ""
+      "caption": "Platysma is transparent (otherwise it would cover the sternocleidomastoid)."
     }
   ],
   "anatomy": [
@@ -75,7 +75,8 @@
       "part": "transverse part of right trapezius"
     },
     {
-      "part": "descending part of right trapezius"
+      "part": "descending part of right trapezius",
+      "color": "#FF8000"
     },
     {
       "part": "clavicle"
@@ -83,6 +84,71 @@
     {
       "part": "sternum",
       "color": "BlanchedAlmond"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Transverse part of trapezius",
+      "pos": {
+        "x": "-20.0",
+        "y": "0.6",
+        "z": "1342.7"
+      },
+      "mesh": "FJ1554"
+    },
+    {
+      "label": "Descending part of trapezius",
+      "pos": {
+        "x": "-20.7",
+        "y": "-38.3",
+        "z": "1438.0"
+      },
+      "mesh": "FJ1521"
+    },
+    {
+      "label": "Occipital bone",
+      "pos": {
+        "x": "-23.3",
+        "y": "0.0",
+        "z": "1507.8"
+      },
+      "mesh": "FJ3309"
+    },
+    {
+      "label": "Sternocleidomastoid",
+      "pos": {
+        "x": "-52.3",
+        "y": "-83.2",
+        "z": "1455.9"
+      },
+      "mesh": "FJ1595"
+    },
+    {
+      "label": "Temporal bone",
+      "pos": {
+        "x": "-66.8",
+        "y": "-68.3",
+        "z": "1513.9"
+      },
+      "mesh": "FJ3386"
+    },
+    {
+      "label": "Manubrium",
+      "pos": {
+        "x": "-2.9",
+        "y": "-157.3",
+        "z": "1315.3"
+      },
+      "mesh": "FJ3290"
+    },
+    {
+      "label": "Platysma",
+      "pos": {
+        "x": "-52.6",
+        "y": "-99.2",
+        "z": "1360.3"
+      },
+      "mesh": "FJ1587"
     }
   ]
 }
