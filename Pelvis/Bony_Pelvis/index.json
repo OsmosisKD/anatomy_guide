@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "51",
-          "y": "-431",
-          "z": "1105"
+          "x": "23",
+          "y": "-444",
+          "z": "911"
         },
         "up": {
-          "x": "-0.22",
-          "y": "0.23",
-          "z": "0.94"
+          "x": "0",
+          "y": "0",
+          "z": "1"
         }
       },
       "caption": ""
@@ -24,10 +24,12 @@
   "anatomy": [
     {
       "part": "bony pelvis",
-      "color": "BlanchedAlmond"
+      "color": "BlanchedAlmond",
+      "selfCollide": "1"
     },
     {
-      "part": "vertebra"
+      "part": "vertebra",
+      "selfCollide": "1"
     }
   ],
   "labels": [
@@ -68,15 +70,6 @@
       "mesh": "FJ3152"
     },
     {
-      "label": "Ischial spine",
-      "pos": {
-        "x": "-78.4",
-        "y": "-46.4",
-        "z": "820.2"
-      },
-      "mesh": "FJ3152"
-    },
-    {
       "label": "Acetabulum",
       "pos": {
         "x": "-78.4",
@@ -86,13 +79,13 @@
       "mesh": "FJ3152"
     },
     {
-      "label": "bony pelvis",
+      "label": "Ischial spine",
       "pos": {
-        "x": "-30.7",
-        "y": "-21.6",
-        "z": "837.9"
+        "x": "-45.5",
+        "y": "-37.3",
+        "z": "819.1"
       },
-      "mesh": "FJ3393"
+      "mesh": "FJ3152"
     }
   ]
 }
