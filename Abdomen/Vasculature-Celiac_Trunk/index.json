@@ -1,0 +1,138 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "10",
+        "y": "-110",
+        "z": "1090"
+      },
+      "camera": {
+        "pos": {
+          "x": "-9",
+          "y": "-298",
+          "z": "1132"
+        },
+        "up": {
+          "x": "0",
+          "y": "0",
+          "z": "1"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "abdominal aorta - isa"
+    },
+    {
+      "part": "diaphragm - isa"
+    },
+    {
+      "part": "celiac trunk - isa"
+    },
+    {
+      "part": "left gastric artery - isa"
+    },
+    {
+      "part": "common hepatic artery - isa"
+    },
+    {
+      "part": "right gastric artery - isa",
+      "color": "green"
+    },
+    {
+      "part": "gastroduodenal artery",
+      "color": "yellow"
+    },
+    {
+      "part": "splenic artery - isa"
+    },
+    {
+      "part": "stomach - isa",
+      "opacity": "0.5"
+    },
+    {
+      "part": "right gastro-epiploic artery",
+      "color": "pink"
+    },
+    {
+      "part": "left gastro-epiploic artery",
+      "color": "lime"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Celiac trunk",
+      "pos": {
+        "x": "2.1",
+        "y": "-117.2",
+        "z": "1085.9"
+      },
+      "mesh": "FJ3421"
+    },
+    {
+      "label": "Common hepatic artery",
+      "pos": {
+        "x": "-13.3",
+        "y": "-141.8",
+        "z": "1081.0"
+      },
+      "mesh": "FJ3078"
+    },
+    {
+      "label": "Splenic artery",
+      "pos": {
+        "x": "9.4",
+        "y": "-133.3",
+        "z": "1078.4"
+      },
+      "mesh": "FJ3640"
+    },
+    {
+      "label": "Left gastric artery",
+      "pos": {
+        "x": "16.9",
+        "y": "-135.2",
+        "z": "1097.9"
+      },
+      "mesh": "FJ3499"
+    },
+    {
+      "label": "Right gastric artery",
+      "pos": {
+        "x": "18.0",
+        "y": "-168.8",
+        "z": "1086.4"
+      },
+      "mesh": "FJ3594"
+    },
+    {
+      "label": "Gastroduodenal artery",
+      "pos": {
+        "x": "-8.6",
+        "y": "-140.2",
+        "z": "1074.2"
+      },
+      "mesh": "FJ3432"
+    },
+    {
+      "label": "Right gastro-epiploic artery",
+      "pos": {
+        "x": "-15.5",
+        "y": "-171.5",
+        "z": "1052.6"
+      },
+      "mesh": "FJ3596"
+    },
+    {
+      "label": "Diaphragm",
+      "pos": {
+        "x": "-37.3",
+        "y": "-59.5",
+        "z": "1098.1"
+      },
+      "mesh": "FJ3131"
+    }
+  ]
+}

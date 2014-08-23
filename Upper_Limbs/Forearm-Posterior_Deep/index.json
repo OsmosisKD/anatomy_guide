@@ -1,0 +1,105 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-230",
+        "y": "-90",
+        "z": "920"
+      },
+      "camera": {
+        "pos": {
+          "x": "-298",
+          "y": "63",
+          "z": "543"
+        },
+        "up": {
+          "x": "-0.33",
+          "y": "0.72",
+          "z": "0.59"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right humerus - isa"
+    },
+    {
+      "part": "right radius - isa"
+    },
+    {
+      "part": "right ulna - isa"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right supinator"
+    },
+    {
+      "part": "right abductor pollicis longus"
+    },
+    {
+      "part": "right extensor pollicis brevis"
+    },
+    {
+      "part": "right extensor pollicis longus"
+    },
+    {
+      "part": "right extensor indicis"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Extensor indicis",
+      "pos": {
+        "x": "-256.0",
+        "y": "-107.2",
+        "z": "804.7"
+      },
+      "mesh": "FJ1493"
+    },
+    {
+      "label": "Extensor pollicis longus",
+      "pos": {
+        "x": "-240.5",
+        "y": "-94.3",
+        "z": "854.3"
+      },
+      "mesh": "FJ1495"
+    },
+    {
+      "label": "Extensor pollicis brevis",
+      "pos": {
+        "x": "-256.0",
+        "y": "-94.8",
+        "z": "843.0"
+      },
+      "mesh": "FJ1494"
+    },
+    {
+      "label": "Abductor pollicis longus",
+      "pos": {
+        "x": "-243.1",
+        "y": "-76.8",
+        "z": "906.7"
+      },
+      "mesh": "FJ1484"
+    },
+    {
+      "label": "Supinator",
+      "pos": {
+        "x": "-239.6",
+        "y": "-67.5",
+        "z": "991.2"
+      },
+      "mesh": "FJ1505"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-70",
+        "y": "-70",
+        "z": "-20"
+      },
+      "camera": {
+        "pos": {
+          "x": "-394",
+          "y": "-346",
+          "z": "93"
+        },
+        "up": {
+          "x": "-0.06",
+          "y": "-0.14",
+          "z": "1.00"
+        }
+      },
+      "caption": "Not pictured: Extensor digitorum brevis"
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right talus - isa"
+    },
+    {
+      "part": "right calcaneus - isa"
+    },
+    {
+      "part": "right foot",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right extensor hallucis brevis"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Extensor hallucis brevis",
+      "pos": {
+        "x": "-102.4",
+        "y": "-116.9",
+        "z": "-13.1"
+      },
+      "mesh": "FJ1407"
+    }
+  ]
+}

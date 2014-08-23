@@ -1,0 +1,72 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-250",
+        "y": "-120",
+        "z": "800"
+      },
+      "camera": {
+        "pos": {
+          "x": "-300",
+          "y": "-206",
+          "z": "713"
+        },
+        "up": {
+          "x": "0.46",
+          "y": "0.19",
+          "z": "0.88"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "opponens digiti minimi of right hand"
+    },
+    {
+      "part": "flexor digiti minimi brevis of right hand"
+    },
+    {
+      "part": "abductor digiti minimi of right hand"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Opponens digiti minimi",
+      "pos": {
+        "x": "-233.5",
+        "y": "-130.5",
+        "z": "766.6"
+      },
+      "mesh": "FJ1482"
+    },
+    {
+      "label": "Flexor digiti minimi brevis",
+      "pos": {
+        "x": "-231.7",
+        "y": "-146.1",
+        "z": "745.4"
+      },
+      "mesh": "FJ1470"
+    },
+    {
+      "label": "Abductor digiti minimi",
+      "pos": {
+        "x": "-234.1",
+        "y": "-143.6",
+        "z": "772.3"
+      },
+      "mesh": "FJ1466"
+    }
+  ]
+}

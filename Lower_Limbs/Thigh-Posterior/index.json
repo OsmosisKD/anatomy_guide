@@ -1,0 +1,92 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-95",
+        "y": "-95",
+        "z": "595"
+      },
+      "camera": {
+        "pos": {
+          "x": "217",
+          "y": "514",
+          "z": "916"
+        },
+        "up": {
+          "x": "0",
+          "y": "0",
+          "z": "1"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "bony pelvis",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right femur - isa"
+    },
+    {
+      "part": "right patella - isa"
+    },
+    {
+      "part": "right tibia - isa"
+    },
+    {
+      "part": "right fibula - isa"
+    },
+    {
+      "part": "long head of right biceps femoris"
+    },
+    {
+      "part": "short head of right biceps femoris"
+    },
+    {
+      "part": "right semimembranosus"
+    },
+    {
+      "part": "right semitendinosus"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Semimembranosus",
+      "pos": {
+        "x": "-19.3",
+        "y": "-55.6",
+        "z": "629.3"
+      },
+      "mesh": "FJ1435"
+    },
+    {
+      "label": "Semitendinosus",
+      "pos": {
+        "x": "-47.5",
+        "y": "-32.1",
+        "z": "696.7"
+      },
+      "mesh": "FJ1436"
+    },
+    {
+      "label": "Long head of biceps femoris",
+      "pos": {
+        "x": "-111.1",
+        "y": "-33.5",
+        "z": "555.1"
+      },
+      "mesh": "FJ1395"
+    },
+    {
+      "label": "Short head of biceps femoris",
+      "pos": {
+        "x": "-103.9",
+        "y": "-77.1",
+        "z": "476.8"
+      },
+      "mesh": "FJ1444"
+    }
+  ]
+}

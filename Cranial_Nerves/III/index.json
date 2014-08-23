@@ -1,0 +1,123 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-120",
+        "z": "1500"
+      },
+      "camera": {
+        "pos": {
+          "x": "-16",
+          "y": "-247",
+          "z": "1528"
+        },
+        "up": {
+          "x": "0.00",
+          "y": "-0.30",
+          "z": "0.96"
+        }
+      },
+      "caption": "Nerve III innervates most of the muscles of the eye (innervation shown in red) except for the superior oblique and the lateral rectus (shown in white). The nerve itself is not shown."
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "cranial nerve",
+      "color": "yellow"
+    },
+    {
+      "part": "temporal bone"
+    },
+    {
+      "part": "maxilla"
+    },
+    {
+      "part": "occipital bone - isa"
+    },
+    {
+      "part": "zygomatic bone"
+    },
+    {
+      "part": "brainstem"
+    },
+    {
+      "part": "sphenoid bone - isa"
+    },
+    {
+      "part": "superior rectus",
+      "color": "red"
+    },
+    {
+      "part": "inferior rectus",
+      "color": "red"
+    },
+    {
+      "part": "superior oblique",
+      "color": "white"
+    },
+    {
+      "part": "lateral rectus",
+      "color": "white"
+    },
+    {
+      "part": "medial rectus",
+      "color": "red"
+    },
+    {
+      "part": "inferior oblique",
+      "color": "red"
+    },
+    {
+      "part": "levator palpebrae superioris",
+      "color": "red"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Levator palpebrae superioris",
+      "pos": {
+        "x": "-31.0",
+        "y": "-162.5",
+        "z": "1532.4"
+      },
+      "mesh": "FJ1357"
+    },
+    {
+      "label": "Superior rectus",
+      "pos": {
+        "x": "-31.7",
+        "y": "-161.3",
+        "z": "1527.2"
+      },
+      "mesh": "FJ1374"
+    },
+    {
+      "label": "Inferior oblique",
+      "pos": {
+        "x": "-39.6",
+        "y": "-145.7",
+        "z": "1513.3"
+      },
+      "mesh": "FJ1345"
+    },
+    {
+      "label": "Inferior rectus",
+      "pos": {
+        "x": "-25.0",
+        "y": "-145.3",
+        "z": "1508.0"
+      },
+      "mesh": "FJ1346"
+    },
+    {
+      "label": "Medial rectus",
+      "pos": {
+        "x": "-20.2",
+        "y": "-160.4",
+        "z": "1518.5"
+      },
+      "mesh": "FJ1359"
+    }
+  ]
+}

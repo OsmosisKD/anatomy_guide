@@ -1,0 +1,62 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-70",
+        "y": "-70",
+        "z": "-20"
+      },
+      "camera": {
+        "pos": {
+          "x": "-243",
+          "y": "-263",
+          "z": "-361"
+        },
+        "up": {
+          "x": "-0.20",
+          "y": "-0.98",
+          "z": "0.17"
+        }
+      },
+      "caption": "Not pictured: Abductor hallucis"
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right talus - isa"
+    },
+    {
+      "part": "right calcaneus - isa"
+    },
+    {
+      "part": "right foot",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right flexor digitorum brevis"
+    },
+    {
+      "part": "abductor digiti minimi of right foot"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Flexor digitorum brevis",
+      "pos": {
+        "x": "-97.7",
+        "y": "-113.3",
+        "z": "-66.1"
+      },
+      "mesh": "FJ1413"
+    },
+    {
+      "label": "Abductor digiti minimi",
+      "pos": {
+        "x": "-133.3",
+        "y": "-120.2",
+        "z": "-65.7"
+      },
+      "mesh": "FJ1390"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-120",
+        "z": "1030"
+      },
+      "camera": {
+        "pos": {
+          "x": "-12",
+          "y": "-301",
+          "z": "1034"
+        },
+        "up": {
+          "x": "-0.06",
+          "y": "0.03",
+          "z": "1.00"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "abdominal aorta - isa"
+    },
+    {
+      "part": "celiac trunk - isa"
+    },
+    {
+      "part": "middle suprarenal artery"
+    },
+    {
+      "part": "superior mesenteric artery - isa"
+    },
+    {
+      "part": "renal artery"
+    },
+    {
+      "part": "lumbar artery"
+    },
+    {
+      "part": "testicular artery"
+    },
+    {
+      "part": "inferior mesenteric artery - isa"
+    },
+    {
+      "part": "common iliac artery - isa"
+    },
+    {
+      "part": "thoracic vertebra",
+      "color": "Cyan"
+    },
+    {
+      "part": "lumbar vertebra",
+      "color": "DarkOrchid"
+    },
+    {
+      "part": "diaphragm - isa"
+    },
+    {
+      "part": "kidney",
+      "color": "brown"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Celiac trunk",
+      "pos": {
+        "x": "6.1",
+        "y": "-130.6",
+        "z": "1080.3"
+      },
+      "mesh": "FJ3421"
+    },
+    {
+      "label": "Middle suprarenal artery",
+      "pos": {
+        "x": "-10.1",
+        "y": "-105.3",
+        "z": "1055.9"
+      },
+      "mesh": "FJ3586"
+    },
+    {
+      "label": "Superior mesenteric artery",
+      "pos": {
+        "x": "-3.5",
+        "y": "-138.8",
+        "z": "1027.2"
+      },
+      "mesh": "FJ1928"
+    },
+    {
+      "label": "Testicular/ovarian artery",
+      "pos": {
+        "x": "-42.3",
+        "y": "-113.8",
+        "z": "944.6"
+      },
+      "mesh": "FJ3617"
+    },
+    {
+      "label": "Inferior mesenteric artery",
+      "pos": {
+        "x": "16.9",
+        "y": "-135.4",
+        "z": "961.5"
+      },
+      "mesh": "FJ3442"
+    },
+    {
+      "label": "Common iliac artery",
+      "pos": {
+        "x": "-10.4",
+        "y": "-125.0",
+        "z": "935.1"
+      },
+      "mesh": "FJ3565"
+    },
+    {
+      "label": "Lumbar artery",
+      "pos": {
+        "x": "60.1",
+        "y": "-56.4",
+        "z": "973.9"
+      },
+      "mesh": "FJ3632"
+    },
+    {
+      "label": "Renal artery",
+      "pos": {
+        "x": "-28.5",
+        "y": "-106.2",
+        "z": "1031.9"
+      },
+      "mesh": "FJ2038"
+    }
+  ]
+}

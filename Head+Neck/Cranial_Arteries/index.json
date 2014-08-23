@@ -1,0 +1,245 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-90",
+        "z": "1520"
+      },
+      "camera": {
+        "pos": {
+          "x": "4",
+          "y": "-9",
+          "z": "1606"
+        },
+        "up": {
+          "x": "0",
+          "y": "0",
+          "z": "1"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "temporal bone"
+    },
+    {
+      "part": "sphenoid bone - isa"
+    },
+    {
+      "part": "ethmoid - isa"
+    },
+    {
+      "part": "vomer - isa"
+    },
+    {
+      "part": "nasal bone"
+    },
+    {
+      "part": "maxilla"
+    },
+    {
+      "part": "mandible - isa"
+    },
+    {
+      "part": "palatine bone"
+    },
+    {
+      "part": "zygomatic bone"
+    },
+    {
+      "part": "lacrimal bone"
+    },
+    {
+      "part": "internal carotid artery"
+    },
+    {
+      "part": "basilar artery - isa"
+    },
+    {
+      "part": "cervical vertebra"
+    },
+    {
+      "part": "vertebral artery"
+    },
+    {
+      "part": "anterior communicating artery - isa"
+    },
+    {
+      "part": "anterior cerebral artery"
+    },
+    {
+      "part": "ophthalmic artery"
+    },
+    {
+      "part": "posterior communicating artery"
+    },
+    {
+      "part": "anterior spinal artery"
+    },
+    {
+      "part": "right middle cerebral artery"
+    },
+    {
+      "part": "cerebral arterial circle"
+    },
+    {
+      "part": "right posterior inferior cerebellar artery - isa"
+    },
+    {
+      "part": "anterior inferior cerebellar artery - isa"
+    },
+    {
+      "part": "right superior cerebellar artery - isa"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Anterior cerebral artery",
+      "pos": {
+        "x": "3.0",
+        "y": "-116.8",
+        "z": "1544.9"
+      },
+      "mesh": "FJ1654M",
+      "descr": "(partially shown)"
+    },
+    {
+      "label": "Anterior communicating artery",
+      "pos": {
+        "x": "0.3",
+        "y": "-112.1",
+        "z": "1538.1"
+      },
+      "mesh": "FJ1655"
+    },
+    {
+      "label": "Middle cerebral artery",
+      "pos": {
+        "x": "-21.8",
+        "y": "-105.3",
+        "z": "1548.4"
+      },
+      "mesh": "FJ1662"
+    },
+    {
+      "label": "Middle cerebral artery",
+      "pos": {
+        "x": "-39.0",
+        "y": "-105.1",
+        "z": "1545.0"
+      },
+      "mesh": "FJ1692"
+    },
+    {
+      "label": "sphenoid bone - isa",
+      "pos": {
+        "x": "-0.0",
+        "y": "-111.5",
+        "z": "1528.6"
+      },
+      "mesh": "FJ3394"
+    },
+    {
+      "label": "temporal bone",
+      "pos": {
+        "x": "-51.0",
+        "y": "-97.9",
+        "z": "1514.6"
+      },
+      "mesh": "FJ3386"
+    },
+    {
+      "label": "Posterior cerebral artery",
+      "pos": {
+        "x": "3.0",
+        "y": "-96.3",
+        "z": "1534.1"
+      },
+      "mesh": "FJ1723M"
+    },
+    {
+      "label": "ophthalmic artery",
+      "pos": {
+        "x": "11.6",
+        "y": "-136.4",
+        "z": "1537.2"
+      },
+      "mesh": "FJ1695M"
+    },
+    {
+      "label": "internal carotid artery",
+      "pos": {
+        "x": "13.1",
+        "y": "-108.5",
+        "z": "1536.2"
+      },
+      "mesh": "FJ1682M"
+    },
+    {
+      "label": "Posterior communicating artery",
+      "pos": {
+        "x": "9.3",
+        "y": "-102.8",
+        "z": "1532.8"
+      },
+      "mesh": "FJ1713M"
+    },
+    {
+      "label": "Basilar artery",
+      "pos": {
+        "x": "-0.7",
+        "y": "-93.8",
+        "z": "1523.1"
+      },
+      "mesh": "FJ1844"
+    },
+    {
+      "label": "Right superior cerebellar artery",
+      "pos": {
+        "x": "-17.2",
+        "y": "-88.0",
+        "z": "1525.6"
+      },
+      "mesh": "FJ1726"
+    },
+    {
+      "label": "anterior inferior cerebellar artery - isa",
+      "pos": {
+        "x": "-7.3",
+        "y": "-84.9",
+        "z": "1504.7"
+      },
+      "mesh": "FJ1656"
+    },
+    {
+      "label": "Vertebral artery",
+      "pos": {
+        "x": "7.5",
+        "y": "-80.7",
+        "z": "1499.7"
+      },
+      "mesh": "FJ1725M"
+    },
+    {
+      "label": "Anterior spinal artery",
+      "pos": {
+        "x": "1.9",
+        "y": "-71.3",
+        "z": "1484.4"
+      },
+      "mesh": "FJ1657M"
+    },
+    {
+      "label": "Right posterior inferior cerebellar",
+      "pos": {
+        "x": "-18.0",
+        "y": "-60.1",
+        "z": "1495.2"
+      },
+      "mesh": "FJ1715"
+    }
+  ]
+}

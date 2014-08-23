@@ -1,0 +1,47 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-60",
+        "z": "970"
+      },
+      "camera": {
+        "pos": {
+          "x": "1",
+          "y": "142",
+          "z": "884"
+        },
+        "up": {
+          "x": "-0.06",
+          "y": "-0.87",
+          "z": "0.50"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "large intestine"
+    },
+    {
+      "part": "small intestine"
+    },
+    {
+      "part": "stomach - isa"
+    },
+    {
+      "part": "kidney"
+    },
+    {
+      "part": "liver"
+    },
+    {
+      "part": "gallbladder - isa"
+    },
+    {
+      "part": "pancreas - isa"
+    }
+  ]
+}

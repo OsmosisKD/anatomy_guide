@@ -1,0 +1,57 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-230",
+        "y": "-90",
+        "z": "920"
+      },
+      "camera": {
+        "pos": {
+          "x": "-305",
+          "y": "-300",
+          "z": "577"
+        },
+        "up": {
+          "x": "-0.06",
+          "y": "-0.70",
+          "z": "0.69"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right humerus - isa"
+    },
+    {
+      "part": "right radius - isa"
+    },
+    {
+      "part": "right ulna - isa"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right flexor digitorum superficialis"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Flexor digitorum superficialis",
+      "pos": {
+        "x": "-228.2",
+        "y": "-117.0",
+        "z": "907.9"
+      },
+      "mesh": "FJ1475"
+    }
+  ]
+}

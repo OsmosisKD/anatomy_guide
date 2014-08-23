@@ -1,0 +1,81 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-230",
+        "y": "-90",
+        "z": "920"
+      },
+      "camera": {
+        "pos": {
+          "x": "-727",
+          "y": "127",
+          "z": "1016"
+        },
+        "up": {
+          "x": "0.51",
+          "y": "0.27",
+          "z": "0.80"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right humerus - isa"
+    },
+    {
+      "part": "right radius - isa"
+    },
+    {
+      "part": "right ulna - isa"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right brachioradialis"
+    },
+    {
+      "part": "right extensor carpi radialis longus"
+    },
+    {
+      "part": "right extensor carpi radialis brevis"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Extensor carpi radialis brevis",
+      "pos": {
+        "x": "-256.3",
+        "y": "-71.7",
+        "z": "929.9"
+      },
+      "mesh": "FJ1489"
+    },
+    {
+      "label": "Extensor carpi radialis longus",
+      "pos": {
+        "x": "-263.5",
+        "y": "-65.0",
+        "z": "992.3"
+      },
+      "mesh": "FJ1490"
+    },
+    {
+      "label": "Brachioradialis",
+      "pos": {
+        "x": "-267.0",
+        "y": "-97.6",
+        "z": "959.8"
+      },
+      "mesh": "FJ1487"
+    }
+  ]
+}

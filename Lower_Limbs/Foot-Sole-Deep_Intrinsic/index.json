@@ -1,0 +1,126 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-70",
+        "y": "-70",
+        "z": "-20"
+      },
+      "camera": {
+        "pos": {
+          "x": "-135",
+          "y": "-245",
+          "z": "-149"
+        },
+        "up": {
+          "x": "0.00",
+          "y": "-0.88",
+          "z": "0.51"
+        }
+      },
+      "caption": "Not pictured: Dorsal interossei"
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right talus - isa"
+    },
+    {
+      "part": "right calcaneus - isa"
+    },
+    {
+      "part": "right foot",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "first lumbrical of right foot"
+    },
+    {
+      "part": "second lumbrical of right foot"
+    },
+    {
+      "part": "third lumbrical of right foot"
+    },
+    {
+      "part": "fourth lumbrical of right foot"
+    },
+    {
+      "part": "flexor digiti minimi brevis of right foot"
+    },
+    {
+      "part": "opponens digiti minimi of right foot"
+    },
+    {
+      "part": "first plantar interosseous of right foot"
+    },
+    {
+      "part": "second plantar interosseous of right foot"
+    },
+    {
+      "part": "third plantar interosseous of right foot"
+    },
+    {
+      "part": "medial head of right flexor hallucis brevis",
+      "color": "fuchsia"
+    },
+    {
+      "part": "lateral head of right flexor hallucis brevis"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Medial head of flexor hallucis brevis",
+      "pos": {
+        "x": "-87.0",
+        "y": "-181.8",
+        "z": "-67.7"
+      },
+      "mesh": "FJ1396"
+    },
+    {
+      "label": "Lateral head of flexor hallucis brevis",
+      "pos": {
+        "x": "-81.9",
+        "y": "-144.0",
+        "z": "-52.6"
+      },
+      "mesh": "FJ1393"
+    },
+    {
+      "label": "Lumbricals",
+      "pos": {
+        "x": "-111.2",
+        "y": "-140.0",
+        "z": "-63.4"
+      },
+      "mesh": "FJ1387"
+    },
+    {
+      "label": "Opponens digiti minimi",
+      "pos": {
+        "x": "-133.5",
+        "y": "-122.2",
+        "z": "-61.2"
+      },
+      "mesh": "FJ1399"
+    },
+    {
+      "label": "Flexor digiti minimi brevis",
+      "pos": {
+        "x": "-129.2",
+        "y": "-126.2",
+        "z": "-66.1"
+      },
+      "mesh": "FJ1391"
+    },
+    {
+      "label": "Plantar interossei",
+      "pos": {
+        "x": "-122.6",
+        "y": "-147.8",
+        "z": "-53.1"
+      },
+      "mesh": "FJ1386"
+    }
+  ]
+}

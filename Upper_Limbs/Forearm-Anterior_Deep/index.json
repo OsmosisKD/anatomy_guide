@@ -1,0 +1,81 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-230",
+        "y": "-90",
+        "z": "920"
+      },
+      "camera": {
+        "pos": {
+          "x": "-270",
+          "y": "-496",
+          "z": "887"
+        },
+        "up": {
+          "x": "0.26",
+          "y": "0.11",
+          "z": "0.94"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right humerus - isa"
+    },
+    {
+      "part": "right radius - isa"
+    },
+    {
+      "part": "right ulna - isa"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right flexor digitorum profundus"
+    },
+    {
+      "part": "right flexor pollicis longus"
+    },
+    {
+      "part": "right pronator quadratus"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Flexor pollicis longus",
+      "pos": {
+        "x": "-251.1",
+        "y": "-94.4",
+        "z": "926.8"
+      },
+      "mesh": "FJ1498"
+    },
+    {
+      "label": "Flexor digitorum profundus",
+      "pos": {
+        "x": "-237.2",
+        "y": "-91.2",
+        "z": "952.7"
+      },
+      "mesh": "FJ1497"
+    },
+    {
+      "label": "Pronator quadratus",
+      "pos": {
+        "x": "-233.3",
+        "y": "-117.4",
+        "z": "834.9"
+      },
+      "mesh": "FJ1503"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-95",
+        "y": "-95",
+        "z": "595"
+      },
+      "camera": {
+        "pos": {
+          "x": "244",
+          "y": "-729",
+          "z": "767"
+        },
+        "up": {
+          "x": "0",
+          "y": "0",
+          "z": "1"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "bony pelvis",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "femur"
+    },
+    {
+      "part": "patella"
+    },
+    {
+      "part": "tibia"
+    },
+    {
+      "part": "fibula"
+    },
+    {
+      "part": "right sartorius"
+    },
+    {
+      "part": "right rectus femoris"
+    },
+    {
+      "part": "right vastus medialis"
+    },
+    {
+      "part": "right vastus lateralis"
+    },
+    {
+      "part": "right vastus intermedius",
+      "color": "red"
+    },
+    {
+      "part": "left vastus intermedius"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Sartorius",
+      "pos": {
+        "x": "-71.9",
+        "y": "-139.1",
+        "z": "667.0"
+      },
+      "mesh": "FJ1434"
+    },
+    {
+      "label": "Vastus medialis",
+      "pos": {
+        "x": "-64.4",
+        "y": "-137.9",
+        "z": "475.3"
+      },
+      "mesh": "FJ1443"
+    },
+    {
+      "label": "Rectus femoris",
+      "pos": {
+        "x": "-122.8",
+        "y": "-148.2",
+        "z": "663.2"
+      },
+      "mesh": "FJ1433"
+    },
+    {
+      "label": "Vastus lateralis",
+      "pos": {
+        "x": "-135.4",
+        "y": "-131.1",
+        "z": "517.3"
+      },
+      "mesh": "FJ1442"
+    },
+    {
+      "label": "Vastus intermedius",
+      "pos": {
+        "x": "106.8",
+        "y": "-133.3",
+        "z": "588.4"
+      },
+      "mesh": "FJ1441M"
+    }
+  ]
+}

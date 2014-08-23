@@ -1,0 +1,144 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-120",
+        "z": "1310"
+      },
+      "camera": {
+        "pos": {
+          "x": "88",
+          "y": "-361",
+          "z": "1427"
+        },
+        "up": {
+          "x": "-0.14",
+          "y": "0.57",
+          "z": "0.81"
+        }
+      },
+      "caption": "Subcostals not pictured."
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "rib"
+    },
+    {
+      "part": "thoracic vertebra",
+      "color": "Cyan"
+    },
+    {
+      "part": "cervical vertebra",
+      "color": "ForestGreen"
+    },
+    {
+      "part": "lumbar vertebra",
+      "color": "DarkOrchid"
+    },
+    {
+      "part": "clavicle",
+      "opacity": "0.5"
+    },
+    {
+      "part": "brachiocephalic vein"
+    },
+    {
+      "part": "superior vena cava - isa"
+    },
+    {
+      "part": "inferior vena cava - isa"
+    },
+    {
+      "part": "internal jugular vein"
+    },
+    {
+      "part": "brachiocephalic artery - isa"
+    },
+    {
+      "part": "aorta"
+    },
+    {
+      "part": "right subclavian artery - isa"
+    },
+    {
+      "part": "common carotid artery"
+    },
+    {
+      "part": "subclavian artery"
+    },
+    {
+      "part": "azygos vein - isa"
+    },
+    {
+      "part": "hemiazygos vein - isa"
+    },
+    {
+      "part": "internal thoracic vein"
+    },
+    {
+      "part": "trachea - isa"
+    },
+    {
+      "part": "esophagus - isa",
+      "color": "PaleGoldenRod"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Internal Jugular Vein",
+      "pos": {
+        "x": "-23.8",
+        "y": "-119.7",
+        "z": "1367.3"
+      },
+      "mesh": "FJ3585"
+    },
+    {
+      "label": "Brachicephalic Vein",
+      "pos": {
+        "x": "-19.6",
+        "y": "-128.0",
+        "z": "1338.4"
+      },
+      "mesh": "FJ3583"
+    },
+    {
+      "label": "Inferior vena cava",
+      "pos": {
+        "x": "-13.9",
+        "y": "-124.6",
+        "z": "1190.4"
+      },
+      "mesh": "FJ3441"
+    },
+    {
+      "label": "Internal thoracic vein",
+      "pos": {
+        "x": "-11.1",
+        "y": "-171.1",
+        "z": "1264.3"
+      },
+      "mesh": "FJ1993"
+    },
+    {
+      "label": "Azygos Vein",
+      "pos": {
+        "x": "-11.3",
+        "y": "-69.2",
+        "z": "1200.7"
+      },
+      "mesh": "FJ3416"
+    },
+    {
+      "label": "Hemiazygos vein",
+      "pos": {
+        "x": "20.3",
+        "y": "-66.1",
+        "z": "1120.6"
+      },
+      "mesh": "FJ3434"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "0",
+        "z": "800"
+      },
+      "camera": {
+        "pos": {
+          "x": "-19",
+          "y": "-293",
+          "z": "962"
+        },
+        "up": {
+          "x": "0",
+          "y": "0",
+          "z": "1"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "bony pelvis",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "vertebra"
+    },
+    {
+      "part": "puborectalis"
+    },
+    {
+      "part": "pubococcygeus"
+    },
+    {
+      "part": "iliococcygeus"
+    },
+    {
+      "part": "piriformis"
+    },
+    {
+      "part": "obturator internus"
+    },
+    {
+      "part": "external anal sphincter - isa"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Piriformis",
+      "pos": {
+        "x": "-42.4",
+        "y": "-40.7",
+        "z": "855.0"
+      },
+      "mesh": "FJ1428"
+    },
+    {
+      "label": "Pubococcygeus",
+      "pos": {
+        "x": "-18.2",
+        "y": "-23.5",
+        "z": "792.4"
+      },
+      "mesh": "FJ2550"
+    },
+    {
+      "label": "Iliococcygeus",
+      "pos": {
+        "x": "-39.2",
+        "y": "-38.4",
+        "z": "808.4"
+      },
+      "mesh": "FJ2549"
+    },
+    {
+      "label": "External anal sphincter",
+      "pos": {
+        "x": "6.4",
+        "y": "-35.9",
+        "z": "759.7"
+      },
+      "mesh": "FJ1450M"
+    },
+    {
+      "label": "Obturator internus",
+      "pos": {
+        "x": "-33.6",
+        "y": "-98.9",
+        "z": "803.9"
+      },
+      "mesh": "FJ1426"
+    },
+    {
+      "label": "Puborectalis",
+      "pos": {
+        "x": "-10.3",
+        "y": "-25.4",
+        "z": "774.0"
+      },
+      "mesh": "FJ2551"
+    }
+  ]
+}

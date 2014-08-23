@@ -1,0 +1,102 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-60",
+        "z": "1430"
+      },
+      "camera": {
+        "pos": {
+          "x": "-17",
+          "y": "-315",
+          "z": "1469"
+        },
+        "up": {
+          "x": "-0.01",
+          "y": "0.03",
+          "z": "1.00"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "cervical vertebra",
+      "color": "Cyan"
+    },
+    {
+      "part": "occipital bone - isa"
+    },
+    {
+      "part": "thoracic vertebra",
+      "color": "ForestGreen"
+    },
+    {
+      "part": "longus capitis"
+    },
+    {
+      "part": "vertical intermediate part of longus colli"
+    },
+    {
+      "part": "superior oblique part of longus colli"
+    },
+    {
+      "part": "inferior oblique part of longus colli"
+    },
+    {
+      "part": "rectus capitis anterior"
+    },
+    {
+      "part": "rectus capitis lateralis"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Rectus capitis lateralis",
+      "pos": {
+        "x": "-36.4",
+        "y": "-75.4",
+        "z": "1477.4"
+      },
+      "mesh": "FJ1591"
+    },
+    {
+      "label": "Rectus capitis anterior",
+      "pos": {
+        "x": "-21.8",
+        "y": "-84.2",
+        "z": "1479.1"
+      },
+      "mesh": "FJ1588"
+    },
+    {
+      "label": "Longus capitis",
+      "pos": {
+        "x": "-18.9",
+        "y": "-93.6",
+        "z": "1438.5"
+      },
+      "mesh": "FJ1582"
+    },
+    {
+      "label": "Longus colli - vertical intermediate",
+      "pos": {
+        "x": "7.9",
+        "y": "-91.9",
+        "z": "1404.0"
+      },
+      "mesh": "FJ1601"
+    },
+    {
+      "label": "Longus colli - inferior oblique",
+      "pos": {
+        "x": "12.8",
+        "y": "-87.3",
+        "z": "1357.3"
+      },
+      "mesh": "FJ1557"
+    }
+  ]
+}

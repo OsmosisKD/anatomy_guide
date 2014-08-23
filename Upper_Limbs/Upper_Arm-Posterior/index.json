@@ -1,0 +1,123 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-190",
+        "y": "-60",
+        "z": "1170"
+      },
+      "camera": {
+        "pos": {
+          "x": "-131",
+          "y": "317",
+          "z": "1151"
+        },
+        "up": {
+          "x": "-0.09",
+          "y": "-0.40",
+          "z": "0.90"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right humerus - isa"
+    },
+    {
+      "part": "right radius - isa"
+    },
+    {
+      "part": "right ulna - isa"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "long head of right triceps brachii"
+    },
+    {
+      "part": "medial head of right triceps brachii"
+    },
+    {
+      "part": "lateral head of right triceps brachii"
+    },
+    {
+      "part": "right anconeus - isa"
+    },
+    {
+      "part": "right scapula - isa"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Lateral head of triceps brachii",
+      "pos": {
+        "x": "-191.8",
+        "y": "-41.6",
+        "z": "1248.3"
+      },
+      "mesh": "FJ1477"
+    },
+    {
+      "label": "Long head of triceps brachii",
+      "pos": {
+        "x": "-158.2",
+        "y": "-33.5",
+        "z": "1241.8"
+      },
+      "mesh": "FJ1479"
+    },
+    {
+      "label": "Scapula - Infraglenoid tubercle",
+      "pos": {
+        "x": "-144.7",
+        "y": "-52.5",
+        "z": "1293.8"
+      },
+      "mesh": "FJ3384"
+    },
+    {
+      "label": "Medial head of triceps brachii",
+      "pos": {
+        "x": "-186.8",
+        "y": "-48.0",
+        "z": "1067.8"
+      },
+      "mesh": "FJ1480"
+    },
+    {
+      "label": "Anconeus",
+      "pos": {
+        "x": "-224.6",
+        "y": "-44.9",
+        "z": "1038.8"
+      },
+      "mesh": "FJ1485"
+    },
+    {
+      "label": "Humerus - Lateral epicondyle",
+      "pos": {
+        "x": "-231.1",
+        "y": "-55.2",
+        "z": "1052.6"
+      },
+      "mesh": "FJ3368"
+    },
+    {
+      "label": "Ulna - Olecranon",
+      "pos": {
+        "x": "-205.0",
+        "y": "-47.8",
+        "z": "1028.0"
+      },
+      "mesh": "FJ3391"
+    }
+  ]
+}

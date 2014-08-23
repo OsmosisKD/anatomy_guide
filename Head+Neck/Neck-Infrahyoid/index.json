@@ -1,0 +1,136 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-90",
+        "z": "1380"
+      },
+      "camera": {
+        "pos": {
+          "x": "-126",
+          "y": "-227",
+          "z": "1404"
+        },
+        "up": {
+          "x": "-0.09",
+          "y": "0.02",
+          "z": "1.00"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "occipital bone - isa"
+    },
+    {
+      "part": "temporal bone"
+    },
+    {
+      "part": "parietal bone"
+    },
+    {
+      "part": "sphenoid bone - isa"
+    },
+    {
+      "part": "ethmoid - isa"
+    },
+    {
+      "part": "frontal bone - isa"
+    },
+    {
+      "part": "vomer - isa"
+    },
+    {
+      "part": "nasal bone"
+    },
+    {
+      "part": "maxilla"
+    },
+    {
+      "part": "mandible - isa"
+    },
+    {
+      "part": "palatine bone"
+    },
+    {
+      "part": "zygomatic bone"
+    },
+    {
+      "part": "lacrimal bone"
+    },
+    {
+      "part": "hyoid bone - isa"
+    },
+    {
+      "part": "trachea - isa"
+    },
+    {
+      "part": "laryngeal cartilage"
+    },
+    {
+      "part": "thyroid cartilage"
+    },
+    {
+      "part": "omohyoid"
+    },
+    {
+      "part": "sternohyoid"
+    },
+    {
+      "part": "sternothyroid"
+    },
+    {
+      "part": "thyrohyoid"
+    },
+    {
+      "part": "scapula"
+    },
+    {
+      "part": "manubrium - isa"
+    },
+    {
+      "part": "clavicle"
+    }
+  ],
+  "labels": [
+    {
+      "label": "omohyoid",
+      "pos": {
+        "x": "-75.3",
+        "y": "-77.5",
+        "z": "1352.3"
+      },
+      "mesh": "FJ1586"
+    },
+    {
+      "label": "sternothyroid",
+      "pos": {
+        "x": "-20.8",
+        "y": "-106.6",
+        "z": "1374.9"
+      },
+      "mesh": "FJ1597"
+    },
+    {
+      "label": "sternohyoid",
+      "pos": {
+        "x": "-12.3",
+        "y": "-121.9",
+        "z": "1341.4"
+      },
+      "mesh": "FJ1596"
+    },
+    {
+      "label": "thyrohyoid",
+      "pos": {
+        "x": "-18.9",
+        "y": "-104.1",
+        "z": "1416.0"
+      },
+      "mesh": "FJ1599"
+    }
+  ]
+}

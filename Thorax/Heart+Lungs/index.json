@@ -1,0 +1,147 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-120",
+        "z": "1250"
+      },
+      "camera": {
+        "pos": {
+          "x": "0",
+          "y": "-393",
+          "z": "1250"
+        },
+        "up": {
+          "x": "0.00",
+          "y": "0.00",
+          "z": "1.00"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "pulmonary valve",
+      "color": "purple"
+    },
+    {
+      "part": "aorta"
+    },
+    {
+      "part": "superior vena cava - isa"
+    },
+    {
+      "part": "inferior vena cava - isa"
+    },
+    {
+      "part": "pulmonary arterial trunk",
+      "color": "purple"
+    },
+    {
+      "part": "right atrium",
+      "color": "CornflowerBlue"
+    },
+    {
+      "part": "left atrium",
+      "color": "Salmon"
+    },
+    {
+      "part": "right ventricle",
+      "color": "CornflowerBlue"
+    },
+    {
+      "part": "left ventricle",
+      "color": "Salmon"
+    },
+    {
+      "part": "trachea - isa"
+    },
+    {
+      "part": "esophagus - isa",
+      "color": "PaleGoldenRod"
+    },
+    {
+      "part": "tracheobronchial tree"
+    },
+    {
+      "part": "thymus",
+      "color": "green"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Thymus",
+      "pos": {
+        "x": "-15.1",
+        "y": "-132.2",
+        "z": "1286.8"
+      },
+      "mesh": "FJ3151"
+    },
+    {
+      "label": "Right atrium",
+      "pos": {
+        "x": "-16.9",
+        "y": "-152.5",
+        "z": "1241.1"
+      },
+      "mesh": "FJ2439"
+    },
+    {
+      "label": "Right ventricle",
+      "pos": {
+        "x": "16.4",
+        "y": "-172.4",
+        "z": "1221.7"
+      },
+      "mesh": "FJ2423"
+    },
+    {
+      "label": "Inferior vena cava",
+      "pos": {
+        "x": "-17.1",
+        "y": "-125.9",
+        "z": "1158.3"
+      },
+      "mesh": "FJ3441"
+    },
+    {
+      "label": "Esophagus",
+      "pos": {
+        "x": "8.2",
+        "y": "-110.1",
+        "z": "1143.4"
+      },
+      "mesh": "FJ2563"
+    },
+    {
+      "label": "Aorta",
+      "pos": {
+        "x": "17.9",
+        "y": "-95.0",
+        "z": "1161.2"
+      },
+      "mesh": "FJ3427"
+    },
+    {
+      "label": "Left ventricle",
+      "pos": {
+        "x": "59.2",
+        "y": "-150.6",
+        "z": "1222.5"
+      },
+      "mesh": "FJ2422"
+    },
+    {
+      "label": "Left atrium",
+      "pos": {
+        "x": "54.0",
+        "y": "-137.2",
+        "z": "1254.8"
+      },
+      "mesh": "FJ2438"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "0",
+        "z": "1200"
+      },
+      "camera": {
+        "pos": {
+          "x": "378",
+          "y": "473",
+          "z": "1178"
+        },
+        "up": {
+          "x": "0.09",
+          "y": "0.02",
+          "z": "1.00"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "cervical vertebra",
+      "color": "Cyan"
+    },
+    {
+      "part": "occipital bone - isa"
+    },
+    {
+      "part": "thoracic vertebra",
+      "color": "ForestGreen"
+    },
+    {
+      "part": "iliocostalis cervicis"
+    },
+    {
+      "part": "iliocostalis thoracis"
+    },
+    {
+      "part": "iliocostalis lumborum"
+    },
+    {
+      "part": "bony pelvis",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "rib"
+    },
+    {
+      "part": "longissimus thoracis"
+    },
+    {
+      "part": "longissimus cervicis"
+    },
+    {
+      "part": "longissimus capitis"
+    },
+    {
+      "part": "temporal bone"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Iliocostalis thoracis",
+      "pos": {
+        "x": "82.4",
+        "y": "-3.5",
+        "z": "1231.4"
+      },
+      "mesh": "FJ1528M"
+    },
+    {
+      "label": "Longissimus thoracis",
+      "pos": {
+        "x": "38.3",
+        "y": "-2.5",
+        "z": "1236.1"
+      },
+      "mesh": "FJ1535M"
+    },
+    {
+      "label": "Iliocostalis lumborum",
+      "pos": {
+        "x": "57.4",
+        "y": "-21.3",
+        "z": "974.5"
+      },
+      "mesh": "FJ1527M"
+    },
+    {
+      "label": "Iliocostalis cervicis",
+      "pos": {
+        "x": "41.8",
+        "y": "-58.2",
+        "z": "1383.2"
+      },
+      "mesh": "FJ1526M"
+    },
+    {
+      "label": "Longissimus cervicis",
+      "pos": {
+        "x": "30.9",
+        "y": "-20.2",
+        "z": "1304.0"
+      },
+      "mesh": "FJ1534M"
+    },
+    {
+      "label": "Longissimus capitis",
+      "pos": {
+        "x": "31.1",
+        "y": "-70.4",
+        "z": "1442.4"
+      },
+      "mesh": "FJ1533M"
+    }
+  ]
+}

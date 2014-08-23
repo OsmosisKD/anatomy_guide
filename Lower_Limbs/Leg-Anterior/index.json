@@ -1,0 +1,106 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-75",
+        "y": "-90",
+        "z": "160"
+      },
+      "camera": {
+        "pos": {
+          "x": "-59",
+          "y": "-766",
+          "z": "235"
+        },
+        "up": {
+          "x": "0.00",
+          "y": "0.27",
+          "z": "0.97"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "tibia"
+    },
+    {
+      "part": "fibula"
+    },
+    {
+      "part": "talus"
+    },
+    {
+      "part": "calcaneus"
+    },
+    {
+      "part": "right foot",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right tibialis anterior"
+    },
+    {
+      "part": "extensor hallucis longus"
+    },
+    {
+      "part": "right extensor digitorum longus"
+    },
+    {
+      "part": "fibularis tertius",
+      "color": ""
+    },
+    {
+      "part": "left foot",
+      "color": "BlanchedAlmond"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Extensor digitorum longus",
+      "pos": {
+        "x": "-115.2",
+        "y": "-73.1",
+        "z": "177.4"
+      },
+      "mesh": "FJ1406"
+    },
+    {
+      "label": "Tibialis anterior",
+      "pos": {
+        "x": "-107.2",
+        "y": "-99.9",
+        "z": "198.8"
+      },
+      "mesh": "FJ1439"
+    },
+    {
+      "label": "Extensor hallucis longus",
+      "pos": {
+        "x": "-97.9",
+        "y": "-197.0",
+        "z": "-49.6"
+      },
+      "mesh": "FJ1408"
+    },
+    {
+      "label": "Extensor hallucis longus",
+      "pos": {
+        "x": "101.0",
+        "y": "-73.0",
+        "z": "133.2"
+      },
+      "mesh": "FJ1408M"
+    },
+    {
+      "label": "Fibularis tertius",
+      "pos": {
+        "x": "97.4",
+        "y": "-69.9",
+        "z": "46.8"
+      },
+      "mesh": "FJ1411M"
+    }
+  ]
+}

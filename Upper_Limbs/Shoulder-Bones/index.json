@@ -1,0 +1,82 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-170",
+        "y": "-80",
+        "z": "1320"
+      },
+      "camera": {
+        "pos": {
+          "x": "-220",
+          "y": "-282",
+          "z": "1419"
+        },
+        "up": {
+          "x": "0.48",
+          "y": "0.35",
+          "z": "0.81"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right clavicle - isa"
+    },
+    {
+      "part": "right humerus - isa"
+    },
+    {
+      "part": "right scapula - isa"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Coracoid process",
+      "pos": {
+        "x": "-133.4",
+        "y": "-102.0",
+        "z": "1325.9"
+      },
+      "mesh": "FJ3384"
+    },
+    {
+      "label": "Acromion",
+      "pos": {
+        "x": "-155.2",
+        "y": "-78.4",
+        "z": "1347.4"
+      },
+      "mesh": "FJ3384"
+    },
+    {
+      "label": "Scapula - Inferior angle",
+      "pos": {
+        "x": "-95.1",
+        "y": "-7.2",
+        "z": "1188.3"
+      },
+      "mesh": "FJ3384"
+    },
+    {
+      "label": "Greater tubercle",
+      "pos": {
+        "x": "-184.8",
+        "y": "-82.2",
+        "z": "1329.5"
+      },
+      "mesh": "FJ3368"
+    },
+    {
+      "label": "Lesser tubercle",
+      "pos": {
+        "x": "-166.9",
+        "y": "-99.6",
+        "z": "1317.1"
+      },
+      "mesh": "FJ3368"
+    }
+  ]
+}

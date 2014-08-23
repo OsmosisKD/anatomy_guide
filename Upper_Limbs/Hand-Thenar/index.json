@@ -1,0 +1,85 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-250",
+        "y": "-120",
+        "z": "800"
+      },
+      "camera": {
+        "pos": {
+          "x": "-329",
+          "y": "-261",
+          "z": "709"
+        },
+        "up": {
+          "x": "0.59",
+          "y": "0.34",
+          "z": "0.74"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "transverse head of right adductor pollicis"
+    },
+    {
+      "part": "oblique head of right adductor pollicis"
+    },
+    {
+      "part": "left flexor pollicis brevis",
+      "color": "fuchsia"
+    },
+    {
+      "part": "right opponens pollicis"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Opponens pollicis",
+      "pos": {
+        "x": "-287.4",
+        "y": "-141.0",
+        "z": "791.3"
+      },
+      "mesh": "FJ1501"
+    },
+    {
+      "label": "Flexor pollicis brevis",
+      "pos": {
+        "x": "-294.2",
+        "y": "-149.0",
+        "z": "770.8"
+      },
+      "mesh": "FJ1469"
+    },
+    {
+      "label": "Adductor pollicis - oblique head",
+      "pos": {
+        "x": "-271.9",
+        "y": "-136.3",
+        "z": "777.4"
+      },
+      "mesh": "FJ1481"
+    },
+    {
+      "label": "Adductor pollicis - transverse head",
+      "pos": {
+        "x": "-272.2",
+        "y": "-132.9",
+        "z": "756.8"
+      },
+      "mesh": "FJ1515"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-250",
+        "y": "-120",
+        "z": "800"
+      },
+      "camera": {
+        "pos": {
+          "x": "-107",
+          "y": "-286",
+          "z": "707"
+        },
+        "up": {
+          "x": "-0.28",
+          "y": "0.96",
+          "z": "0.08"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "set of lumbricals of right hand",
+      "color": "#FF8000"
+    },
+    {
+      "part": "set of palmar interossei of right hand",
+      "color": "#FF8000"
+    },
+    {
+      "part": "set of dorsal interossei of right hand",
+      "color": "#FF8000"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Lumbricals",
+      "pos": {
+        "x": "-271.5",
+        "y": "-153.3",
+        "z": "688.9"
+      },
+      "mesh": "FJ1510"
+    },
+    {
+      "label": "Palmar interossei",
+      "pos": {
+        "x": "-236.4",
+        "y": "-134.2",
+        "z": "756.8"
+      },
+      "mesh": "FJ1511"
+    },
+    {
+      "label": "Dorsal interossei",
+      "pos": {
+        "x": "-287.3",
+        "y": "-130.3",
+        "z": "765.5"
+      },
+      "mesh": "FJ1509"
+    }
+  ]
+}

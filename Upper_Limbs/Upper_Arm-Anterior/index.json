@@ -1,0 +1,138 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-190",
+        "y": "-70",
+        "z": "1180"
+      },
+      "camera": {
+        "pos": {
+          "x": "-140",
+          "y": "-311",
+          "z": "1363"
+        },
+        "up": {
+          "x": "0.75",
+          "y": "0.61",
+          "z": "-0.17"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right humerus - isa"
+    },
+    {
+      "part": "right radius - isa"
+    },
+    {
+      "part": "right ulna - isa"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "short head of right biceps brachii"
+    },
+    {
+      "part": "long head of right biceps brachii"
+    },
+    {
+      "part": "right scapula - isa"
+    },
+    {
+      "part": "right brachialis"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Long head of biceps brachii",
+      "pos": {
+        "x": "-160.1",
+        "y": "-90.4",
+        "z": "1337.2"
+      },
+      "mesh": "FJ1478"
+    },
+    {
+      "label": "Short head of biceps brachii",
+      "pos": {
+        "x": "-143.0",
+        "y": "-105.4",
+        "z": "1320.2"
+      },
+      "mesh": "FJ1512"
+    },
+    {
+      "label": "Brachialis",
+      "pos": {
+        "x": "-190.5",
+        "y": "-85.3",
+        "z": "1074.9"
+      },
+      "mesh": "FJ1486"
+    },
+    {
+      "label": "Superglenoid tubercle of scapula",
+      "pos": {
+        "x": "-136.1",
+        "y": "-74.6",
+        "z": "1326.3"
+      },
+      "mesh": "FJ3384"
+    },
+    {
+      "label": "Coracoid process of scapula",
+      "pos": {
+        "x": "-133.3",
+        "y": "-102.0",
+        "z": "1325.8"
+      },
+      "mesh": "FJ3384"
+    },
+    {
+      "label": "Greater tubercle",
+      "pos": {
+        "x": "-181.2",
+        "y": "-86.0",
+        "z": "1331.4"
+      },
+      "mesh": "FJ3368"
+    },
+    {
+      "label": "Lesser tubercle",
+      "pos": {
+        "x": "-163.4",
+        "y": "-97.7",
+        "z": "1319.5"
+      },
+      "mesh": "FJ3368"
+    },
+    {
+      "label": "Radial tuberosity",
+      "pos": {
+        "x": "-232.7",
+        "y": "-87.4",
+        "z": "1007.3"
+      },
+      "mesh": "FJ3349"
+    },
+    {
+      "label": "Ulnar tuberosity",
+      "pos": {
+        "x": "-211.6",
+        "y": "-62.0",
+        "z": "994.1"
+      },
+      "mesh": "FJ3391"
+    }
+  ]
+}

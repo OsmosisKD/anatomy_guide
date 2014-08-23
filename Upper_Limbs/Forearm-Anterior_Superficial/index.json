@@ -1,0 +1,99 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-230",
+        "y": "-90",
+        "z": "920"
+      },
+      "camera": {
+        "pos": {
+          "x": "-303",
+          "y": "-245",
+          "z": "683"
+        },
+        "up": {
+          "x": "0.05",
+          "y": "-0.70",
+          "z": "0.70"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right humerus - isa"
+    },
+    {
+      "part": "right radius - isa"
+    },
+    {
+      "part": "right ulna - isa"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "humeral head of right pronator teres"
+    },
+    {
+      "part": "ulnar head of right pronator teres"
+    },
+    {
+      "part": "right flexor carpi radialis"
+    },
+    {
+      "part": "right palmaris longus"
+    },
+    {
+      "part": "humeral head of right flexor carpi ulnaris"
+    },
+    {
+      "part": "ulnar head of right flexor carpi ulnaris"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Humeral head of pronator teres",
+      "pos": {
+        "x": "-254.8",
+        "y": "-93.5",
+        "z": "953.2"
+      },
+      "mesh": "FJ1474"
+    },
+    {
+      "label": "Flexor carpi radialis",
+      "pos": {
+        "x": "-240.6",
+        "y": "-125.8",
+        "z": "875.8"
+      },
+      "mesh": "FJ1496"
+    },
+    {
+      "label": "Palmaris longus",
+      "pos": {
+        "x": "-257.6",
+        "y": "-142.2",
+        "z": "778.5"
+      },
+      "mesh": "FJ1502"
+    },
+    {
+      "label": "Humeral head of flexor carpi ulnaris",
+      "pos": {
+        "x": "-228.7",
+        "y": "-116.4",
+        "z": "842.0"
+      },
+      "mesh": "FJ1473"
+    }
+  ]
+}

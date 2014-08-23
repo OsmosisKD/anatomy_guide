@@ -1,0 +1,52 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-230",
+        "y": "-90",
+        "z": "920"
+      },
+      "camera": {
+        "pos": {
+          "x": "-9",
+          "y": "189",
+          "z": "645"
+        },
+        "up": {
+          "x": "-0.80",
+          "y": "0.53",
+          "z": "0.24"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right humerus - isa"
+    },
+    {
+      "part": "right radius - isa"
+    },
+    {
+      "part": "right ulna - isa"
+    },
+    {
+      "part": "right hand",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right wrist",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right extensor digitorum"
+    },
+    {
+      "part": "right extensor digiti minimi"
+    },
+    {
+      "part": "right extensor carpi ulnaris"
+    }
+  ]
+}

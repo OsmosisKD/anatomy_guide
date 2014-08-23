@@ -1,0 +1,83 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-95",
+        "y": "-95",
+        "z": "595"
+      },
+      "camera": {
+        "pos": {
+          "x": "-127",
+          "y": "-699",
+          "z": "622"
+        },
+        "up": {
+          "x": "0.00",
+          "y": "0.04",
+          "z": "1.00"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "bony pelvis",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right femur - isa"
+    },
+    {
+      "part": "right pectineus"
+    },
+    {
+      "part": "right adductor longus"
+    },
+    {
+      "part": "right adductor brevis"
+    },
+    {
+      "part": "right gracilis"
+    },
+    {
+      "part": "right patella - isa"
+    },
+    {
+      "part": "right tibia - isa"
+    },
+    {
+      "part": "right fibula - isa"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Gracilis",
+      "pos": {
+        "x": "-27.2",
+        "y": "-110.5",
+        "z": "585.6"
+      },
+      "mesh": "FJ1421"
+    },
+    {
+      "label": "Adductor longus",
+      "pos": {
+        "x": "-66.6",
+        "y": "-123.1",
+        "z": "635.5"
+      },
+      "mesh": "FJ1402"
+    },
+    {
+      "label": "Pectineus",
+      "pos": {
+        "x": "-66.8",
+        "y": "-125.9",
+        "z": "767.6"
+      },
+      "mesh": "FJ1427"
+    }
+  ]
+}

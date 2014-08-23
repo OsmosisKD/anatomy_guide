@@ -1,0 +1,91 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "0",
+        "z": "800"
+      },
+      "camera": {
+        "pos": {
+          "x": "23",
+          "y": "-444",
+          "z": "911"
+        },
+        "up": {
+          "x": "0",
+          "y": "0",
+          "z": "1"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "bony pelvis",
+      "color": "BlanchedAlmond",
+      "selfCollide": "1"
+    },
+    {
+      "part": "vertebra",
+      "selfCollide": "1"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Iliac crest",
+      "pos": {
+        "x": "-130.4",
+        "y": "-99.7",
+        "z": "941.0"
+      },
+      "mesh": "FJ3152"
+    },
+    {
+      "label": "Ischial tuberosity",
+      "pos": {
+        "x": "-51.4",
+        "y": "-36.3",
+        "z": "760.8"
+      },
+      "mesh": "FJ3152"
+    },
+    {
+      "label": "Anterior superior iliac spine",
+      "pos": {
+        "x": "-127.0",
+        "y": "-137.3",
+        "z": "887.4"
+      },
+      "mesh": "FJ3152"
+    },
+    {
+      "label": "Pubic tubercle",
+      "pos": {
+        "x": "-16.7",
+        "y": "-137.5",
+        "z": "798.6"
+      },
+      "mesh": "FJ3152"
+    },
+    {
+      "label": "Acetabulum",
+      "pos": {
+        "x": "-78.4",
+        "y": "-78.1",
+        "z": "834.1"
+      },
+      "mesh": "FJ3152"
+    },
+    {
+      "label": "Ischial spine",
+      "pos": {
+        "x": "-45.5",
+        "y": "-37.3",
+        "z": "819.1"
+      },
+      "mesh": "FJ3152"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-120",
+        "z": "1250"
+      },
+      "camera": {
+        "pos": {
+          "x": "0",
+          "y": "-342",
+          "z": "1250"
+        },
+        "up": {
+          "x": "0.00",
+          "y": "0.00",
+          "z": "1.00"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "mitral valve",
+      "color": "white"
+    },
+    {
+      "part": "pulmonary valve",
+      "color": "white"
+    },
+    {
+      "part": "aortic valve",
+      "color": "white"
+    },
+    {
+      "part": "tricuspid valve",
+      "color": "white"
+    },
+    {
+      "part": "lateral papillary muscle of left ventricle - isa",
+      "color": "#FF8000"
+    },
+    {
+      "part": "septal papillary muscle of right ventricle - isa",
+      "color": "#FF8000"
+    },
+    {
+      "part": "cavity of left atrium - isa",
+      "opacity": "0.5",
+      "color": "magenta"
+    },
+    {
+      "part": "cavity of left ventricle - isa",
+      "opacity": "0.5",
+      "color": "red"
+    },
+    {
+      "part": "cavity of right ventricle - isa",
+      "opacity": "0.5",
+      "color": "blue"
+    },
+    {
+      "part": "cavity of right atrium - isa",
+      "opacity": "0.5",
+      "color": "SkyBlue"
+    },
+    {
+      "part": "aorta"
+    },
+    {
+      "part": "superior vena cava - isa"
+    },
+    {
+      "part": "inferior vena cava - isa"
+    },
+    {
+      "part": "pulmonary arterial trunk",
+      "color": "purple"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Pumonary arterial trunk",
+      "pos": {
+        "x": "25.8",
+        "y": "-150.7",
+        "z": "1274.6"
+      },
+      "mesh": "FJ2966"
+    },
+    {
+      "label": "Aorta",
+      "pos": {
+        "x": "6.0",
+        "y": "-134.7",
+        "z": "1292.1"
+      },
+      "mesh": "FJ3411"
+    },
+    {
+      "label": "Superior vena cava",
+      "pos": {
+        "x": "-14.7",
+        "y": "-126.8",
+        "z": "1298.6"
+      },
+      "mesh": "FJ3645"
+    },
+    {
+      "label": "Inferior vena cava",
+      "pos": {
+        "x": "-16.1",
+        "y": "-126.3",
+        "z": "1173.7"
+      },
+      "mesh": "FJ3441"
+    },
+    {
+      "label": "Right ventricle",
+      "pos": {
+        "x": "30.5",
+        "y": "-170.6",
+        "z": "1205.7"
+      },
+      "mesh": "FJ2423"
+    },
+    {
+      "label": "Left ventricle",
+      "pos": {
+        "x": "57.8",
+        "y": "-150.9",
+        "z": "1223.1"
+      },
+      "mesh": "FJ2422"
+    },
+    {
+      "label": "Right atrium",
+      "pos": {
+        "x": "-17.0",
+        "y": "-146.4",
+        "z": "1248.0"
+      },
+      "mesh": "FJ2424"
+    }
+  ]
+}

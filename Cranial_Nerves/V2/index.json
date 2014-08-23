@@ -1,0 +1,52 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-120",
+        "z": "1500"
+      },
+      "camera": {
+        "pos": {
+          "x": "100",
+          "y": "-197",
+          "z": "1574"
+        },
+        "up": {
+          "x": "-0.41",
+          "y": "-0.08",
+          "z": "0.89"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "temporal bone"
+    },
+    {
+      "part": "maxilla"
+    },
+    {
+      "part": "occipital bone - isa"
+    },
+    {
+      "part": "zygomatic bone"
+    },
+    {
+      "part": "brainstem"
+    },
+    {
+      "part": "sphenoid bone - isa"
+    },
+    {
+      "part": "frontal bone - isa",
+      "opacity": "0.5"
+    },
+    {
+      "part": "optic part of retina",
+      "opacity": "0.5"
+    }
+  ]
+}

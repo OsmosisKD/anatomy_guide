@@ -1,0 +1,74 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-75",
+        "y": "-90",
+        "z": "180"
+      },
+      "camera": {
+        "pos": {
+          "x": "-492",
+          "y": "435",
+          "z": "59"
+        },
+        "up": {
+          "x": "-0.03",
+          "y": "0.16",
+          "z": "0.99"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "tibia"
+    },
+    {
+      "part": "fibula"
+    },
+    {
+      "part": "talus"
+    },
+    {
+      "part": "calcaneus"
+    },
+    {
+      "part": "right foot",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "right fibularis longus"
+    },
+    {
+      "part": "right fibularis brevis"
+    },
+    {
+      "part": "left foot"
+    },
+    {
+      "part": "left fibularis brevis"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Fibularis brevis",
+      "pos": {
+        "x": "98.2",
+        "y": "-44.1",
+        "z": "86.1"
+      },
+      "mesh": "FJ1409M"
+    },
+    {
+      "label": "Fibularis longus",
+      "pos": {
+        "x": "-111.2",
+        "y": "-43.6",
+        "z": "249.8"
+      },
+      "mesh": "FJ1410"
+    }
+  ]
+}

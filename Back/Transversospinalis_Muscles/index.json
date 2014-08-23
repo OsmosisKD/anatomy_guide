@@ -1,0 +1,101 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "0",
+        "y": "-30",
+        "z": "1260"
+      },
+      "camera": {
+        "pos": {
+          "x": "-362",
+          "y": "561",
+          "z": "1344"
+        },
+        "up": {
+          "x": "0.04",
+          "y": "0.08",
+          "z": "1.00"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "cervical vertebra",
+      "color": "Cyan"
+    },
+    {
+      "part": "occipital bone - isa"
+    },
+    {
+      "part": "thoracic vertebra",
+      "color": "ForestGreen"
+    },
+    {
+      "part": "rib"
+    },
+    {
+      "part": "temporal bone"
+    },
+    {
+      "part": "bony pelvis",
+      "color": "BlanchedAlmond"
+    },
+    {
+      "part": "rotator muscle"
+    },
+    {
+      "part": "semispinalis thoracis"
+    },
+    {
+      "part": "semispinalis cervicis"
+    },
+    {
+      "part": "semispinalis capitis"
+    },
+    {
+      "part": "lumbar vertebra",
+      "color": "DarkOrchid"
+    }
+  ],
+  "labels": [
+    {
+      "label": "rotatores",
+      "pos": {
+        "x": "-19.1",
+        "y": "-59.2",
+        "z": "1009.6"
+      },
+      "mesh": "FJ1522"
+    },
+    {
+      "label": "Semispinalis thoracis",
+      "pos": {
+        "x": "-13.8",
+        "y": "-7.0",
+        "z": "1267.9"
+      },
+      "mesh": "FJ1540"
+    },
+    {
+      "label": "Semispinalis capitis",
+      "pos": {
+        "x": "-20.9",
+        "y": "-30.1",
+        "z": "1475.7"
+      },
+      "mesh": "FJ1538"
+    },
+    {
+      "label": "Semispinalis cervicis",
+      "pos": {
+        "x": "-13.2",
+        "y": "-44.4",
+        "z": "1387.5"
+      },
+      "mesh": "FJ1539"
+    }
+  ]
+}
