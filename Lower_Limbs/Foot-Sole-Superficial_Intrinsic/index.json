@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-243",
-          "y": "-263",
-          "z": "-361"
+          "x": "-229",
+          "y": "-270",
+          "z": "-209"
         },
         "up": {
-          "x": "-0.20",
-          "y": "-0.98",
-          "z": "0.17"
+          "x": "-0.04",
+          "y": "-0.94",
+          "z": "0.38"
         }
       },
       "caption": "Not pictured: Abductor hallucis"
@@ -57,6 +57,33 @@
         "z": "-65.7"
       },
       "mesh": "FJ1390"
+    },
+    {
+      "label": "Calcaneal tuberosity",
+      "pos": {
+        "x": "-66.8",
+        "y": "-43.7",
+        "z": "-68.0"
+      },
+      "mesh": "FJ3360"
+    },
+    {
+      "label": "5th toe (base of proximal phalanx)",
+      "pos": {
+        "x": "-153.7",
+        "y": "-154.0",
+        "z": "-67.7"
+      },
+      "mesh": "FJ3324"
+    },
+    {
+      "label": "5th metatarsal at tuberosity",
+      "pos": {
+        "x": "-121.5",
+        "y": "-97.3",
+        "z": "-55.9"
+      },
+      "mesh": "FJ3359"
     }
   ]
 }
