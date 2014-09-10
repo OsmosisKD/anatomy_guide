@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-492",
-          "y": "435",
-          "z": "59"
+          "x": "-132",
+          "y": "262",
+          "z": "-406"
         },
         "up": {
-          "x": "-0.03",
-          "y": "0.16",
-          "z": "0.99"
+          "x": "-0.44",
+          "y": "0.73",
+          "z": "0.52"
         }
       },
       "caption": ""
@@ -42,13 +42,12 @@
       "part": "right fibularis longus"
     },
     {
-      "part": "right fibularis brevis"
+      "part": "fibularis brevis",
+      "color": "red"
     },
     {
-      "part": "left foot"
-    },
-    {
-      "part": "left fibularis brevis"
+      "part": "left foot",
+      "color": "BlanchedAlmond"
     }
   ],
   "labels": [
@@ -69,6 +68,51 @@
         "z": "249.8"
       },
       "mesh": "FJ1410"
+    },
+    {
+      "label": "Head of fibula",
+      "pos": {
+        "x": "-117.9",
+        "y": "-61.1",
+        "z": "347.5"
+      },
+      "mesh": "FJ3366"
+    },
+    {
+      "label": "Fibula - distal half of lateral surface",
+      "pos": {
+        "x": "105.3",
+        "y": "-54.3",
+        "z": "191.0"
+      },
+      "mesh": "FJ3260"
+    },
+    {
+      "label": "Base of 5th metatarsal",
+      "pos": {
+        "x": "-114.9",
+        "y": "-92.1",
+        "z": "-55.9"
+      },
+      "mesh": "FJ3359"
+    },
+    {
+      "label": "Base of 1st metatarsal",
+      "pos": {
+        "x": "-87.5",
+        "y": "-138.7",
+        "z": "-44.9"
+      },
+      "mesh": "FJ3351"
+    },
+    {
+      "label": "Cuneiform",
+      "pos": {
+        "x": "-79.2",
+        "y": "-122.0",
+        "z": "-42.0"
+      },
+      "mesh": "FJ3377"
     }
   ]
 }

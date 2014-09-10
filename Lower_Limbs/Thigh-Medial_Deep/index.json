@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-223",
-          "y": "-841",
-          "z": "599"
+          "x": "-95",
+          "y": "-649",
+          "z": "595"
         },
         "up": {
-          "x": "0",
-          "y": "0",
-          "z": "1"
+          "x": "0.00",
+          "y": "0.00",
+          "z": "1.00"
         }
       },
       "caption": ""
@@ -37,6 +37,98 @@
     },
     {
       "part": "right adductor magnus"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Obturator externus",
+      "pos": {
+        "x": "-52.2",
+        "y": "-85.5",
+        "z": "779.8"
+      },
+      "mesh": "FJ1425"
+    },
+    {
+      "label": "Adductor minimus",
+      "pos": {
+        "x": "-82.5",
+        "y": "-90.6",
+        "z": "703.3"
+      },
+      "mesh": "FJ1404"
+    },
+    {
+      "label": "Adductor magnus",
+      "pos": {
+        "x": "-73.8",
+        "y": "-72.4",
+        "z": "739.2"
+      },
+      "mesh": "FJ1403"
+    },
+    {
+      "label": "Adductor magnus",
+      "pos": {
+        "x": "-53.3",
+        "y": "-107.2",
+        "z": "598.4"
+      },
+      "mesh": "FJ1403"
+    },
+    {
+      "label": "Inferior pubic ramus",
+      "pos": {
+        "x": "-17.0",
+        "y": "-118.1",
+        "z": "783.5"
+      },
+      "mesh": "FJ3152"
+    },
+    {
+      "label": "Outer bony surface of obturator membrane",
+      "pos": {
+        "x": "-33.3",
+        "y": "-109.9",
+        "z": "793.1"
+      },
+      "mesh": "FJ3152"
+    },
+    {
+      "label": "Trochanteric fossa of femur",
+      "pos": {
+        "x": "-120.0",
+        "y": "-55.7",
+        "z": "792.0"
+      },
+      "mesh": "FJ3365"
+    },
+    {
+      "label": "Femur - adductor tubercle",
+      "pos": {
+        "x": "-34.7",
+        "y": "-85.2",
+        "z": "394.1"
+      },
+      "mesh": "FJ3365"
+    },
+    {
+      "label": "Femur - medial lip of linea spine",
+      "pos": {
+        "x": "-67.0",
+        "y": "-86.4",
+        "z": "466.9"
+      },
+      "mesh": "FJ3365"
+    },
+    {
+      "label": "Femur - medial lip of linea aspera",
+      "pos": {
+        "x": "-94.8",
+        "y": "-89.0",
+        "z": "681.6"
+      },
+      "mesh": "FJ3365"
     }
   ]
 }

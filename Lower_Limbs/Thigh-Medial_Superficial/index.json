@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-127",
-          "y": "-699",
-          "z": "622"
+          "x": "90",
+          "y": "-845",
+          "z": "679"
         },
         "up": {
-          "x": "0.00",
-          "y": "0.04",
-          "z": "1.00"
+          "x": "0",
+          "y": "0",
+          "z": "1"
         }
       },
       "caption": ""
@@ -27,7 +27,7 @@
       "color": "BlanchedAlmond"
     },
     {
-      "part": "right femur - isa"
+      "part": "femur"
     },
     {
       "part": "right pectineus"
@@ -36,7 +36,8 @@
       "part": "right adductor longus"
     },
     {
-      "part": "right adductor brevis"
+      "part": "adductor brevis",
+      "color": "red"
     },
     {
       "part": "right gracilis"
@@ -45,10 +46,10 @@
       "part": "right patella - isa"
     },
     {
-      "part": "right tibia - isa"
+      "part": "tibia"
     },
     {
-      "part": "right fibula - isa"
+      "part": "fibula"
     }
   ],
   "labels": [
@@ -78,6 +79,87 @@
         "z": "767.6"
       },
       "mesh": "FJ1427"
+    },
+    {
+      "label": "Adductor brevis",
+      "pos": {
+        "x": "-71.5",
+        "y": "-91.4",
+        "z": "693.1"
+      },
+      "mesh": "FJ1401"
+    },
+    {
+      "label": "Inferior pubic ramus",
+      "pos": {
+        "x": "25.6",
+        "y": "-127.3",
+        "z": "792.7"
+      },
+      "mesh": "FJ3288"
+    },
+    {
+      "label": "Inferior pubic ramus",
+      "pos": {
+        "x": "-10.6",
+        "y": "-116.2",
+        "z": "779.7"
+      },
+      "mesh": "FJ3152"
+    },
+    {
+      "label": "Pecten pubis",
+      "pos": {
+        "x": "-40.1",
+        "y": "-119.7",
+        "z": "811.1"
+      },
+      "mesh": "FJ3152"
+    },
+    {
+      "label": "Superior pubic ramus",
+      "pos": {
+        "x": "-18.3",
+        "y": "-138.1",
+        "z": "800.2"
+      },
+      "mesh": "FJ3152"
+    },
+    {
+      "label": "Femur - linea aspera",
+      "pos": {
+        "x": "97.8",
+        "y": "-80.7",
+        "z": "652.0"
+      },
+      "mesh": "FJ3259"
+    },
+    {
+      "label": "Femur - linea aspera",
+      "pos": {
+        "x": "-83.4",
+        "y": "-88.9",
+        "z": "564.7"
+      },
+      "mesh": "FJ3365"
+    },
+    {
+      "label": "Femur - pectineal line and proximal linea aspera",
+      "pos": {
+        "x": "-99.9",
+        "y": "-76.8",
+        "z": "710.2"
+      },
+      "mesh": "FJ3365"
+    },
+    {
+      "label": "Tibia",
+      "pos": {
+        "x": "-71.6",
+        "y": "-104.0",
+        "z": "305.4"
+      },
+      "mesh": "FJ3387"
     }
   ]
 }

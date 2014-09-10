@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "217",
-          "y": "514",
-          "z": "916"
+          "x": "-130",
+          "y": "651",
+          "z": "360"
         },
         "up": {
-          "x": "0",
-          "y": "0",
-          "z": "1"
+          "x": "0.00",
+          "y": "0.00",
+          "z": "1.00"
         }
       },
       "caption": ""
@@ -87,6 +87,51 @@
         "z": "476.8"
       },
       "mesh": "FJ1444"
+    },
+    {
+      "label": "Tibia - medial to tibial tuberosity",
+      "pos": {
+        "x": "-68.1",
+        "y": "-99.7",
+        "z": "296.2"
+      },
+      "mesh": "FJ3387"
+    },
+    {
+      "label": "Medial tibial condyle",
+      "pos": {
+        "x": "-58.0",
+        "y": "-102.8",
+        "z": "345.6"
+      },
+      "mesh": "FJ3387"
+    },
+    {
+      "label": "Head of fibula",
+      "pos": {
+        "x": "-107.5",
+        "y": "-52.9",
+        "z": "346.6"
+      },
+      "mesh": "FJ3366"
+    },
+    {
+      "label": "Femur - lateral lip of linea aspera",
+      "pos": {
+        "x": "-112.5",
+        "y": "-80.1",
+        "z": "660.9"
+      },
+      "mesh": "FJ3365"
+    },
+    {
+      "label": "Ischial tuberosity",
+      "pos": {
+        "x": "-42.2",
+        "y": "-41.6",
+        "z": "761.9"
+      },
+      "mesh": "FJ3152"
     }
   ]
 }

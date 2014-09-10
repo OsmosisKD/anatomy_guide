@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "244",
-          "y": "-729",
-          "z": "767"
+          "x": "37",
+          "y": "-945",
+          "z": "616"
         },
         "up": {
-          "x": "0",
-          "y": "0",
-          "z": "1"
+          "x": "0.00",
+          "y": "0.02",
+          "z": "1.00"
         }
       },
       "caption": ""
@@ -45,17 +45,14 @@
       "part": "right rectus femoris"
     },
     {
-      "part": "right vastus medialis"
+      "part": "vastus medialis"
     },
     {
-      "part": "right vastus lateralis"
+      "part": "vastus lateralis"
     },
     {
-      "part": "right vastus intermedius",
+      "part": "vastus intermedius",
       "color": "red"
-    },
-    {
-      "part": "left vastus intermedius"
     }
   ],
   "labels": [
@@ -103,6 +100,105 @@
         "z": "588.4"
       },
       "mesh": "FJ1441M"
+    },
+    {
+      "label": "Anterior superior iliac spine",
+      "pos": {
+        "x": "-126.4",
+        "y": "-138.3",
+        "z": "891.0"
+      },
+      "mesh": "FJ3152"
+    },
+    {
+      "label": "Anterior inferior iliac spine",
+      "pos": {
+        "x": "-99.3",
+        "y": "-111.3",
+        "z": "847.2"
+      },
+      "mesh": "FJ3152"
+    },
+    {
+      "label": "Tibia - lateral condyle",
+      "pos": {
+        "x": "-103.5",
+        "y": "-98.9",
+        "z": "350.8"
+      },
+      "mesh": "FJ3387"
+    },
+    {
+      "label": "Tibia - medial condyle",
+      "pos": {
+        "x": "-59.0",
+        "y": "-106.6",
+        "z": "353.7"
+      },
+      "mesh": "FJ3387"
+    },
+    {
+      "label": "Tibia - medial to tibial tuberosity",
+      "pos": {
+        "x": "-70.1",
+        "y": "-102.4",
+        "z": "302.7"
+      },
+      "mesh": "FJ3387"
+    },
+    {
+      "label": "Femur - anterior femoral shaft",
+      "pos": {
+        "x": "115.8",
+        "y": "-88.5",
+        "z": "763.1"
+      },
+      "mesh": "FJ3259"
+    },
+    {
+      "label": "Tibia - Tibial tuberosity",
+      "pos": {
+        "x": "89.3",
+        "y": "-113.8",
+        "z": "341.3"
+      },
+      "mesh": "FJ3282"
+    },
+    {
+      "label": "Vastus medialis",
+      "pos": {
+        "x": "69.0",
+        "y": "-143.9",
+        "z": "523.8"
+      },
+      "mesh": "FJ1443M"
+    },
+    {
+      "label": "Vastus lateralis",
+      "pos": {
+        "x": "135.4",
+        "y": "-128.5",
+        "z": "504.8"
+      },
+      "mesh": "FJ1442M"
+    },
+    {
+      "label": "Femur - Linea aspera (medial lip)",
+      "pos": {
+        "x": "98.8",
+        "y": "-81.8",
+        "z": "731.2"
+      },
+      "mesh": "FJ3259"
+    },
+    {
+      "label": "Femur - Linea aspera (lateral lip)",
+      "pos": {
+        "x": "128.5",
+        "y": "-91.2",
+        "z": "782.4"
+      },
+      "mesh": "FJ3259"
     }
   ]
 }
