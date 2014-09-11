@@ -24,11 +24,13 @@
   "anatomy": [
     {
       "part": "right wrist",
-      "color": "BlanchedAlmond"
+      "color": "BlanchedAlmond",
+      "selfCollide": "1"
     },
     {
       "part": "right hand",
-      "color": "BlanchedAlmond"
+      "color": "BlanchedAlmond",
+      "selfCollide": "1"
     },
     {
       "part": "transverse head of right adductor pollicis"

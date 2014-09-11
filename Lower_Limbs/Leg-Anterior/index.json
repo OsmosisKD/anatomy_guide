@@ -36,7 +36,8 @@
     },
     {
       "part": "right foot",
-      "color": "BlanchedAlmond"
+      "color": "BlanchedAlmond",
+      "selfCollide": "1"
     },
     {
       "part": "right tibialis anterior"
@@ -54,7 +55,8 @@
     },
     {
       "part": "left foot",
-      "color": "BlanchedAlmond"
+      "color": "BlanchedAlmond",
+      "selfCollide": "1"
     },
     {
       "part": "interosseous membrane of leg"

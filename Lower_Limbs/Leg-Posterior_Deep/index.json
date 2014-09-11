@@ -36,7 +36,8 @@
     },
     {
       "part": "right foot",
-      "color": "BlanchedAlmond"
+      "color": "BlanchedAlmond",
+      "selfCollide": "1"
     },
     {
       "part": "patella"
@@ -46,7 +47,8 @@
     },
     {
       "part": "left foot",
-      "color": "BlanchedAlmond"
+      "color": "BlanchedAlmond",
+      "selfCollide": "1"
     },
     {
       "part": "tibialis posterior",

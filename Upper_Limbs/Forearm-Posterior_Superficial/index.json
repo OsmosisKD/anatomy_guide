@@ -30,7 +30,8 @@
     },
     {
       "part": "right hand",
-      "color": "BlanchedAlmond"
+      "color": "BlanchedAlmond",
+      "selfCollide": "1"
     },
     {
       "part": "right ulna - isa"

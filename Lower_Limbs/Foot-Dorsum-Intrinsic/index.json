@@ -30,7 +30,8 @@
     },
     {
       "part": "right foot",
-      "color": "BlanchedAlmond"
+      "color": "BlanchedAlmond",
+      "selfCollide": "1"
     },
     {
       "part": "right extensor hallucis brevis"
