@@ -27,7 +27,7 @@ debugURL=
 
 # These are file extensions that will be queried in a find-in-files search
 
-includeExts= js, css, txt, jade, less, html
+includeExts= js, css, txt, jade, less, html, json
 
 
 

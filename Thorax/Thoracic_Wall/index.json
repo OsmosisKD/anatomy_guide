@@ -24,7 +24,8 @@
   "anatomy": [
     {
       "part": "sternal part of chest",
-      "color": "BlanchedAlmond"
+      "color": "BlanchedAlmond",
+      "selfCollide": "1"
     },
     {
       "part": "costal cartilage"

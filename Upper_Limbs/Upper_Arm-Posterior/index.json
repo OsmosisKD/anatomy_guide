@@ -33,11 +33,13 @@
     },
     {
       "part": "right hand",
-      "color": "BlanchedAlmond"
+      "color": "BlanchedAlmond",
+      "selfCollide": "1"
     },
     {
       "part": "right wrist",
-      "color": "BlanchedAlmond"
+      "color": "BlanchedAlmond",
+      "selfCollide": "1"
     },
     {
       "part": "long head of right triceps brachii"

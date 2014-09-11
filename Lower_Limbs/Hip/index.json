@@ -24,7 +24,8 @@
   "anatomy": [
     {
       "part": "bony pelvis",
-      "color": "BlanchedAlmond"
+      "color": "BlanchedAlmond",
+      "selfCollide": "1"
     },
     {
       "part": "right psoas major - isa"

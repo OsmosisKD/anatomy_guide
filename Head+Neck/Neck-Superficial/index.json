@@ -83,7 +83,8 @@
     },
     {
       "part": "sternum",
-      "color": "BlanchedAlmond"
+      "color": "BlanchedAlmond",
+      "selfCollide": "1"
     }
   ],
   "labels": [
