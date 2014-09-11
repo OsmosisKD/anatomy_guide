@@ -1,0 +1,232 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-90",
+        "y": "-100",
+        "z": "-20"
+      },
+      "camera": {
+        "pos": {
+          "x": "-47",
+          "y": "-128",
+          "z": "241"
+        },
+        "up": {
+          "x": "-0.63",
+          "y": "0.52",
+          "z": "0.58"
+        }
+      },
+      "caption": "Not pictured: Extensor digitorum brevis"
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right cuboid bone - isa"
+    },
+    {
+      "part": "right talus - isa"
+    },
+    {
+      "part": "right calcaneus - isa"
+    },
+    {
+      "part": "right first metatarsal bone - isa"
+    },
+    {
+      "part": "right second metatarsal bone - isa"
+    },
+    {
+      "part": "right third metatarsal bone - isa"
+    },
+    {
+      "part": "right fourth metatarsal bone - isa"
+    },
+    {
+      "part": "right fifth metatarsal bone - isa"
+    },
+    {
+      "part": "right medial cuneiform bone - isa"
+    },
+    {
+      "part": "right lateral cuneiform bone - isa"
+    },
+    {
+      "part": "right intermediate cuneiform bone - isa"
+    },
+    {
+      "part": "proximal phalanx of right big toe - isa"
+    },
+    {
+      "part": "proximal phalanx of right second toe - isa"
+    },
+    {
+      "part": "proximal phalanx of right third toe - isa"
+    },
+    {
+      "part": "proximal phalanx of right fourth toe - isa"
+    },
+    {
+      "part": "proximal phalanx of right little toe - isa"
+    },
+    {
+      "part": "distal phalanx of right big toe - isa"
+    },
+    {
+      "part": "distal phalanx of right second toe - isa"
+    },
+    {
+      "part": "distal phalanx of right third toe - isa"
+    },
+    {
+      "part": "distal phalanx of right fourth toe - isa"
+    },
+    {
+      "part": "distal phalanx of right little toe - isa"
+    },
+    {
+      "part": "middle phalanx of right second toe - isa"
+    },
+    {
+      "part": "middle phalanx of right third toe - isa"
+    },
+    {
+      "part": "middle phalanx of right fourth toe - isa"
+    },
+    {
+      "part": "middle phalanx of right little toe - isa"
+    },
+    {
+      "part": "navicular bone of right foot - isa"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Calcaneus",
+      "pos": {
+        "x": "-59.9",
+        "y": "-38.4",
+        "z": "-29.3"
+      },
+      "mesh": "FJ3360"
+    },
+    {
+      "label": "Talus",
+      "pos": {
+        "x": "-75.0",
+        "y": "-76.8",
+        "z": "1.4"
+      },
+      "mesh": "FJ3385"
+    },
+    {
+      "label": "Navicular bone",
+      "pos": {
+        "x": "-83.7",
+        "y": "-110.1",
+        "z": "-7.4"
+      },
+      "mesh": "FJ3308"
+    },
+    {
+      "label": "Lateral cuneiform",
+      "pos": {
+        "x": "-105.6",
+        "y": "-112.8",
+        "z": "-21.8"
+      },
+      "mesh": "FJ3373"
+    },
+    {
+      "label": "Intermediate cuneiform",
+      "pos": {
+        "x": "-94.6",
+        "y": "-121.7",
+        "z": "-14.5"
+      },
+      "mesh": "FJ3370"
+    },
+    {
+      "label": "Medial cuneiform",
+      "pos": {
+        "x": "-84.4",
+        "y": "-131.2",
+        "z": "-16.2"
+      },
+      "mesh": "FJ3377"
+    },
+    {
+      "label": "Cuboid",
+      "pos": {
+        "x": "-108.9",
+        "y": "-97.1",
+        "z": "-34.5"
+      },
+      "mesh": "FJ3364"
+    },
+    {
+      "label": "Metatarsal",
+      "pos": {
+        "x": "-122.8",
+        "y": "-160.2",
+        "z": "-44.9"
+      },
+      "mesh": "FJ3355"
+    },
+    {
+      "label": "Proximal phalanx",
+      "pos": {
+        "x": "-139.1",
+        "y": "-193.3",
+        "z": "-59.8"
+      },
+      "mesh": "FJ3320"
+    },
+    {
+      "label": "Middle phalanx",
+      "pos": {
+        "x": "-146.8",
+        "y": "-208.9",
+        "z": "-63.6"
+      },
+      "mesh": "FJ3301"
+    },
+    {
+      "label": "Distal phalanx",
+      "pos": {
+        "x": "-154.1",
+        "y": "-222.4",
+        "z": "-67.0"
+      },
+      "mesh": "FJ3190"
+    },
+    {
+      "label": "First metatarsal",
+      "pos": {
+        "x": "-92.8",
+        "y": "-169.6",
+        "z": "-40.3"
+      },
+      "mesh": "FJ3351"
+    },
+    {
+      "label": "Proximal phalanx of right big toe",
+      "pos": {
+        "x": "-106.5",
+        "y": "-204.8",
+        "z": "-56.9"
+      },
+      "mesh": "FJ3310"
+    },
+    {
+      "label": "Distal phalanx of right big toe",
+      "pos": {
+        "x": "-119.0",
+        "y": "-229.1",
+        "z": "-63.7"
+      },
+      "mesh": "FJ3192"
+    }
+  ]
+}

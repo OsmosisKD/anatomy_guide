@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-151",
-          "y": "511",
-          "z": "381"
+          "x": "272",
+          "y": "543",
+          "z": "492"
         },
         "up": {
-          "x": "-0.05",
-          "y": "-0.49",
-          "z": "0.88"
+          "x": "-0.47",
+          "y": "-0.35",
+          "z": "0.82"
         }
       },
       "caption": ""
@@ -59,6 +59,10 @@
     },
     {
       "part": "soleus"
+    },
+    {
+      "part": "right calcaneal tendon",
+      "opacity": "0.5"
     }
   ],
   "labels": [
@@ -97,6 +101,60 @@
         "z": "176.6"
       },
       "mesh": "FJ1437M"
+    },
+    {
+      "label": "Femur - lateral epicondyle",
+      "pos": {
+        "x": "97.0",
+        "y": "-54.4",
+        "z": "398.3"
+      },
+      "mesh": "FJ3259"
+    },
+    {
+      "label": "Femur - lateral epicondyle",
+      "pos": {
+        "x": "-112.2",
+        "y": "-75.1",
+        "z": "400.5"
+      },
+      "mesh": "FJ3365"
+    },
+    {
+      "label": "Femur - medial epicondyle",
+      "pos": {
+        "x": "-47.2",
+        "y": "-63.0",
+        "z": "405.5"
+      },
+      "mesh": "FJ3365"
+    },
+    {
+      "label": "Fibula",
+      "pos": {
+        "x": "107.8",
+        "y": "-54.4",
+        "z": "356.4"
+      },
+      "mesh": "FJ3260"
+    },
+    {
+      "label": "Achilles' tendon",
+      "pos": {
+        "x": "-60.1",
+        "y": "-39.4",
+        "z": "63.9"
+      },
+      "mesh": "FJ1405"
+    },
+    {
+      "label": "Calcaneal tuberosity",
+      "pos": {
+        "x": "-56.3",
+        "y": "-27.5",
+        "z": "-50.9"
+      },
+      "mesh": "FJ1405"
     }
   ]
 }

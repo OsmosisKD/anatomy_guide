@@ -8,9 +8,9 @@
       },
       "camera": {
         "pos": {
-          "x": "-39",
-          "y": "-588",
-          "z": "1349"
+          "x": "0",
+          "y": "-600",
+          "z": "1250"
         },
         "up": {
           "x": "0",
@@ -155,6 +155,69 @@
         "z": "1321.1"
       },
       "mesh": "FJ1447"
+    },
+    {
+      "label": "Humerus - Crest of greater tuberosity",
+      "pos": {
+        "x": "-189.7",
+        "y": "-85.8",
+        "z": "1235.3"
+      },
+      "mesh": "FJ3368"
+    },
+    {
+      "label": "Clavicle - medial",
+      "pos": {
+        "x": "-51.4",
+        "y": "-140.2",
+        "z": "1333.1"
+      },
+      "mesh": "FJ3362"
+    },
+    {
+      "label": "3rd rib",
+      "pos": {
+        "x": "-70.7",
+        "y": "-165.3",
+        "z": "1259.9"
+      },
+      "mesh": "FJ3338"
+    },
+    {
+      "label": "Sternum and Costal Cartilages 1-6",
+      "pos": {
+        "x": "6.1",
+        "y": "-194.4",
+        "z": "1246.4"
+      },
+      "mesh": "FJ3178"
+    },
+    {
+      "label": "Humerus - in line with crest of lesser tuberosity",
+      "pos": {
+        "x": "-188.4",
+        "y": "-71.1",
+        "z": "1164.0"
+      },
+      "mesh": "FJ3368"
+    },
+    {
+      "label": "Coracoid process",
+      "pos": {
+        "x": "-129.0",
+        "y": "-97.1",
+        "z": "1330.7"
+      },
+      "mesh": "FJ3384"
+    },
+    {
+      "label": "Humerus - crest of greater tuberosity",
+      "pos": {
+        "x": "188.1",
+        "y": "-86.5",
+        "z": "1261.5"
+      },
+      "mesh": "FJ3262"
     }
   ]
 }

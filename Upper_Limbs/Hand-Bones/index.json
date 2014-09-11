@@ -1,0 +1,220 @@
+{
+  "views": [
+    {
+      "origin": {
+        "x": "-250",
+        "y": "-120",
+        "z": "800"
+      },
+      "camera": {
+        "pos": {
+          "x": "-327",
+          "y": "-248",
+          "z": "727"
+        },
+        "up": {
+          "x": "0.83",
+          "y": "0.40",
+          "z": "0.36"
+        }
+      },
+      "caption": ""
+    }
+  ],
+  "anatomy": [
+    {
+      "part": "right scaphoid - isa"
+    },
+    {
+      "part": "right trapezium - isa"
+    },
+    {
+      "part": "right trapezoid - isa"
+    },
+    {
+      "part": "right capitate - isa"
+    },
+    {
+      "part": "right lunate - isa"
+    },
+    {
+      "part": "right hamate - isa"
+    },
+    {
+      "part": "right pisiform - isa"
+    },
+    {
+      "part": "right triquetral - isa"
+    },
+    {
+      "part": "right first metacarpal bone - isa"
+    },
+    {
+      "part": "right second metacarpal bone - isa"
+    },
+    {
+      "part": "right third metacarpal bone - isa"
+    },
+    {
+      "part": "right fourth metacarpal bone - isa"
+    },
+    {
+      "part": "right fifth metacarpal bone - isa"
+    },
+    {
+      "part": "right radius - isa"
+    },
+    {
+      "part": "right ulna - isa"
+    },
+    {
+      "part": "proximal phalanx of right thumb - isa"
+    },
+    {
+      "part": "proximal phalanx of right index finger - isa"
+    },
+    {
+      "part": "proximal phalanx of right middle finger - isa"
+    },
+    {
+      "part": "proximal phalanx of right ring finger - isa"
+    },
+    {
+      "part": "proximal phalanx of right little finger - isa"
+    },
+    {
+      "part": "middle phalanx of right index finger - isa"
+    },
+    {
+      "part": "middle phalanx of right middle finger - isa"
+    },
+    {
+      "part": "middle phalanx of right ring finger - isa"
+    },
+    {
+      "part": "middle phalanx of right little finger - isa"
+    },
+    {
+      "part": "distal phalanx of right thumb - isa"
+    },
+    {
+      "part": "distal phalanx of right index finger - isa"
+    },
+    {
+      "part": "distal phalanx of right middle finger - isa"
+    },
+    {
+      "part": "distal phalanx of right ring finger - isa"
+    }
+  ],
+  "labels": [
+    {
+      "label": "Scaphoid",
+      "pos": {
+        "x": "-259.0",
+        "y": "-122.8",
+        "z": "808.3"
+      },
+      "mesh": "FJ3383"
+    },
+    {
+      "label": "Trapezium",
+      "pos": {
+        "x": "-271.0",
+        "y": "-133.4",
+        "z": "800.4"
+      },
+      "mesh": "FJ3388"
+    },
+    {
+      "label": "Trapezoid",
+      "pos": {
+        "x": "-266.8",
+        "y": "-127.9",
+        "z": "789.6"
+      },
+      "mesh": "FJ3389"
+    },
+    {
+      "label": "Capitate",
+      "pos": {
+        "x": "-258.4",
+        "y": "-126.6",
+        "z": "795.1"
+      },
+      "mesh": "FJ3361"
+    },
+    {
+      "label": "Hamate",
+      "pos": {
+        "x": "-248.4",
+        "y": "-124.7",
+        "z": "790.4"
+      },
+      "mesh": "FJ3367"
+    },
+    {
+      "label": "Lunate",
+      "pos": {
+        "x": "-247.1",
+        "y": "-126.5",
+        "z": "803.1"
+      },
+      "mesh": "FJ3374"
+    },
+    {
+      "label": "Pisiform",
+      "pos": {
+        "x": "-239.2",
+        "y": "-136.4",
+        "z": "795.0"
+      },
+      "mesh": "FJ3382"
+    },
+    {
+      "label": "Triquetrum",
+      "pos": {
+        "x": "-240.6",
+        "y": "-125.4",
+        "z": "797.8"
+      },
+      "mesh": "FJ3390"
+    },
+    {
+      "label": "Metacarpals",
+      "pos": {
+        "x": "-265.9",
+        "y": "-134.2",
+        "z": "741.1"
+      },
+      "mesh": "FJ3354"
+    },
+    {
+      "label": "Proximal phalanges",
+      "pos": {
+        "x": "-268.4",
+        "y": "-146.2",
+        "z": "718.3"
+      },
+      "mesh": "FJ3325"
+    },
+    {
+      "label": "Middle phalanges",
+      "pos": {
+        "x": "-274.9",
+        "y": "-170.6",
+        "z": "675.1"
+      },
+      "mesh": "FJ3306"
+    },
+    {
+      "label": "Distal phalanges",
+      "pos": {
+        "x": "-278.4",
+        "y": "-190.0",
+        "z": "658.9"
+      },
+      "mesh": "FJ3196"
+    }
+  ]
+}

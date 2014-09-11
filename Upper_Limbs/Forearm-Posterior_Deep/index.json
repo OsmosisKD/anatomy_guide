@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-298",
-          "y": "63",
-          "z": "543"
+          "x": "-295",
+          "y": "207",
+          "z": "1078"
         },
         "up": {
-          "x": "-0.33",
-          "y": "0.72",
-          "z": "0.59"
+          "x": "-0.57",
+          "y": "0.06",
+          "z": "-0.81"
         }
       },
       "caption": ""
@@ -53,6 +53,10 @@
     },
     {
       "part": "right extensor indicis"
+    },
+    {
+      "part": "interosseous membrane of right forearm",
+      "opacity": "0.5"
     }
   ],
   "labels": [
@@ -100,6 +104,105 @@
         "z": "991.2"
       },
       "mesh": "FJ1505"
+    },
+    {
+      "label": "Olecranon",
+      "pos": {
+        "x": "-217.3",
+        "y": "-57.1",
+        "z": "1025.8"
+      },
+      "mesh": "FJ3391"
+    },
+    {
+      "label": "Humerus - lateral epicondyle",
+      "pos": {
+        "x": "-236.4",
+        "y": "-56.9",
+        "z": "1056.3"
+      },
+      "mesh": "FJ3368"
+    },
+    {
+      "label": "Ulna - dorsal surface",
+      "pos": {
+        "x": "-227.6",
+        "y": "-70.9",
+        "z": "958.4"
+      },
+      "mesh": "FJ3391"
+    },
+    {
+      "label": "Radius - dorsal surface",
+      "pos": {
+        "x": "-247.1",
+        "y": "-80.0",
+        "z": "937.0"
+      },
+      "mesh": "FJ3349"
+    },
+    {
+      "label": "Ulna - posterior surface",
+      "pos": {
+        "x": "-227.6",
+        "y": "-94.7",
+        "z": "869.1"
+      },
+      "mesh": "FJ3391"
+    },
+    {
+      "label": "Posterior digital extension of 2nd digit",
+      "pos": {
+        "x": "-309.1",
+        "y": "-179.3",
+        "z": "666.2"
+      },
+      "mesh": "FJ3193"
+    },
+    {
+      "label": "Base of distal phalanx of thumb",
+      "pos": {
+        "x": "-319.0",
+        "y": "-164.7",
+        "z": "728.3"
+      },
+      "mesh": "FJ3198"
+    },
+    {
+      "label": "Base of proximal phalanx of thumb",
+      "pos": {
+        "x": "-303.7",
+        "y": "-145.7",
+        "z": "755.1"
+      },
+      "mesh": "FJ3327"
+    },
+    {
+      "label": "Base of 1st metacarpal",
+      "pos": {
+        "x": "-291.8",
+        "y": "-133.1",
+        "z": "787.7"
+      },
+      "mesh": "FJ3350"
+    },
+    {
+      "label": "Radius - between radial tuberosity and insertion of pronator teres",
+      "pos": {
+        "x": "-239.8",
+        "y": "-89.4",
+        "z": "976.8"
+      },
+      "mesh": "FJ3349"
+    },
+    {
+      "label": "Interosseous membrane",
+      "pos": {
+        "x": "-237.6",
+        "y": "-94.1",
+        "z": "905.5"
+      },
+      "mesh": "FJ1476"
     }
   ]
 }

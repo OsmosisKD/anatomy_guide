@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-59",
-          "y": "-766",
-          "z": "235"
+          "x": "-446",
+          "y": "-290",
+          "z": "322"
         },
         "up": {
-          "x": "0.00",
-          "y": "0.27",
-          "z": "0.97"
+          "x": "0.69",
+          "y": "-0.56",
+          "z": "0.47"
         }
       },
       "caption": ""
@@ -42,18 +42,22 @@
       "part": "right tibialis anterior"
     },
     {
-      "part": "extensor hallucis longus"
+      "part": "extensor hallucis longus",
+      "color": "red"
     },
     {
       "part": "right extensor digitorum longus"
     },
     {
       "part": "fibularis tertius",
-      "color": ""
+      "color": "red"
     },
     {
       "part": "left foot",
       "color": "BlanchedAlmond"
+    },
+    {
+      "part": "interosseous membrane of leg"
     }
   ],
   "labels": [
@@ -101,6 +105,60 @@
         "z": "46.8"
       },
       "mesh": "FJ1411M"
+    },
+    {
+      "label": "Fibula - middle third",
+      "pos": {
+        "x": "107.5",
+        "y": "-65.3",
+        "z": "196.8"
+      },
+      "mesh": "FJ3260"
+    },
+    {
+      "label": "Fibula - distal",
+      "pos": {
+        "x": "101.9",
+        "y": "-63.5",
+        "z": "66.8"
+      },
+      "mesh": "FJ3260"
+    },
+    {
+      "label": "5th metatarsal (base)",
+      "pos": {
+        "x": "120.6",
+        "y": "-98.0",
+        "z": "-49.1"
+      },
+      "mesh": "FJ3253"
+    },
+    {
+      "label": "1st phalanx (distal)",
+      "pos": {
+        "x": "103.7",
+        "y": "-211.0",
+        "z": "-58.4"
+      },
+      "mesh": "FJ3329"
+    },
+    {
+      "label": "Interosseous membrane",
+      "pos": {
+        "x": "-94.8",
+        "y": "-77.0",
+        "z": "317.6"
+      },
+      "mesh": "FJ1392"
+    },
+    {
+      "label": "Tibia - upper two thirds of lateral surface",
+      "pos": {
+        "x": "-101.1",
+        "y": "-102.5",
+        "z": "347.1"
+      },
+      "mesh": "FJ3387"
     }
   ]
 }

@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-171",
-          "y": "336",
-          "z": "908"
+          "x": "-253",
+          "y": "354",
+          "z": "770"
         },
         "up": {
-          "x": "-0.37",
-          "y": "-0.67",
-          "z": "0.64"
+          "x": "0.70",
+          "y": "-0.63",
+          "z": "0.34"
         }
       },
       "caption": ""
@@ -72,6 +72,51 @@
         "z": "886.4"
       },
       "mesh": "FJ1491"
+    },
+    {
+      "label": "Humerus - lateral epicondyle",
+      "pos": {
+        "x": "-235.2",
+        "y": "-56.1",
+        "z": "1056.9"
+      },
+      "mesh": "FJ3368"
+    },
+    {
+      "label": "Ulna - dorsal surface",
+      "pos": {
+        "x": "-218.5",
+        "y": "-65.5",
+        "z": "965.3"
+      },
+      "mesh": "FJ3391"
+    },
+    {
+      "label": "Dorsal digital expansion of 5th digit",
+      "pos": {
+        "x": "-231.9",
+        "y": "-143.9",
+        "z": "722.5"
+      },
+      "mesh": "FJ3323"
+    },
+    {
+      "label": "Base of 5th metacarpal",
+      "pos": {
+        "x": "-232.1",
+        "y": "-125.1",
+        "z": "771.8"
+      },
+      "mesh": "FJ3358"
+    },
+    {
+      "label": "Dorsal digital expansions",
+      "pos": {
+        "x": "-273.4",
+        "y": "-164.7",
+        "z": "674.1"
+      },
+      "mesh": "FJ3306"
     }
   ]
 }

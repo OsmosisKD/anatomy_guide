@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-329",
-          "y": "-261",
-          "z": "709"
+          "x": "-279",
+          "y": "-200",
+          "z": "702"
         },
         "up": {
-          "x": "0.59",
-          "y": "0.34",
-          "z": "0.74"
+          "x": "0.42",
+          "y": "0.16",
+          "z": "0.89"
         }
       },
       "caption": ""
@@ -34,7 +34,8 @@
       "part": "transverse head of right adductor pollicis"
     },
     {
-      "part": "oblique head of right adductor pollicis"
+      "part": "oblique head of right adductor pollicis",
+      "color": "red"
     },
     {
       "part": "left flexor pollicis brevis",
@@ -80,6 +81,51 @@
         "z": "756.8"
       },
       "mesh": "FJ1515"
+    },
+    {
+      "label": "Thumb (base of proximal phalanx)",
+      "pos": {
+        "x": "-304.1",
+        "y": "-152.2",
+        "z": "757.6"
+      },
+      "mesh": "FJ3327"
+    },
+    {
+      "label": "First metacarpal",
+      "pos": {
+        "x": "-306.1",
+        "y": "-150.4",
+        "z": "771.3"
+      },
+      "mesh": "FJ3350"
+    },
+    {
+      "label": "Third metacarpal",
+      "pos": {
+        "x": "-260.6",
+        "y": "-127.5",
+        "z": "757.6"
+      },
+      "mesh": "FJ3354"
+    },
+    {
+      "label": "Trapezium",
+      "pos": {
+        "x": "-275.6",
+        "y": "-128.5",
+        "z": "802.4"
+      },
+      "mesh": "FJ3388"
+    },
+    {
+      "label": "Capitate",
+      "pos": {
+        "x": "-255.5",
+        "y": "-125.7",
+        "z": "789.2"
+      },
+      "mesh": "FJ3361"
     }
   ]
 }

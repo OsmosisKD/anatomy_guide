@@ -8,13 +8,13 @@
       },
       "camera": {
         "pos": {
-          "x": "12",
-          "y": "384",
-          "z": "191"
+          "x": "294",
+          "y": "518",
+          "z": "-94"
         },
         "up": {
-          "x": "0.15",
-          "y": "-0.26",
+          "x": "-0.07",
+          "y": "0.25",
           "z": "0.97"
         }
       },
@@ -49,7 +49,8 @@
       "color": "BlanchedAlmond"
     },
     {
-      "part": "tibialis posterior"
+      "part": "tibialis posterior",
+      "color": "red"
     },
     {
       "part": "right flexor digitorum longus"
@@ -59,6 +60,9 @@
     },
     {
       "part": "right popliteus"
+    },
+    {
+      "part": "interosseous membrane of leg"
     }
   ],
   "labels": [
@@ -97,6 +101,87 @@
         "z": "118.8"
       },
       "mesh": "FJ1414"
+    },
+    {
+      "label": "Femur - lateral condyle",
+      "pos": {
+        "x": "-110.6",
+        "y": "-69.1",
+        "z": "397.1"
+      },
+      "mesh": "FJ3365"
+    },
+    {
+      "label": "Tibia - Posterior surface",
+      "pos": {
+        "x": "-64.1",
+        "y": "-92.9",
+        "z": "295.2"
+      },
+      "mesh": "FJ3387"
+    },
+    {
+      "label": "Fibula - distal two thirds",
+      "pos": {
+        "x": "-103.9",
+        "y": "-53.8",
+        "z": "245.5"
+      },
+      "mesh": "FJ3366"
+    },
+    {
+      "label": "Interosseous membrane",
+      "pos": {
+        "x": "97.8",
+        "y": "-70.3",
+        "z": "290.2"
+      },
+      "mesh": "FJ1392M"
+    },
+    {
+      "label": "Navicular tuberosity",
+      "pos": {
+        "x": "62.1",
+        "y": "-114.3",
+        "z": "-27.0"
+      },
+      "mesh": "FJ3307"
+    },
+    {
+      "label": "Cuneiform",
+      "pos": {
+        "x": "77.5",
+        "y": "-121.7",
+        "z": "-41.6"
+      },
+      "mesh": "FJ3271"
+    },
+    {
+      "label": "Metatarsals",
+      "pos": {
+        "x": "97.6",
+        "y": "-130.9",
+        "z": "-37.5"
+      },
+      "mesh": "FJ3244"
+    },
+    {
+      "label": "1st distal phalanx",
+      "pos": {
+        "x": "-114.5",
+        "y": "-221.8",
+        "z": "-69.1"
+      },
+      "mesh": "FJ3192"
+    },
+    {
+      "label": "Distal phalanges",
+      "pos": {
+        "x": "-151.8",
+        "y": "-217.4",
+        "z": "-69.9"
+      },
+      "mesh": "FJ3190"
     }
   ]
 }

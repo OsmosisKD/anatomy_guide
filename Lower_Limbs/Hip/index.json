@@ -8,9 +8,9 @@
       },
       "camera": {
         "pos": {
-          "x": "156",
-          "y": "291",
-          "z": "845"
+          "x": "75",
+          "y": "316",
+          "z": "819"
         },
         "up": {
           "x": "0",
@@ -25,9 +25,6 @@
     {
       "part": "bony pelvis",
       "color": "BlanchedAlmond"
-    },
-    {
-      "part": "vertebra"
     },
     {
       "part": "right psoas major - isa"
@@ -69,6 +66,17 @@
     },
     {
       "part": "left iliotibial tract - isa"
+    },
+    {
+      "part": "lumbar vertebra",
+      "color": "DarkOrchid"
+    },
+    {
+      "part": "thoracic vertebra",
+      "color": "Cyan"
+    },
+    {
+      "part": "left quadratus femoris"
     }
   ],
   "labels": [
@@ -98,15 +106,6 @@
         "z": "850.6"
       },
       "mesh": "FJ1438M"
-    },
-    {
-      "label": "Iliotibial tract",
-      "pos": {
-        "x": "140.6",
-        "y": "-61.6",
-        "z": "681.6"
-      },
-      "mesh": "FJ1423M"
     },
     {
       "label": "Piriformis",
@@ -170,6 +169,168 @@
         "z": "861.1"
       },
       "mesh": "FJ1420"
+    },
+    {
+      "label": "Illiac fossa",
+      "pos": {
+        "x": "-108.6",
+        "y": "-70.9",
+        "z": "951.4"
+      },
+      "mesh": "FJ3152"
+    },
+    {
+      "label": "right psoas major - isa",
+      "pos": {
+        "x": "-38.7",
+        "y": "-104.1",
+        "z": "964.3"
+      },
+      "mesh": "FJ1431"
+    },
+    {
+      "label": "right psoas major - isa",
+      "pos": {
+        "x": "-54.3",
+        "y": "-76.4",
+        "z": "998.5"
+      },
+      "mesh": "FJ1431"
+    },
+    {
+      "label": "T12",
+      "pos": {
+        "x": "-9.4",
+        "y": "-94.7",
+        "z": "1089.6"
+      },
+      "mesh": "FJ3156"
+    },
+    {
+      "label": "L4",
+      "pos": {
+        "x": "0.6",
+        "y": "-106.8",
+        "z": "955.5"
+      },
+      "mesh": "FJ3165"
+    },
+    {
+      "label": "Femur - lesser trochanter",
+      "pos": {
+        "x": "-93.8",
+        "y": "-70.7",
+        "z": "739.0"
+      },
+      "mesh": "FJ3365"
+    },
+    {
+      "label": "Anterior superior illiac spine",
+      "pos": {
+        "x": "135.3",
+        "y": "-127.7",
+        "z": "912.1"
+      },
+      "mesh": "FJ3288"
+    },
+    {
+      "label": "Iliotibial tract",
+      "pos": {
+        "x": "157.5",
+        "y": "-102.8",
+        "z": "767.4"
+      },
+      "mesh": "FJ1423M"
+    },
+    {
+      "label": "Femur - greater trochanter",
+      "pos": {
+        "x": "-140.1",
+        "y": "-81.6",
+        "z": "805.3"
+      },
+      "mesh": "FJ3365"
+    },
+    {
+      "label": "Illium - gluteal surface",
+      "pos": {
+        "x": "-108.9",
+        "y": "-58.9",
+        "z": "948.8"
+      },
+      "mesh": "FJ3152"
+    },
+    {
+      "label": "Femur - greater trochanter",
+      "pos": {
+        "x": "126.3",
+        "y": "-51.4",
+        "z": "799.5"
+      },
+      "mesh": "FJ3259"
+    },
+    {
+      "label": "Sacrum",
+      "pos": {
+        "x": "29.0",
+        "y": "-7.6",
+        "z": "851.7"
+      },
+      "mesh": "FJ3393"
+    },
+    {
+      "label": "Bony boundary of obturator membrane",
+      "pos": {
+        "x": "21.5",
+        "y": "-103.0",
+        "z": "792.1"
+      },
+      "mesh": "FJ3288"
+    },
+    {
+      "label": "Ischial tuberosity",
+      "pos": {
+        "x": "56.6",
+        "y": "-31.7",
+        "z": "777.5"
+      },
+      "mesh": "FJ3288"
+    },
+    {
+      "label": "Ischial spine",
+      "pos": {
+        "x": "46.1",
+        "y": "-35.3",
+        "z": "821.2"
+      },
+      "mesh": "FJ3288"
+    },
+    {
+      "label": "Femur - greater trochanter (medial surface)",
+      "pos": {
+        "x": "123.3",
+        "y": "-70.0",
+        "z": "797.7"
+      },
+      "mesh": "FJ3259"
+    },
+    {
+      "label": "Quadratus femoris",
+      "pos": {
+        "x": "94.5",
+        "y": "-44.7",
+        "z": "763.8"
+      },
+      "mesh": "FJ1432M"
+    },
+    {
+      "label": "Femur - intertrochanteric crest",
+      "pos": {
+        "x": "121.7",
+        "y": "-54.0",
+        "z": "758.9"
+      },
+      "mesh": "FJ3259"
     }
   ]
 }
