@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-270",
-          "y": "-496",
-          "z": "887"
+          "x": "-174",
+          "y": "-322",
+          "z": "1119"
         },
         "up": {
-          "x": "0.26",
-          "y": "0.11",
-          "z": "0.94"
+          "x": "-0.85",
+          "y": "0.36",
+          "z": "0.32"
         }
       },
       "caption": ""
@@ -47,6 +47,10 @@
     },
     {
       "part": "right pronator quadratus"
+    },
+    {
+      "part": "interosseous membrane of right forearm",
+      "opacity": "0.5"
     }
   ],
   "labels": [
@@ -76,6 +80,69 @@
         "z": "834.9"
       },
       "mesh": "FJ1503"
+    },
+    {
+      "label": "Flexor digitorum profundus",
+      "pos": {
+        "x": "-236.7",
+        "y": "-89.8",
+        "z": "909.5"
+      },
+      "mesh": "FJ1497"
+    },
+    {
+      "label": "Interosseous membrane",
+      "pos": {
+        "x": "-241.2",
+        "y": "-98.2",
+        "z": "875.8"
+      },
+      "mesh": "FJ1476"
+    },
+    {
+      "label": "Ulna - flexor surface",
+      "pos": {
+        "x": "-201.2",
+        "y": "-71.7",
+        "z": "1019.0"
+      },
+      "mesh": "FJ3391"
+    },
+    {
+      "label": "Distal phalanges",
+      "pos": {
+        "x": "-275.6",
+        "y": "-187.9",
+        "z": "660.8"
+      },
+      "mesh": "FJ3196"
+    },
+    {
+      "label": "Radius - midanterior surface",
+      "pos": {
+        "x": "-242.4",
+        "y": "-89.0",
+        "z": "968.7"
+      },
+      "mesh": "FJ3349"
+    },
+    {
+      "label": "Distal ulna",
+      "pos": {
+        "x": "-226.1",
+        "y": "-104.7",
+        "z": "853.5"
+      },
+      "mesh": "FJ3391"
+    },
+    {
+      "label": "Distal phalanx of thumb",
+      "pos": {
+        "x": "-273.4",
+        "y": "-116.6",
+        "z": "829.3"
+      },
+      "mesh": "FJ3349"
     }
   ]
 }

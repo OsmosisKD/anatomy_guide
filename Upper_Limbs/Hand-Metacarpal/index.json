@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-107",
-          "y": "-286",
-          "z": "707"
+          "x": "-295",
+          "y": "-296",
+          "z": "647"
         },
         "up": {
-          "x": "-0.28",
-          "y": "0.96",
-          "z": "0.08"
+          "x": "0.40",
+          "y": "0.90",
+          "z": "0.20"
         }
       },
       "caption": ""
@@ -32,11 +32,11 @@
     },
     {
       "part": "set of lumbricals of right hand",
-      "color": "#FF8000"
+      "color": "red"
     },
     {
       "part": "set of palmar interossei of right hand",
-      "color": "#FF8000"
+      "color": "fuchsia"
     },
     {
       "part": "set of dorsal interossei of right hand",
@@ -70,6 +70,42 @@
         "z": "765.5"
       },
       "mesh": "FJ1509"
+    },
+    {
+      "label": "Metacarpals",
+      "pos": {
+        "x": "-275.7",
+        "y": "-120.0",
+        "z": "772.4"
+      },
+      "mesh": "FJ3352"
+    },
+    {
+      "label": "Proximal phalanges",
+      "pos": {
+        "x": "-287.6",
+        "y": "-136.0",
+        "z": "713.3"
+      },
+      "mesh": "FJ3322"
+    },
+    {
+      "label": "Interossei",
+      "pos": {
+        "x": "-278.3",
+        "y": "-135.9",
+        "z": "741.6"
+      },
+      "mesh": "FJ1511"
+    },
+    {
+      "label": "Lumbricals",
+      "pos": {
+        "x": "-252.8",
+        "y": "-138.1",
+        "z": "745.5"
+      },
+      "mesh": "FJ1510"
     }
   ]
 }

@@ -8,14 +8,14 @@
       },
       "camera": {
         "pos": {
-          "x": "-303",
-          "y": "-245",
-          "z": "683"
+          "x": "-121",
+          "y": "-359",
+          "z": "1086"
         },
         "up": {
-          "x": "0.05",
-          "y": "-0.70",
-          "z": "0.70"
+          "x": "-0.91",
+          "y": "0.09",
+          "z": "0.34"
         }
       },
       "caption": ""
@@ -40,7 +40,8 @@
       "color": "BlanchedAlmond"
     },
     {
-      "part": "humeral head of right pronator teres"
+      "part": "humeral head of right pronator teres",
+      "opacity": "0.5"
     },
     {
       "part": "ulnar head of right pronator teres"
@@ -94,6 +95,60 @@
         "z": "842.0"
       },
       "mesh": "FJ1473"
+    },
+    {
+      "label": "Humerus - medial epicondyle",
+      "pos": {
+        "x": "-183.5",
+        "y": "-70.1",
+        "z": "1057.0"
+      },
+      "mesh": "FJ3368"
+    },
+    {
+      "label": "Ulnar head of pronator teres",
+      "pos": {
+        "x": "-213.5",
+        "y": "-80.9",
+        "z": "1017.5"
+      },
+      "mesh": "FJ1516"
+    },
+    {
+      "label": "Coronoid process",
+      "pos": {
+        "x": "-211.7",
+        "y": "-78.2",
+        "z": "1033.9"
+      },
+      "mesh": "FJ3391"
+    },
+    {
+      "label": "Olecranon",
+      "pos": {
+        "x": "-200.1",
+        "y": "-52.3",
+        "z": "1047.1"
+      },
+      "mesh": "FJ3391"
+    },
+    {
+      "label": "Ulnar head of flexor carpi ulnaris",
+      "pos": {
+        "x": "-199.5",
+        "y": "-53.4",
+        "z": "1014.0"
+      },
+      "mesh": "FJ1518"
+    },
+    {
+      "label": "Base of 2nd metacarpal",
+      "pos": {
+        "x": "-270.5",
+        "y": "-131.0",
+        "z": "778.6"
+      },
+      "mesh": "FJ3352"
     }
   ]
 }
